@@ -1,0 +1,129 @@
+.searchInputs {
+    margin-top: 10px;
+    display: flex;
+
+  }
+  
+  .search input {
+    background-color: white;
+    border: 0;
+    border-radius: 2px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-size: 11px;
+    padding: 15px;
+    height: 40px;
+    width: 150px;
+  }
+  
+  .searchIcon {
+    height: 40px;
+    width: 50px;
+    background-color: white;
+    display: grid;
+    place-items: center;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  .searchIcon svg {
+    font-size: 35px;
+  }
+  
+  .dataResult {
+    margin-top: 1px;
+    width: 200px;
+    height: 160px;
+    font-size: 11px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow: hidden;
+    overflow-y: auto;
+  }
+  
+  .dataResult::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .dataResult .dataItem {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    color: black;
+  }
+  
+  .dataItem p {
+    margin-left: 10px;
+  }
+
+  .dataResult .dataItem:hover{
+    background-color: lightgray;
+  }
+  
+  #clearBtn {
+    cursor: pointer;
+  }
+
+  @media only screen and (min-width:768px) {
+    .search input {
+      background-color: white;
+      border: 0;
+      border-radius: 2px;
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+      font-size: 12px;
+      padding: 15px;
+      height: 40px;
+      width: 300px;
+    }
+    .dataResult {
+      margin-top: 1px;
+      width: 350px;
+      height: 180px;
+      background-color: white;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      font-size: 12px;
+      overflow: hidden;
+      overflow-y: auto;
+    }
+    .dataResult .dataItem {
+      width: 100%;
+      height: 50px;
+      display: flex;
+      align-items: center;
+      color: black;
+    }
+  }
+
+  @media only screen and (min-width:1000px) {
+    .search input {
+      background-color: white;
+      border: 0;
+      border-radius: 2px;
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+      font-size: 15px;
+      padding: 15px;
+      height: 40px;
+      width: 350px;
+    }
+    .dataResult {
+      margin-top: 1px;
+      width: 400px;
+      height: 250px;
+      background-color: white;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      font-size: 15px;
+      overflow: hidden;
+      overflow-y: auto;
+    }
+    .dataResult .dataItem {
+      width: 100%;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      color: black;
+    }
+  }

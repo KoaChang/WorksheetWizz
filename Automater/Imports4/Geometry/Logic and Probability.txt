@@ -1,0 +1,9 @@
+<File title='Truth Tables 2' img={TruthTables2} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Probability 3' img={GeometricProbability3} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Probability 2' img={GeometricProbability2} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Probability' img={GeometricProbability} link='' target='_blank' body='Download PDF'/>
+<File title='Logic Chains' img={LogicChains} link='' target='_blank' body='Download PDF'/>
+<File title='Conditional Statements' img={ConditionalStatements} link='' target='_blank' body='Download PDF'/>
+<File title='Conditional Statements 2' img={ConditionalStatements2} link='' target='_blank' body='Download PDF'/>
+<File title='Logical Reasoning' img={LogicalReasoning} link='' target='_blank' body='Download PDF'/>
+<File title='Truth Tables' img={TruthTables} link='' target='_blank' body='Download PDF'/>

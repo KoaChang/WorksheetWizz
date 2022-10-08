@@ -1,0 +1,2 @@
+<File title='Absolute Value Eqautions' img={AbsoluteValueEqautions} link='' target='_blank' body='Download PDF'/>
+<File title='Absolute Value Intro' img={AbsoluteValueIntro} link='' target='_blank' body='Download PDF'/>

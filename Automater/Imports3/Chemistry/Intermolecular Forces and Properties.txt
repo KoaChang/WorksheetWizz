@@ -1,0 +1,3 @@
+import IdentifyingIntermolecularForces from './Identifying Intermolecular Forces .jpg'
+import TypesofIntermolecularForces from './Types of Intermolecular Forces.jpg'
+import IntermolecularForcesReview from './Intermolecular Forces Review.jpg'

@@ -1,0 +1,4 @@
+import DeMoivre_sTheoremandPolarForm from './DeMoivre_s Theorem and Polar Form.jpg'
+import DistanceandMidpointComplexPlane from './Distance and Midpoint Complex Plane.jpg'
+import ComplexNumberPolarForm from './Complex Number Polar Form.jpg'
+import GraphingComplexNumbers from './Graphing Complex Numbers.jpg'

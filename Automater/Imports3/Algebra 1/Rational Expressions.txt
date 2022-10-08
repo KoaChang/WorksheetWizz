@@ -1,0 +1,8 @@
+import MultiplyingRationalExpressions from './Multiplying Rational Expressions.jpg'
+import SimplifyingRationalExpressions from './Simplifying Rational Expressions.jpg'
+import AddingSubtractingRationalExpressions from './Adding Subtracting Rational Expressions.jpg'
+import SolvingRationalEquations from './Solving Rational Equations.jpg'
+import MultiplingDividingRationalExpressions from './Multipling Dividing Rational Expressions.jpg'
+import SolvingRationalEquations2 from './Solving Rational Equations2.jpg'
+import SolvingRationalEquations3 from './Solving Rational Equations3.jpg'
+import RationalExpressionsReview from './Rational Expressions Review.jpg'

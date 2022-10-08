@@ -1,0 +1,11 @@
+<File title='Limits at Infinity' img={LimitsatInfinity} link='' target='_blank' body='Download PDF'/>
+<File title='Continuity Review' img={ContinuityReview} link='' target='_blank' body='Download PDF'/>
+<File title='Types of Disconitnuities' img={TypesofDisconitnuities} link='' target='_blank' body='Download PDF'/>
+<File title='Evaluating Limits From Tables' img={EvaluatingLimitsFromTables} link='' target='_blank' body='Download PDF'/>
+<File title='Evaluating Limits' img={EvaluatingLimits} link='' target='_blank' body='Download PDF'/>
+<File title='Continuity' img={Continuity} link='' target='_blank' body='Download PDF'/>
+<File title='Intermidiate Value Theorem' img={IntermidiateValueTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='Limits Review' img={LimitsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Limits Graphically' img={LimitsGraphically} link='' target='_blank' body='Download PDF'/>
+<File title='Limits Review 2' img={LimitsReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Limits Test' img={LimitsTest} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,3 @@
+import ConfidenceIntervalsforSlope from './Confidence Intervals for Slope.jpg'
+import TransformingtoAchieveLinearality from './Transforming to Achieve Linearality.jpg'
+import HypothesisTestforSlope from './Hypothesis Test for Slope.jpg'

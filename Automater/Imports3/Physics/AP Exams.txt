@@ -1,0 +1,4 @@
+import APPhysics2019FRQ from './AP Physics 2019 FRQ.jpg'
+import APPhysics2018FRQ from './AP Physics 2018 FRQ.jpg'
+import APPhysics2022FRQ from './AP Physics 2022 FRQ.jpg'
+import APPhysics2021FRQ from './AP Physics 2021 FRQ.jpg'

@@ -1,0 +1,4 @@
+import ThermodynamicsReview from './Thermodynamics Review.jpg'
+import FirstLawofThermodynamics from './First Law of Thermodynamics.jpg'
+import SecondLawofThermodynamics from './Second Law of Thermodynamics.jpg'
+import ThirdLawofThermodynamics from './Third Law of Thermodynamics.jpg'

@@ -1,0 +1,7 @@
+<File title='Calculus BC 2011 FRQ Exam' img={CalculusBC2011FRQExam} link='' target='_blank' body='Download PDF'/>
+<File title='Calculus BC 2008 FRQ' img={CalculusBC2008FRQ} link='' target='_blank' body='Download PDF'/>
+<File title='Calculus BC 2008 MCQ' img={CalculusBC2008MCQ} link='' target='_blank' body='Download PDF'/>
+<File title='Calculus BC 2015 FRQ Exam' img={CalculusBC2015FRQExam} link='' target='_blank' body='Download PDF'/>
+<File title='Calculus AB and BC Multiple Choice' img={CalculusABandBCMultipleChoice} link='' target='_blank' body='Download PDF'/>
+<File title='Calculus BC 2012 Exam' img={CalculusBC2012Exam} link='' target='_blank' body='Download PDF'/>
+<File title='Calculus BC 2017 FRQ' img={CalculusBC2017FRQ} link='' target='_blank' body='Download PDF'/>

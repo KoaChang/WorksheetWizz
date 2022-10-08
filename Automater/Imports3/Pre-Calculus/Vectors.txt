@@ -1,0 +1,8 @@
+import VectorDotProduct from './Vector Dot Product.jpg'
+import VectorWordProblems from './Vector Word Problems.jpg'
+import VectorsReview from './Vectors Review.jpg'
+import VectorWordProblems2 from './Vector Word Problems 2.jpg'
+import VectorsIntroduction from './Vectors Introduction.jpg'
+import VectorAddition from './Vector Addition.jpg'
+import VectorOperations from './Vector Operations.jpg'
+import VectorsComponentForm from './Vectors Component Form.jpg'

@@ -1,0 +1,4 @@
+import AtomicStructure from './Atomic Structure.jpg'
+import SigFigs from './Sig Figs.jpg'
+import DimensionalAnalysis from './Dimensional Analysis.jpg'
+import PeriodicTrends from './Periodic Trends.jpg'

@@ -1,0 +1,2 @@
+import 2012Exam from './2012 Exam.jpg'
+import PracticeExam1 from './Practice Exam 1.jpg'

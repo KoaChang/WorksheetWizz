@@ -1,0 +1,635 @@
+<File title='Chi Square Homogeneity Test' img={ChiSquareHomogeneityTest} link='https://drive.google.com/file/d/1wLlNGMrQFNiZj9DJT_XGsMP0HL0wG7vx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Chi Square Goodness of Fit and Independence' img={ChiSquareGoodnessofFitandIndependence} link='https://drive.google.com/file/d/1cMfnxnKO-aA3uyMKkY7t1l5u-3NPkS6I/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Chi Squre Goodness of Fit' img={ChiSqureGoodnessofFit} link='https://drive.google.com/file/d/1gWtZcdpavrxxDojblp6pZyPTyNEM6krW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Chi Square Tests Review' img={ChiSquareTestsReview} link='https://drive.google.com/file/d/1KJKXg2w1jwwG3JWivpGkcuFDitZgk5v5/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sampling Techniques 2' img={SamplingTechniques2} link='https://drive.google.com/file/d/1UFTQKoeeGAdTstHl63EZPM3UZiM0_XKS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sampling Techniques' img={SamplingTechniques} link='https://drive.google.com/file/d/1e_LTYDdxkiie59VIqT9H_jw7snPoSB_W/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Experimental Design' img={ExperimentalDesign} link='https://drive.google.com/file/d/1bF5hbcrgEO4zg7NynqI9eN1Qzlx6q6QI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Blocking' img={Blocking} link='https://drive.google.com/file/d/1uqOmA_leXAP5ckjprX8zukZ4-zT2cM0h/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Experimental Design 3' img={ExperimentalDesign3} link='https://drive.google.com/file/d/18N0Wa7fr3qKhHsb9FWhdL2HLLljpNXQ_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Bias and Sampling' img={BiasandSampling} link='https://drive.google.com/file/d/1rPQs9ZIpfAbeTrv7GKmEfxpy9uBorFvW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Experimental Design 2' img={ExperimentalDesign2} link='https://drive.google.com/file/d/1lsUBi7oh3NZa7fhibBZYZjBMJ8Pr4jvy/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Type 1 and 2 Error' img={Type1and2Error} link='https://drive.google.com/file/d/1k2EqRE1dMTM1EOmAMK9rt09NTZ0j3tx-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Confidence Intervals for Means' img={ConfidenceIntervalsforMeans} link='https://drive.google.com/file/d/1x5g_LwfqKEDfslzndX6-byt9yJfPdH5H/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Confidence Intervals for Means 2' img={ConfidenceIntervalsforMeans2} link='https://drive.google.com/file/d/1wnXWB9hxWIDLZRUCwsLKuZHfe3aUqUxQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Hypothesis Testing Means' img={HypothesisTestingMeans} link='https://drive.google.com/file/d/1Q0saFOq2c9q-qrAWb__tBeGEkRrzkndb/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Hypothesis Testing 2' img={HypothesisTesting2} link='https://drive.google.com/file/d/109UdVRZQFj80ojeIcricuEiH0BPoH9ym/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='https://drive.google.com/file/d/1pTL1ofHX-olj1FdMk_e9OEKZaE4t13NB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='https://drive.google.com/file/d/1PZ-9N-F-hh2dY0LrV6ylklvrCZcoxY4L/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Type 1 and 2 Error' img={Type1and2Error} link='https://drive.google.com/file/d/1k2EqRE1dMTM1EOmAMK9rt09NTZ0j3tx-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Confidence Intervals for Proportions' img={ConfidenceIntervalsforProportions} link='https://drive.google.com/file/d/1lqBqQ-zCqqcHn55e_NKdH-Tii2kojZky/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Confidence Intervals for Proportions 2' img={ConfidenceIntervalsforProportions2} link='https://drive.google.com/file/d/1xaYKE4CPu_PD_59X2YvACuAfrvXJw6_G/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='One Proportion Hypothesis Testing' img={OneProportionHypothesisTesting} link='https://drive.google.com/file/d/1nbXLyZ7idhp-PePJYk244sCBr8lHO_c0/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Two Population Hypothesis Testing' img={TwoPopulationHypothesisTesting} link='https://drive.google.com/file/d/1-egVvAbs1fwBn-bGGYaSpQb8mPGyMcBJ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inference Proportions Review' img={InferenceProportionsReview} link='https://drive.google.com/file/d/1NdAYWXmro8i8h_6KU2YIAq-5PYEC50xv/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='https://drive.google.com/file/d/1pTL1ofHX-olj1FdMk_e9OEKZaE4t13NB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='https://drive.google.com/file/d/1PZ-9N-F-hh2dY0LrV6ylklvrCZcoxY4L/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Confidence Intervals for Slope' img={ConfidenceIntervalsforSlope} link='https://drive.google.com/file/d/1gjpKm_c0gQdy0bdcMtaVkIq5lgbz3Bz-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Hypothesis Test for Slope' img={HypothesisTestforSlope} link='https://drive.google.com/file/d/1DqsAwzC0-EW-wbvA00q-2hi2YexhrAfo/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Transforming to Achieve Linearality' img={TransformingtoAchieveLinearality} link='https://drive.google.com/file/d/1dbbjv8KHKH8JIPWy0qf4rRghz3ax2ij6/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Categorical Data' img={CategoricalData} link='https://drive.google.com/file/d/1oR16KQkwCX_D83QbeMV7djwQALpshPUl/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Displaying Categorical Data' img={DisplayingCategoricalData} link='https://drive.google.com/file/d/1kzikqZGK223AzNjcPyk62n7EAC4H8Gab/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Marginal and Conditional Distribution' img={MarginalandConditionalDistribution} link='https://drive.google.com/file/d/1XLpBgel94gyqDBRy9cGvgyv2GXPosSb5/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Displaying and Describing Categorical Data' img={DisplayingandDescribingCategoricalData} link='https://drive.google.com/file/d/184-hwz-v8Rj6t-VApoTaLcCDDPh-INEA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Displaying Quantitative Data' img={DisplayingQuantitativeData} link='https://drive.google.com/file/d/1aWCuCeiRjQnKv43H1r5b-sLOkJ1Rgsgy/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Displaying Quantitative Data 2' img={DisplayingQuantitativeData2} link='https://drive.google.com/file/d/14Pc7GeSIgSm6B_YELGArjW16ouiXRfAg/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Stem and Leaf Plot' img={StemandLeafPlot} link='https://drive.google.com/file/d/1ISl1PnV-COjSXFfaWGM9py6cIJPSAHkQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Histogram and Box Whisker Plot' img={HistogramandBoxWhiskerPlot} link='https://drive.google.com/file/d/1i0MF56cro6KCb_DODV7mT2k0qqm2VzGX/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Histogram, Bar Graph, Table' img={HistogramBarGraphTable} link='https://drive.google.com/file/d/1K4xFdLFDbQ_RoF4p3myapOQMxPGbN8tl/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Normal Distributions' img={NormalDistributions} link='https://drive.google.com/file/d/17P5_WEb0GIXVcooedDmpVsgyDdvDTEMP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Location in Distribution' img={LocationinDistribution} link='https://drive.google.com/file/d/19clgj3osXP74kmj_db2wNdcieUw9k3J3/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Transforming Data and Density Curves' img={TransformingDataandDensityCurves} link='https://drive.google.com/file/d/13SImPVkxy38-WwPMpOGtIXS1QjhXqeBp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Calculating Variance and Standard Deviation' img={CalculatingVarianceandStandardDeviation} link='https://drive.google.com/file/d/1mDczRb-Ver0AJ8Ni-9rVjnSjtq3VmGJf/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Calculating Standard Deviation' img={CalculatingStandardDeviation} link='https://drive.google.com/file/d/167ecOvU1roT2lkHtOe3eVRMAXcA-94yw/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Probability Intro' img={ProbabilityIntro} link='https://drive.google.com/file/d/1Sjn8rm9DHrjCTNg4fiLU_R7FWeGu0JUG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplication Rule Independent Events' img={MultiplicationRuleIndependentEvents} link='https://drive.google.com/file/d/1bSfakHBDOEKL9XBSJWGjV6DYU9Jt96gD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conditional Probability' img={ConditionalProbability} link='https://drive.google.com/file/d/1p-Po-dN6-aige3ZOiokAvlzjIYl7-eWG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conditional Probability 2' img={ConditionalProbability2} link='https://drive.google.com/file/d/1asCSj-g62LfRTM9KfD398LoIfNupVnLZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Binomial Probability' img={BinomialProbability} link='https://drive.google.com/file/d/1e6fNEOtV2j1ghGI2ex2bqpctvajhXkKB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Binomial Distributions' img={BinomialDistributions} link='https://drive.google.com/file/d/1kzKXBJlK5SPZI6zG5SN2Vt-FGpw9_XG2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Binomial Distributions 2' img={BinomialDistributions2} link='https://drive.google.com/file/d/1VQJAW8V9pwhSnhgeqorm-MUaJkWbaS00/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Permutations vs Combinations' img={PermutationsvsCombinations} link='https://drive.google.com/file/d/1zZKf8iLPXoxqbFk3pdCbhjGxSDarshez/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Probability Review' img={ProbabilityReview} link='https://drive.google.com/file/d/1igQREI5n0TBm9G9nXWQWsiMgVGivNOj0/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Random Variables and Expected Value' img={RandomVariablesandExpectedValue} link='https://drive.google.com/file/d/1HhyM20EZ9VJPsWBKp3W5YKF-d3nC8XS_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Random Variables' img={RandomVariables} link='https://drive.google.com/file/d/1sT7Z7ZQQ69KBdF9QQnoFhKnhSyIppZ43/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Random Variables 2' img={RandomVariables2} link='https://drive.google.com/file/d/10KPjiKMorhyEaW7MwT9SxExSgzWAWEQc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Transformation of Random Variables' img={TransformationofRandomVariables} link='https://drive.google.com/file/d/1GXAqrF2tzUiKy2fcBglQTMyGv5tD-GPp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sampling Distributions' img={SamplingDistributions} link='https://drive.google.com/file/d/1rXUodpSWlsz7NacqTHFcn7cZMhV3gzYw/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sampling Distributions 2' img={SamplingDistributions2} link='https://drive.google.com/file/d/1isBOznylBX-OnYrbq9uHgJ5Ihkx9FEAD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sampling Distribution of the Sample Mean' img={SamplingDistributionoftheSampleMean} link='https://drive.google.com/file/d/1CUQeIbNS6AV7FyJzPUNdpzdrYsI5pTQW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sample Proportions and Means' img={SampleProportionsandMeans} link='https://drive.google.com/file/d/1ipbtTJb-MTO4txBQmxBKGCXpDn5qOGkx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Central Limit Theorem' img={CentralLimitTheorem} link='https://drive.google.com/file/d/1WFY-RyZUKulE59bwnKjFo4_rhMO8mbQ6/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Central Limit Theorem 2' img={CentralLimitTheorem2} link='https://drive.google.com/file/d/1BEM5QGdJ_Lv_irBSFRk6S8ZRrZ9vt-pg/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Pascals Triangle' img={PascalsTriangle} link='https://drive.google.com/file/d/1w9CDitf5eG8_miR3D1bIuyIZIGwzhc0B/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Pascals Triangle 2' img={PascalsTriangle2} link='https://drive.google.com/file/d/1DODITq7POMcqC6aznvHWBUXTWUcSCOHz/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Pascals Triangle 3' img={PascalsTriangle3} link='https://drive.google.com/file/d/1lSspc3-qNggxIFBKf3eZSF8Egm0w3EQA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Binomial Theorem' img={BinomialTheorem} link='https://drive.google.com/file/d/1ATwRNdS24n0K9lmIt0xaF0V3vTvbI7sU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Binomial Theorem 2' img={BinomialTheorem2} link='https://drive.google.com/file/d/1Avsx2tDccuq3genQUrnuKxtDryGsnAJE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Binomial Expansion Review' img={BinomialExpansionReview} link='https://drive.google.com/file/d/1ScWnnCuq8Vvs09MCc4sEnbXv9k45hgZU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Complex Numbers' img={GraphingComplexNumbers} link='https://drive.google.com/file/d/1RJ9uXy9IO7FzwHOYUdeON3Nquny3hZ9z/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Complex Number Polar Form' img={ComplexNumberPolarForm} link='https://drive.google.com/file/d/1Du5ElXCUqm2BdHvG5nY3kF305Mc0JUF1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='DeMoivres Theorem and Polar Form' img={DeMoivre_sTheoremandPolarForm} link='https://drive.google.com/file/d/1P1xms7RsVMEtm7RzuHBFbuRGzyJ2gKyU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Distance and Midpoint Complex Plane' img={DistanceandMidpointComplexPlane} link='https://drive.google.com/file/d/1NASXYvEeAdSqHe70UfPPcgnZnl7jhNnU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Circles' img={Circles} link='https://drive.google.com/file/d/1KJNZtOeVipm6ApMZYChc3AQ4qMm4OE9Y/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Ellipses' img={Ellipses} link='https://drive.google.com/file/d/1iDmPYqaz_6IeYKS0k1GF92-8nIDICoVG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Hyperbolas' img={Hyperbolas} link='https://drive.google.com/file/d/1NGkyHSEjSB1CR6Njq9eKcKHrwma3Q1rl/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parabolas' img={Parabolas} link='https://drive.google.com/file/d/1Az544HN3Dbcd1Geckm6ClMijQ3apkCY1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Classifying Conic Sections' img={ClassifyingConicSections} link='https://drive.google.com/file/d/1qpfsx7VVwNqgSgDDsNioHU7-j7CjUJq9/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conic Sections Review' img={ConicSectionsReview} link='https://drive.google.com/file/d/1CIWQmq_uW3ALGsNpXMxWrdTiVXk4b_yy/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conic Sections Review 2' img={ConicSectionsReview2} link='https://drive.google.com/file/d/1sixfvXvwfrGgb_qPXMgqFDAMoRVjbSUC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conic Sections Word Problems' img={ConicSectionsWordProblems} link='https://drive.google.com/file/d/1AhRTl5rUVidJ4XqNsdOPHuPBa2NS5ulu/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inverse Functions Review' img={InverseFunctionsReview} link='https://drive.google.com/file/d/1cQGNaI3XKiOaFzLEeRaJ7wxl9MZjZSSZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='One To One Functions' img={OneToOneFunctions} link='https://drive.google.com/file/d/1TIMTFA72eNpBithil8pbi4AkkRYTkFZA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Finding Inverse Functions' img={FindingInverseFunctions} link='https://drive.google.com/file/d/1W4h1s9kub23eECQPycGhe5qSjpfgLJpL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Verifying Inverses' img={VerifyingInverses} link='https://drive.google.com/file/d/15wmqo6q9VzO76rOeUMh-5D4O1vFoQAUA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Adding and Subtracting Matrices' img={AddingandSubtractingMatrices} link='https://drive.google.com/file/d/10nrBOBDF4hDD-hMCZdqolZaRtyqUXrQW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Matrix Multiplication' img={MatrixMultiplication} link='https://drive.google.com/file/d/1_gxYCPOSkoWPQPdETgOSGsXj4NaAG6iP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Determinants, 2x2' img={Determinants2} link='https://drive.google.com/file/d/16PUkbIj_2A8gzHhYmNZ1HJdatXoISM7E/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Determinants, 3x3' img={Determinants3} link='https://drive.google.com/file/d/1Z1wXwYpXmtBIIhSFOp2cq-HIq0Zc2ECP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inverse Matrices' img={InverseMatrices} link='https://drive.google.com/file/d/1s21p2qBkD91rWKfcCqpFILaA__bRjzi_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems with Matrices' img={SystemswithMatrices} link='https://drive.google.com/file/d/1RgdCSr5yhDhVYhZb-2qVc3GLEmYFfpa8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Matrices Review' img={MatricesReview} link='https://drive.google.com/file/d/16d9ju-wmz02Fj89Li-bRxoBaRaiXWgHd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polar Coordinates' img={PolarCoordinatesF} link='https://drive.google.com/file/d/1C_1njJXR6ec9CSRV3sow4HwN9QpR9G_0/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polar Coordinates Review' img={PolarCoordinatesReview} link='https://drive.google.com/file/d/12xdqR2xPR5QQeEhn29hCD5t7I42SZYEf/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polar Coordinates Review 2' img={PolarCoordinatesReview2} link='https://drive.google.com/file/d/1_TYZ8-67U87sBFfpo0MftI65eti1fFCb/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polar to Rectangular' img={PolartoRectangular} link='https://drive.google.com/file/d/13B3U1PN9_g_m66scFoT4XLCrDflcjbRB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polar to Rectangular Equations' img={PolartoRectangularEquations} link='https://drive.google.com/file/d/1wd3LV1_9uiOiiOecG8d6U1O7GEcPW55D/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rational Functions End Behavior' img={RationalFunctionsEndBehavior} link='https://drive.google.com/file/d/1gxLqvNaN0I1mxQmS_1JW-cHCIE6Qn7mf/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rational Functions End Behavior 2' img={RationalFunctionsEndBehavior2} link='https://drive.google.com/file/d/1HUQD9NtZiPBmBrFnRrqag8A3QvWF8M2E/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rational Functions Review' img={RationalFunctionsReview} link='https://drive.google.com/file/d/1doUQ56QGD2GoDbaPpkQqdIV2E2jD_CI6/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rational Functions Word Problems' img={RationalFunctionsWordProblems} link='https://drive.google.com/file/d/1MZQVc6-XGvkQ4td_WgZDKwr1Ufu7y4ta/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Discontinuities Rational Functions' img={DiscontinuitiesRationalFunctions} link='https://drive.google.com/file/d/122qAuVh6wDt1B-nYyoIdzKdaFubbF9GW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Rational Functions' img={GraphingRationalFunctions} link='https://drive.google.com/file/d/1VeE0gCNMxFenTY3P98iiSxfc4wisPflZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Partial Fraction Decomposition' img={PartialFractionDecomposition} link='https://drive.google.com/file/d/1pUbqhMdEIhpx_X42e3dR0GA67-tfuq_D/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Rational Functions' img={PropertiesofRationalFunctions} link='https://drive.google.com/file/d/1vWdrnJXJ5axbzFVVURYc-K0ARDUZUHtC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Arithmetic Sequence' img={ArithmeticSequence} link='https://drive.google.com/file/d/1Nbv9mTAZVpgAyr_Lze6ISLQVtVkOIclg/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Arithmetic Sequence and Series' img={ArithmeticSequenceandSeries} link='https://drive.google.com/file/d/1XhiRuc_fZqbOeHntr_21AJBSYoS1hrYr/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Arithmetic Series' img={ArithmeticSeries} link='https://drive.google.com/file/d/1qsMA0Ufyx2bsyX3sgUyr37IiXS4B6hwd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometric Sequences' img={GeometricSequences} link='https://drive.google.com/file/d/1hDMOXFVs81dglCxnMcp9Bu4722oZV0RS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometric Series' img={GeometricSeries} link='https://drive.google.com/file/d/1Typ_aX9ZTr2_pbKA9WTp0LCRt31NF-Me/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometric Sequences and Series' img={GeometricSequencesandSeries} link='https://drive.google.com/file/d/1Px5ACj7wXqv8sTewbm1hU0egOMZt4Lnl/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sequences and Series Review' img={SequencesandSeriesReview} link='https://drive.google.com/file/d/1Hoq44qXXtpniEjLRYdDz0W7kluoiZWx-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Series Review' img={SeriesReview} link='https://drive.google.com/file/d/1-i9e2xgArnBPAEKKu0qnrQXsvytaT70S/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sequences and Series Properties' img={SequencesandSeriesProperties} link='https://drive.google.com/file/d/1cQGNaI3XKiOaFzLEeRaJ7wxl9MZjZSSZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vectors Introduction' img={VectorsIntroduction} link='https://drive.google.com/file/d/1yzpRB2BtsDJ_UHbsVUoLlSb9xOUZoqnj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vector Addition' img={VectorAddition} link='https://drive.google.com/file/d/1c3tVsd7o-9AMc9tTJaWEJbtKfdX35TbH/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vector Operations' img={VectorOperations} link='https://drive.google.com/file/d/1IK5k07QdTEj45K0TJeKbyPz5SmTeaSEO/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vectors Component Form' img={VectorsComponentForm} link='https://drive.google.com/file/d/1sWOWw-lP6kfmx2MDB_6M1BQ_EZmMPlla/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vector Dot Product' img={VectorDotProduct} link='https://drive.google.com/file/d/1CJNOVxQs_qHMJ3y6lo3wNX6gm7ih6PIO/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vector Word Problems' img={VectorWordProblems} link='https://drive.google.com/file/d/1pkRsCJNFtDLhtqSfojdz2k_OL9fv_5Li/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vector Word Problems 2' img={VectorWordProblems2} link='https://drive.google.com/file/d/1Hs_NBgA9U12AJuaIWqS0a9ooeV9NvNZc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Vectors Review' img={VectorsReview} link='https://drive.google.com/file/d/1AUMNREw1kv5-VhhPSVAccqeV-you-wtK/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Single Digit Addition' img={SingleDigitAddition} link='https://drive.google.com/file/d/1zEkQi6oajpc1KNIS1ysHpJ6iO6q6rhFI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Two Digit Addition' img={TwoDigitAddition} link='https://drive.google.com/file/d/1RQoGzWt6egsjb8M49M3QXTg5yfHXZjcd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Three Digit Addition' img={ThreeDigitAddition} link='https://drive.google.com/file/d/1Lod6uGLedpR4UVTkGIdxoeLyei-clqvS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Four Digit Addition' img={FourDigitAddition} link='https://drive.google.com/file/d/1aHpy6eBJfShPbD9WF3JbXvDsgwwaTrbo/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Five Digit Addition' img={FiveDigitAddition} link='https://drive.google.com/file/d/1ARXKamn0BjGL2a3qaX9_BqN-hqVj6wEm/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Addition Word Problems' img={AdditionWordProblems} link='https://drive.google.com/file/d/1wTVR2PWWGZ1iQCLE3L3cSfYp0Jk78jSB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Large Number Addition' img={LargeNumberAddition} link='https://drive.google.com/file/d/17yhy9ovPjc8L_IX-BVH9-D74_nL4AYEj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Mad Minute Addition' img={MadMinuteAddition} link='https://drive.google.com/file/d/1aSUymFSDXNoT_qDll8zmEGNcKetRzG-g/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Decimals Place Value' img={DecimalsPlaceValue} link='https://drive.google.com/file/d/1CAn5Dv8dneSf1rim55uImC2UMUoJRLJf/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rounding 2' img={Rounding2} link='https://drive.google.com/file/d/1uFxgB9yNs6VkniedQF8w5pJhDXdmusoI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Adding Decimals' img={AddingDecimals} link='https://drive.google.com/file/d/1MD0swWycwza5br1CI3_mrdzfe5aV4wMd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Decimal Matching Place Value' img={DecimalMatchingPlaceValue} link='https://drive.google.com/file/d/10_rg8A35eg3SOjuQB73Ep4Ih42aWKc8w/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Expanded Form Place Value' img={ExpandedFormPlaceValue} link='https://drive.google.com/file/d/1H-_RWVd78knD0Wx6qKmRjMxxW_1as4rp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Standard Form Place Value' img={StandardFormPlaceValue} link='https://drive.google.com/file/d/1gSHEYzxEHyGOpl7sxo3Q4VyZXYdBTbDU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Missing Place Value' img={MissingPlaceValue} link='https://drive.google.com/file/d/1CnlkO2MQm0dprKNEaJVNZC4kIhmSAnEw/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Decimal Word Problems' img={DecimalWordProblems} link='https://drive.google.com/file/d/1RNEmQHkW1kH1a-QevLuHf74SaSHE6Z4p/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Place Value Chart' img={PlaceValueChart} link='https://drive.google.com/file/d/1-hHrsvWY2BiYGW1qMOpE56oiOyjaF7Tx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Operations with Decimals Review' img={OperationswithDecimalsReview} link='https://drive.google.com/file/d/1JOECOwlx12N6SJezJKFs9uRiz5ZF6S9z/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Decimals' img={MultiplyingDecimals} link='https://drive.google.com/file/d/1c7zEWCKZJo4F_VUHJgGAyjd00yaGQKw5/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Decimals Review' img={DecimalsReview} link='https://drive.google.com/file/d/14Q_PNGjRdaCQdn6za0Dyg3-j7ecW5W0_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Subtracting Decimals' img={SubtractingDecimals} link='https://drive.google.com/file/d/1dFyCi7EgDpXRwbE7YwUV45_U4J8WiBsC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Word Names Place Value' img={WordNamesPlaceValue} link='https://drive.google.com/file/d/18Jr2aUKwUsFBfIMHFF842r90xcOP5o-H/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Mixed Word Problems 2' img={MixedWordProblems2} link='https://drive.google.com/file/d/1ru-9OPAa_KfJRMoBY7bOq_m1HJDUUIJc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Division with Remainder' img={DivisionwithRemainder} link='https://drive.google.com/file/d/19RDquexWfFkq8WK5BPS_vfqq7D83bb2X/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Four Digit Division' img={FourDigitDivision} link='https://drive.google.com/file/d/1yYHd43a3LS4doV-flr9Mbi8I7AUaoYnm/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Mixed Word Problems' img={MixedWordProblems} link='https://drive.google.com/file/d/1pmoouJPAr9SmHHq7hY2iro5sYx5kxDZy/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Four Digit Division Remainder' img={FourDigitDivisionRemainder} link='https://drive.google.com/file/d/1yYHd43a3LS4doV-flr9Mbi8I7AUaoYnm/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Mental Division' img={MentalDivision} link='https://drive.google.com/file/d/1mOp6h96u4NvriAlVx67Gld8m-OHPLZur/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Three Digit Division Remainder' img={ThreeDigitDivisionRemainder} link='https://drive.google.com/file/d/1PO6KLd6-8pN5dyqWgKjKNKwo5iN9MnqU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Three Digit Division' img={ThreeDigitDivision} link='https://drive.google.com/file/d/1xu57PPuDh-3BgR3VokTjYrQUB5GI9lQH/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Division Word Problems' img={DivisionWordProblems} link='https://drive.google.com/file/d/1hZ9chA2fPnpXNpZ1Pyk7s1_NVcPmPbXT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Two Digit Division' img={TwoDigitDivision} link='https://drive.google.com/file/d/1A4PB7LSFF0q5X8DtZt8uDd71ckV6FSqE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Factor Trees' img={FactorTrees} link='https://drive.google.com/file/d/1VNcIt_xKS24ohR2eIuH7bBEg6-GFEZT7/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiples' img={Multiples} link='https://drive.google.com/file/d/1q8GiS0zSBWUDo67bgnG5WwbFRqf8dmK8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Least Common Multiple' img={LeastCommonMultiple} link='https://drive.google.com/file/d/1hb3tiGWrCkX8RVrz8M25FM4WYe8rf5pV/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Factors' img={Factors} link='https://drive.google.com/file/d/1l6w8d5Ta-WPrtpRsD7eHvIk03DPvsNMc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Prime Factorization' img={PrimeFactorization} link='https://drive.google.com/file/d/11kHj0XcUpDf8JAX44hmra2MNcaS5WghX/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Fraction Word Problems 3' img={FractionWordProblems3} link='https://drive.google.com/file/d/1v-y72mfG-2lblGBmL9DBtOcniWO2fvZ4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiply Mixed Numbers' img={MultiplyMixedNumbers} link='https://drive.google.com/file/d/1wlr9P2p1TwOLV56a48uChCEV9sUoTQle/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Fraction Word Problems 2' img={FractionWordProblems2} link='https://drive.google.com/file/d/1-nGTXrGfBzntnmZY-V8bhDauXWzb_lEP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Fractions Review' img={MultiplyingFractionsReview} link='https://drive.google.com/file/d/1c5rD9xaR4x_y1FSadmqwOvaxGDS9gKQu/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dividing Fractions Review' img={DividingFractionsReview} link='https://drive.google.com/file/d/10TJZHpdw7tgGBrsBWdzkZrtxKR35rwFi/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Add Unlike Fractions' img={AddUnlikeFractions} link='https://drive.google.com/file/d/1dlmtaBcVy8murQqnXDd2qg553-aHl_CU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dividing Mixed Numbers' img={DividingMixedNumbers} link='https://drive.google.com/file/d/1Ky7yz6GB8JiV8h0G7YYY9J08TfLtHEFb/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Fraction Word Problems' img={FractionWordProblems} link='https://drive.google.com/file/d/1hEBUgtoIo5V6OSIGw5Emst9OqK9BZFLQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Add Mixed Numbers' img={AddMixedNumbers} link='https://drive.google.com/file/d/1mwvar-zjvTLGoPqQ6g22djab-FLp866g/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Subtract Like Fractions' img={SubtractLikeFractions} link='https://drive.google.com/file/d/1vYR6ZtI4qbYXphLn8LgyjodofgC_ezT-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Subtract Mixed Numbers' img={SubtractMixedNumbers} link='https://drive.google.com/file/d/1Jjtw_QcHOzwfwWn-78odm5YhhwVPWrli/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Add Like Fractions' img={AddLikeFractions} link='https://drive.google.com/file/d/14A7gCxuS826ECzUTW8pP6lhcm0dcRvqJ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Fractions' img={MultiplyingFractions} link='https://drive.google.com/file/d/1Yhh3ho-vy10W4UInqzILJj7C-08kKutF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Subtract Unlike Fractions' img={SubtractUnlikeFractions} link='https://drive.google.com/file/d/1nErdtXIQROMRbWpVAs6Lv2_bYUy-rR4D/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Times Tables' img={TimesTables} link='https://drive.google.com/file/d/1LSYkJDxjfUCo0yci3Py6QjxcowOAqcbz/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplication Times Tables' img={MultiplicationTimesTables} link='https://drive.google.com/file/d/1O3pnAKLedryxQEfLPARfppA9YN_UlP7a/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Two Digit Multiplication' img={TwoDigitMultiplication} link='https://drive.google.com/file/d/1zhJXkZXY9DpDfG5qM39F7r_XcJRJVGcA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Three Digit Multiplication' img={ThreeDigitMultiplication} link='https://drive.google.com/file/d/1rLqEdHZwQR1R2E2ZV5Ajjkib4Vx431Za/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Four Digit Multiplication' img={FourDigitMultiplication} link='https://drive.google.com/file/d/1v05RKcFfN1TuLtxTU-LdIytGb_tzEN2w/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Large Numbers' img={MultiplyingLargeNumbers} link='https://drive.google.com/file/d/1BBaa8uSG-oTCfG1QICtmWGGbNJE0R8se/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplication Word Problems' img={MultiplicationWordProblems} link='https://drive.google.com/file/d/1aT7XW1gqf92sYMBdL6P3IAbQm6KkjB5b/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Negative Number Operations' img={NegativeNumberOperations} link='https://drive.google.com/file/d/1AD5UnttAIAUumo2EeSMh7cUW79CUwUN8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integer Word Problems' img={IntegerWordProblems} link='https://drive.google.com/file/d/1tXX3oCDeLibD9b7euUEm83mpMmKYSlBj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Adding and Subtracting Integers' img={AddingandSubtractingIntegers} link='https://drive.google.com/file/d/1Va8K_IQW0k1kfqu6xeOFXjCXrurrda-F/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Order of Operations 3' img={OrderofOperations3} link='https://drive.google.com/file/d/1NfdpGIbJFVJEeyJcmELdQ4lUjH79EIET/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Order of Operations' img={OrderofOperations} link='https://drive.google.com/file/d/12nRRhrpH1wDfvsKuJfh5e9hAjnOit2FP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Order of Operations 2' img={OrderofOperations2} link='https://drive.google.com/file/d/1kdyiD0NCiGjRkQDFzdcY231G6UbyKl_r/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Order of Operations 5' img={OrderofOperations5} link='https://drive.google.com/file/d/12VENQOKC9kW_9FIbG7mMpb9lGS4cgVOM/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Order of Operations 4' img={OrderofOperations4} link='https://drive.google.com/file/d/1W7l2WVP7EB8DszXAcanRmhxBu1tAXzq8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Order of Operations 6' img={OrderofOperations6} link='https://drive.google.com/file/d/1JhFIbY9InXlDSkg9mdoXDUlGO50NrFKC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Order of Operations 7' img={OrderofOperations7} link='https://drive.google.com/file/d/1ywrZC2t2-j7bmrw8vJDB8sK5sHeVfvPm/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Percents Review' img={PercentsReview} link='https://drive.google.com/file/d/1quDxOYSq2N-djY5O1B6HuY5ln1OaLppO/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Percent Word Problems' img={PercentWordProblems} link='https://drive.google.com/file/d/14SKCdq-5ke9dfL9ihs-Erz96gViY6r6e/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Percent Change 2' img={PercentChange2} link='https://drive.google.com/file/d/1GDXgXDlY23oHyh0bh2LwU1xlgb1f6iWP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Fractions, Decimals, and Percents' img={FractionsDecimalsPercents} link='https://drive.google.com/file/d/1SpYC_yJQOOFNZMRWpwdWbBtY0Wa_fD9r/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Percents Review 2' img={PercentsReview2} link='https://drive.google.com/file/d/17wNpmhxOaMGIGRiBlbFb8vAj1Qi-I94_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Percent Change' img={PercentChange} link='https://drive.google.com/file/d/1kQ8Lv6P-5iZPcINF93YsmA_R_klUNNzY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Percent Problems' img={PercentProblems} link='https://drive.google.com/file/d/1Wtx-MIfly12eR0O2NdRg7qwSkGd6G0YE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dividing by Powers of 10' img={DividingbyPowersof10} link='https://drive.google.com/file/d/1xXrYUoTAqwty2fC1nSUlJlVFusuK4FY8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Evaluating Powers of 10' img={EvaluatingPowersof10} link='https://drive.google.com/file/d/1wePd3LvG7lpphIeVepiqu9QfXCCnt6JP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying by Powers of 10' img={MultiplyingbyPowersof10} link='https://drive.google.com/file/d/1ql1pxyKeIVwGskc-cRZZXkUjTgwUzQyT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Scientific Notation' img={ScientificNotation} link='https://drive.google.com/file/d/1ZY2lmbaWm0ChhdGYVIeopITO5es1BjMH/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Scientific Notation 2' img={ScientificNotation2} link='https://drive.google.com/file/d/1e07FjvHpz_dpyW5VzEgkJ-l106Bl3Uye/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Identifying Proportional Relationships' img={IdentifyingProportionalRelationships} link='https://drive.google.com/file/d/15y_ydaQjQzMhVpaA8qlwVHb68ThDPdXi/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Constant of Proportionality' img={ConstantofProportionality} link='https://drive.google.com/file/d/1GyAU2B5ON2Jfe3sbb1t4Fr5T-ohkdA20/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solving Proportions 2' img={SolvingProportions2} link='https://drive.google.com/file/d/1EBKVYFf74guMWWrCw-z9B-3AkRmP_c2_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solving Proportions' img={SolvingProportions} link='https://drive.google.com/file/d/1sl9g02xIrqzin0Lb8SZr8HfbM4n3Dh-N/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Constant of Proportionality Graph' img={ConstantofProportionalityGraph} link='https://drive.google.com/file/d/1btzdaUEXEP9hoFoihl6x8iPcldZm1sO_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Proportions Word Problems' img={ProportionsWordProblems} link='https://drive.google.com/file/d/1S4EfBu8zuW0dtFx4AKrT-4bw4P4Z3ANL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Proportions Word Problems 2' img={ProportionsWordProblems2} link='https://drive.google.com/file/d/1WgUcLzWWpCRRLlZLXQuoigynTDdjuZEp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Finding Unit Rate' img={FindingUnitRate} link='https://drive.google.com/file/d/1F14lDbxP70Rq-FAbN2RDyS13cxS63O0s/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Ratio and Rates' img={RatioandRates} link='https://drive.google.com/file/d/1IwvLpHATXls9hqXx6jachVDmh9nNY0rP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Ratios and Rates Word Problems' img={RatiosandRatesWordProblems} link='https://drive.google.com/file/d/1bpXx0RZoNh0JFAg9WxG-9SIZHQVx3-DG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Unit Rate' img={UnitRate} link='https://drive.google.com/file/d/1EDa8Yrw45bknqZaJypouerzmMSnY12xx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Unit Conversion' img={UnitConversion} link='https://drive.google.com/file/d/1hSZP_gbP42WS5cuA1wBqfGMe5v3t0a29/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Equivalent Ratios' img={EquivalentRatios} link='https://drive.google.com/file/d/1GcdCrBsEXmU9tO-KAJ42vK6hByv3BU04/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Two Digit Subtraction' img={TwoDigitSubtraction} link='https://drive.google.com/file/d/1DluC1TUvAzJpYuEhjom3bhuFpEMSbOZR/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Three Digit Subtraction' img={ThreeDigitSubtraction} link='https://drive.google.com/file/d/1_Vect-uWckUfPf8Atj3CuBm-6y1W7aaD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Four Digit Subtraction' img={FourDigitSubtraction} link='https://drive.google.com/file/d/14WZaX_xBt_y88SerKFqnbZJ2iZv_tWk2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Five Digit Subtraction' img={FiveDigitSubtraction} link='https://drive.google.com/file/d/1y_cwJWY35npw_SZ9QHL9UMwvzObrv-7H/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Large Number Subtraction' img={LargeNumberSubtraction} link='https://drive.google.com/file/d/1y6U4n02uSgVQOLxkrRkm9tW4-N6DKBOL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Subtraction Word Problems' img={SubtractionWordProblems} link='https://drive.google.com/file/d/1LJpcnXFJ7i97swD7xWlakfRFn_f9ZRXI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Number Patterns' img={NumberPatterns} link='https://drive.google.com/file/d/1PeVV8SCFsO_wby_JQxKbJKmnQNsdKTPx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Number Patterns 2' img={NumberPatterns2} link='https://drive.google.com/file/d/15hnrG9yNkVs-NFrqvbQk5GmnuwCRvGBJ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Evaluating Expressions' img={EvaluatingExpressions} link='https://drive.google.com/file/d/1tSKVVRQe28fk8PTA_0MWDWtmxG69Tl6K/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Evaluating Variable Expressions' img={EvaluatingVariableExpressions} link='https://drive.google.com/file/d/1f-FVewGBuUTSsMQMMvT_dAgsDGFcTylG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Mad Minutes' img={MadMinutes} link='https://drive.google.com/file/d/1igaY_QLmpafZ2_v-_erHrB6AapMyrDHF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Completing Patterns' img={CompletingPatterns} link='https://drive.google.com/file/d/1haVmFC5dvY56pKH0YcCsXGUcAQjTEfbF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parts of an Expression' img={PartsofanExpression} link='https://drive.google.com/file/d/1TOxzAPCPbE82R-cLE_8ZF7NybFW8nATQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parts of an Expressions 2' img={PartsofanExpressions2} link='https://drive.google.com/file/d/1JkKbveGBimF4fZPLvacvv4xecNBU4fO2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='AP Physics 2019 FRQ' img={APPhysics2019FRQ} link='https://drive.google.com/file/d/1arpIY08HCPzePG2w23ti0SA6o-oOjZT-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='AP Physics 2018 FRQ' img={APPhysics2018FRQ} link='https://drive.google.com/file/d/1FmxEM6u0G-mhBOv1Tx8bm5gF0zn9-Uqd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='AP Physics 2022 FRQ' img={APPhysics2022FRQ} link='https://drive.google.com/file/d/1eLcJNG3WNJC_uzlAqd-biwXczu1jtv3z/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='AP Physics 2021 FRQ' img={APPhysics2021FRQ} link='https://drive.google.com/file/d/1T68Z22qH4iVPL31GkFEkCmIupa8faOR7/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Circular Motion' img={CircularMotionF} link='https://drive.google.com/file/d/1q7J2eJM5fg1Tdj2joM5FOq5-G3S0HG-b/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Circular Motion and Centripetal Acceleration' img={CircularMotionandCentripetalAcceleration} link='https://drive.google.com/file/d/1yeLog2y5aWJ9Bel0AE-q6AaN5MP1qPSu/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Universal Law of Gravitation' img={UniversalLawofGravitation} link='https://drive.google.com/file/d/1pZi5uW0107B9I5BXI_RV2c1maGGG7C4x/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dynamics Set' img={DynamicsSet} link='https://drive.google.com/file/d/1COvLwZVQSIz9AfzIH-jgZl43aq9a9pVV/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Newtons Second Law' img={NewtonsSecondLaw} link='https://drive.google.com/file/d/1seVRPZFzU8OFllx-Gdyv5IyZD-xLOHdD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Free Body Diagrams' img={FreeBodyDiagrams} link='https://drive.google.com/file/d/1auRiggaHWFdTvRB_YM4Tx3V0R5_TPbJa/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Newtons First Law' img={NewtonsFirstLaw} link='https://drive.google.com/file/d/1l8jPj5MYH0A8qA2qUoEV3hqnDXa2yr9y/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Newtons Third Law' img={NewtonsThirdLaw} link='https://drive.google.com/file/d/1LZ77BtVWpLB1kSu_C2glf_dIx-bTaXU1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Work and Power' img={WorkandPower} link='https://drive.google.com/file/d/1QFN3nerkHc6AghLkJuMAjqBAFHe4z61f/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Potential and Kinetic Energy' img={PotentialandKineticEnergy} link='https://drive.google.com/file/d/1w7uHbEIT0Meu3VpcMcLhVs57-jmV5xFG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Elastic Potential Energy' img={ElasticPotentialEnergy} link='https://drive.google.com/file/d/17BioFx-dvod_pK3TB2A2K565v9Q7Vt-2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conservation of Energy' img={ConservationofEnergy} link='https://drive.google.com/file/d/1wfcQicg1ImDT-41txO3LsAP50sO_grGX/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Kinematics Equations' img={KinematicsEquations} link='https://drive.google.com/file/d/1CxhuTHX8ohr2MMWNxvu5k8B7UBKLfwUn/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Kinematics Review' img={KinematicsReview} link='https://drive.google.com/file/d/1XpI3pXL-JVI6tK5TOwL42Yu4ufeYpmzD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Projectile Motion' img={ProjectileMotion} link='https://drive.google.com/file/d/13AXvmdFuk5LRWcZG7SFYG-qyGuYi4x_i/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conservation of Momentum' img={ConservationofMomentum} link='https://drive.google.com/file/d/1NeBoYUIoSbLpl9Aiy11LSoU9Oi2ALATa/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conservation of Momentum 2' img={ConservationofMomentum2} link='https://drive.google.com/file/d/1gNyUwYAKRkY7cy1roW9MinMu9_5Z7a2f/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Collision Practice Problems' img={CollisionPracticeProblems} link='https://drive.google.com/file/d/1SohRfnrQRo5w1V2ibgoc0wE-oUA_UD15/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Impulse' img={Impulse} link='https://drive.google.com/file/d/1mQxF8eDzde8kD1w-stzlv1m879rU9b6j/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Elastic and Inelastic Collisions' img={ElasticandInelasticCollisions} link='https://drive.google.com/file/d/11duR8Lm7RivgsKmpN-f55Djq-10j4N-W/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simple Harmonic Motion' img={SimpleHarmonicMotion} link='https://drive.google.com/file/d/1hrN1VmJOxeVLEzy-rzqR0QcB8pTVX2My/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simple Harmonic Motion 2' img={SimpleHarmonicMotion2} link='https://drive.google.com/file/d/1qy5kNi-03BJG9QZuidoxDwEkBtfGNT9t/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Angular Momentum' img={AngularMomentum} link='https://drive.google.com/file/d/1hm5xPGZd9iwaWDViATU0IfBeu6VEfWUw/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Angular Impulse' img={AngularImpulse} link='https://drive.google.com/file/d/1hmd4d186pwWqWCyKmjPMIYresOlHyOil/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rotational Kinematics' img={RotationalKinematics} link='https://drive.google.com/file/d/1uLjufCPH2eCkKsO-JtZBVQZprZkbA6AL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Torque' img={TorqueF} link='https://drive.google.com/file/d/1vkIkLXM34B0F-4CiNhqQItjwIWD9d6Ea/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='The Distance Formula' img={TheDistanceFormula} link='https://drive.google.com/file/d/1RxtsrgABsfrBeGCdkPg1fbTKd6NTflyq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Coordinate Geometry Review' img={CoordinateGeometryReview} link='https://drive.google.com/file/d/1EQqi4RR_W6MHARqxnfJJFRZGe2GGJ2OB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Coordinate Geometry and the Centroid' img={CoordinateGeometryandtheCentroid} link='https://drive.google.com/file/d/1y6WiocLwVWjLpVSp7Nd-x-BrOOcipIS2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Arc Length and Sector Area' img={ArcLengthandSectorArea} link='https://drive.google.com/file/d/11lr14t1Jl7h9UYi_9bMp2Hz9XvxeGuK7/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Arcs and Central Angles' img={ArcsandCentralAngles} link='https://drive.google.com/file/d/1w0QlbXcXLB3rNnt9LEn969l5N943P7cu/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inscribed Angles' img={InscribedAngles} link='https://drive.google.com/file/d/12D9KlnnhdRSY8pn6GepyKO3f0MknMyiU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Circles and Angles' img={CirclesandAngles} link='https://drive.google.com/file/d/1hs8kynewogJoWjm0Gbm8TJh1aX2VzNm8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Circles and Angles 2' img={CirclesandAngles2} link='https://drive.google.com/file/d/1aiRlpjboft5Th8p8L-EGQdGvdgdAL_l3/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Circles Power Theorem' img={CirclesPowerTheorem} link='https://drive.google.com/file/d/1eYQdQqhvZdKrBZwMgNs8CclUSokRWN87/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inscribed and Circumscribed Shapes' img={InscribedandCircumscribedShapes} link='https://drive.google.com/file/d/1zvWrDDhH5ywweILeO4OjoTZCacTrMwwk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Tangents to Circles' img={TangentstoCircles} link='https://drive.google.com/file/d/12fPvSNgtFtEa94ASBudX2Td-jRQ92NBM/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logical Reasoning' img={LogicalReasoning} link='https://drive.google.com/file/d/1_thv-aqEhVqBTLzPieO95GJCTNAasaoq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conditional Statements' img={ConditionalStatements} link='https://drive.google.com/file/d/1hnOE8yhyHHbaoV9HpuGNOLokl3sHHijz/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Conditional Statements 2' img={ConditionalStatements2} link='https://drive.google.com/file/d/1uG9a-qgMRPPQ-LfwPdx1fBo-JTIaNCYL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometric Probability' img={GeometricProbability} link='https://drive.google.com/file/d/1N-1MlGiA2oP0Eiysh3TJviAXdCcjlSFO/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometric Probability 2' img={GeometricProbability2} link='https://drive.google.com/file/d/1Q1EDpZL3shKGfBfuH3FQdCPC-6Eaq3g5/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometric Probability 3' img={GeometricProbability3} link='https://drive.google.com/file/d/1TI0zWhS9ld27FbkPmaj23ny9iF3oQ4sx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logic Chains' img={LogicChains} link='https://drive.google.com/file/d/1xnLVF9vbABvwhC-BCbjYZIrU4GBsyPef/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Truth Tables' img={TruthTables} link='https://drive.google.com/file/d/1ykeGt2IgRGql_5NELV7lkgQj1AXNcgO-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Truth Tables 2' img={TruthTables2} link='https://drive.google.com/file/d/1W0gCQrc_9dSNCXpjkpf9ed8FiKL8d3Kx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Altitudes of Triangle' img={Altitudes} link='https://drive.google.com/file/d/1T6jcZkGVyyCmiDw2jb3LwHqIy_5U3T71/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Angle Bisectors of Triangle' img={AngleBisectors} link='https://drive.google.com/file/d/1qDuahgaDMCgXp0__w7uOJavr4BXq6qUh/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Medians of Triangle' img={Medians} link='https://drive.google.com/file/d/1xijwUz4OcxVFuyaaz0j2sbHlztApD114/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Perpendicular Bisectors of Triangle' img={PerpendicularBisectors} link='https://drive.google.com/file/d/1kyTEVprq7ad-KntH7nwnQn6HBRjZLfnY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Perpendicular Bisectors of Triangle 2' img={PerpendicularBisectors2} link='https://drive.google.com/file/d/1oKPcTB3dBjmCBrudVdIF9Aa443m-tlPI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Eulers Line' img={Euler_sLine} link='https://drive.google.com/file/d/1jKG-fXqTnuuVSJmiHfeNzAdDRoWVDyuP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parts of a Triangle' img={PartsofaTriangle} link='https://drive.google.com/file/d/1EwijMY9-C4w9G7NVtejtzp84nqNkcmcW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parts of a Triangle 2' img={PartsofaTriangle2} link='https://drive.google.com/file/d/1neKH3T7aoc-MQSAxmo3z4LCoYE3JAIvt/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Vocab' img={GeometryVocab} link='https://drive.google.com/file/d/1TqTVBsQiYkoYwQ4L103YPiHyO5i2mfq1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Angles of a Polygon' img={AnglesofaPolygon} link='https://drive.google.com/file/d/1iQQ-zLseFRc6xG_cff-FlcB5LCBLmCEa/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Complementary and Supplementary' img={ComplementaryandSupplementary} link='https://drive.google.com/file/d/1BiheEWyO574XEAX6o0-9vW-ihAz-l0e1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Interior and Exterior Angles' img={InteriorandExteriorAngles} link='https://drive.google.com/file/d/1Rii7E4R6407Dn6_B5NqMH_TrhH2SGQfa/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Linear Pair and Vertical Angles' img={LinearPairandVerticalAngles} link='https://drive.google.com/file/d/1z3imUktXfgIWw3GgjAJywXeDJnNvPKWG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solving Missing Angles' img={SolvingMissingAngles} link='https://drive.google.com/file/d/1B4zbuYVxr4mAkWUXqjXxCHYw7pX7hWXb/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parallel Lines and Transversals' img={ParallelLinesandTransversals} link='https://drive.google.com/file/d/1WZMb7g91kBaovh037hM01-fJilQakDS-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parallel Lines and Transversals 2' img={ParallelLinesandTransversals2} link='https://drive.google.com/file/d/1ve1ylSvriwW2aQ8e9YiM-PX0Y3HLRHWK/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Points, Lines, Planes, Angles Review' img={PointsLinesPlanesAnglesReview} link='https://drive.google.com/file/d/1N7SugcEBy6ydGAe2ChoZDc-IKiyW1O5w/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Classifying Parallelograms' img={ClassifyingParallelograms} link='https://drive.google.com/file/d/1U_NPfp7j9lsxK_Mu0KJ9J6-9rhFkLoII/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Parallelograms' img={PropertiesofParallelograms} link='https://drive.google.com/file/d/1r_XE0YCxSYFcnD4cAgHQnyd332mtI-mf/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Rectangles' img={PropertiesofRectangles} link='https://drive.google.com/file/d/1Xl40glJzQWEk2WWPnCKpH8JZGTyVGOka/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Rhombus' img={PropertiesofRhombus} link='https://drive.google.com/file/d/1hiBRnO9akj02kmY1Mi5FzocrAV5TAXH4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Rhombus 2' img={PropertiesofRhombus2} link='https://drive.google.com/file/d/1ysIZnkl7jBI8MWuJBvQxdCiO3PQXIXfj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Kites' img={PropertiesofKites} link='https://drive.google.com/file/d/1JeygMHfFQauB_OFlXdiXufSJxV3dAW1F/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Trapezoids' img={PropertiesofTrapezoids} link='https://drive.google.com/file/d/13w9kgnk5qMhmO1jR81tyQaTySwmRw1w_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Isosceles Trapezoids' img={IsoscelesTrapezoids} link='https://drive.google.com/file/d/1Ik5eR8TwBFuwrJQ7y2lk144LJFuEpf0D/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Kites and Trapezoids' img={KitesandTrapezoids} link='https://drive.google.com/file/d/1HCyj30IoO0cfFE2mpEW-gx_LHVNuv-Kk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trapezoids Review' img={TrapezoidsReview} link='https://drive.google.com/file/d/1BiPpf7mUmXIJOu5AH_ZSObqHO3bMyutF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadrilaterals Review' img={QuadrilateralsReview} link='https://drive.google.com/file/d/1L1B48RN7CianRaEv1mHRhd-y5ql52YMX/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Areas, Surface Areas, Volumes' img={AreasSurfaceAreasVolumes} link='https://drive.google.com/file/d/1iUkBkax7WtJXpWYSbCMr4lYJJMKy3zET/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Surface Area' img={SurfaceAreaF} link='https://drive.google.com/file/d/1RLdUbti_Ogx-u6-PvgBFwSuVsYrKar-W/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Volumes of Solids' img={VolumesofSolids} link='https://drive.google.com/file/d/17nmJyKQ7ZlB-xjIamcph_LFFdN0rUijl/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Surface Area and Volumes Review' img={SurfaceAreaandVolumesReivew} link='https://drive.google.com/file/d/1Zmkmd9zUOmol0xcT_TRn-SPK3lgyay8v/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Ratios of Similar Solids' img={RatiosofSimilarSolids} link='https://drive.google.com/file/d/1fdM1bZ5yPFvnieaBiVGWjfSvs94yuSVw/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Translations' img={Translations} link='https://drive.google.com/file/d/1Gm0HLD1l7kDGlJmiLq4o0wl2LwEFRh_m/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Translations 2' img={Translations2} link='https://drive.google.com/file/d/1Y7ktNHLVNyMJNjPnbnU1iZnMWzyuEGUS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Translations 3' img={Translations3} link='https://drive.google.com/file/d/1o44mWEQTQvf5NNk6qLvmuLNbcLNKUcwj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Dilations' img={Dilations} link='https://drive.google.com/file/d/17oxC_s-JQXk6RtzzG7YFS_xN01Rr1vDT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Dilations 2' img={Dilations2} link='https://drive.google.com/file/d/1jbOCSXzUS9tShBvmxn3TzTUQP5brPW2s/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Dilations 3' img={Dilations3} link='https://drive.google.com/file/d/1-IHs8_dPVJB4_gOJ5cThmf9jUaDTcYFF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Rotations' img={Rotations} link='https://drive.google.com/file/d/1cCpwR1JTtyXck2RvWIWjFAFeLDlJdeQR/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometry Rotations 2' img={Rotations2} link='https://drive.google.com/file/d/1p8LdF3UIEi1tjAIlPpFzA3r1YHlqgXEt/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Proving Congruence' img={ProvingCongruence} link='https://drive.google.com/file/d/1J5g0Ko8IzesS4N3oPzjNO_XJCD-s448Z/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Triangle Congruence practice' img={TriangleCongruencepractice} link='https://drive.google.com/file/d/1X8mb7Thx45kh7ZHTu6gdx5ThUh9x-CPn/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Triangle Congruence Review' img={TriangleCongruenceReview} link='https://drive.google.com/file/d/1FB13CF7w8qZ-SyK4FQ5LLk9bYULAdB2b/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Triangle Congruence Review 2' img={TriangleCongruenceReview2} link='https://drive.google.com/file/d/1vy9Evf0QA_yqP0r-i5nGQk5YgBp19tPi/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Similar Triangles' img={SimilarTriangles} link='https://drive.google.com/file/d/1mwb0JCUjWy8POglpQwXzGpkqlXLpAIKi/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Triangle Similarity Proofs' img={TriangleSimilarityProofs} link='https://drive.google.com/file/d/11twECzVKUldvWTfIuODM_8LMQ8x2-QL7/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Triangle Similarity Proofs 2' img={TriangleSimilarityProofs2} link='https://drive.google.com/file/d/11twECzVKUldvWTfIuODM_8LMQ8x2-QL7/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Pythagorean Theorem' img={PythagoreanTheorem} link='https://drive.google.com/file/d/1UfEO-4aHTZupUPV5Os8okC8PAe1ToikQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Special Right Triangles' img={SpecialRightTriangles} link='https://drive.google.com/file/d/1A2vLsinYdOzxjCo41Zv0_Isoj88TPpMT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Right Triangle Trig Missing Sides and Angles' img={RightTriangleTrigMissingSidesandAngles} link='https://drive.google.com/file/d/1m4bjzx80BEkP67wohtJvjvYa8H7DfKA-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Right Triangle Trig Review' img={RightTriangleTrigReview} link='https://drive.google.com/file/d/1fN1FBQ4WhVpgnbeWftMQZp8cPs4ORWcs/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Geometric Mean' img={GeometricMean} link='https://drive.google.com/file/d/10TsEVWZ5o53E6k_Nk3R0YOSREmBASqr8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Angle of Elevation and Depression' img={AngleofElevationandDepression} link='https://drive.google.com/file/d/1zM0gDRPVxpBXYSMbcoQKBHeLqQbttN3W/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Law of Sines and Cosines' img={LawofSinesandCosines} link='https://drive.google.com/file/d/1x8xcLsu7w-e0eIshrllk3V5VQuqi6vo-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Law of Sines and Cosines 2' img={LawofSinesandCosines2} link='https://drive.google.com/file/d/1EVnjkuVXw-svxqr305aHJuliLcaoH0UX/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Law of Sines Cosines 3' img={LawofSinesCosines3} link='https://drive.google.com/file/d/1ouC1rn0TBBi-OoNkarcJGkySDQGplMGS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Law of Sines and Cosines Word Problems' img={LawofSinesandCosinesWordProblems} link='https://drive.google.com/file/d/1eyD0ekFZc25j7cqybEH8x-7Mk3guQwpc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Law of Sines and Cosines Word Problems 2' img={LawofSinesandCosinesWordProblems2} link='https://drive.google.com/file/d/1OaIO1r4J7HmfRCqdIFo2vWWJLVvvgfhp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Thermodynamics Review' img={ThermodynamicsReview} link='https://drive.google.com/file/d/1SZnKi9FePGAqUcdPRuS4ZD6acGYzmyOc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Covalent Compounds' img={CovalentCompounds} link='https://drive.google.com/file/d/1ogjlKqUNFH86H3ogpzzrzon87ih6ZPIE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Ionic Compounds' img={PropertiesofIonicCompounds} link='https://drive.google.com/file/d/11m8JyLuLgZwT-ZFySqmrAqzoKZLPkVUX/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Nomenclature Worksheet 1 and 2' img={NomenclatureWorksheet1and2} link='https://drive.google.com/file/d/1-_c1INqAXzkuTACB6MSXcC7wi4wXyqwh/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Nomenclature Worksheet 3' img={NomenclatureWorksheet3} link='https://drive.google.com/file/d/1T9vTDiI3THU_UQrgXUrSFTUwmRO7FqrQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Nomenclature Worksheet 4' img={NomenclatureWorksheet4} link='https://drive.google.com/file/d/16C8Wh-rM4--VvR4uMPeM3JIknUcpTDnm/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Kinetics Practice Problems' img={KineticsPracticeProblems} link='https://drive.google.com/file/d/1Tkj3b0ksEdjd7CXsl9M2ipUnJzI9vlTH/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Kinetics Review' img={KineticsReview} link='https://drive.google.com/file/d/1_qqTIFceMS-EcnthfHbE-hdeQUB5b5xD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Kinetics Practice Test' img={KineticsPracticeTest} link='https://drive.google.com/file/d/13NoITCetwVDEXyrknECTdrYpEYsWHznP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Identifying Intermolecular Forces' img={IdentifyingIntermolecularForces} link='https://drive.google.com/file/d/1cMcnhfHH2k0ilw4Mi6-UbIZwwnc71NRx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Types of Intermolecular Forces' img={TypesofIntermolecularForces} link='https://drive.google.com/file/d/150i8jjjn6a1BVyTOziaXWVW7mBAeLT8n/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Intermolecular Forces Review' img={IntermolecularForcesReview} link='https://drive.google.com/file/d/1WgeXfz7yZnDhWizCz7MM41ymfJ4lxR3J/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Chemical Equalibrium Review' img={ChemicalEqualibriumReview} link='https://drive.google.com/file/d/1fzn47G6xgbRDHAeTZACQAKhQc_BmEgis/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Stoichiometry' img={Stoichiometry} link='https://drive.google.com/file/d/1O2w-a2ZlRgpDmlpXoMEqVxTYi3Mk-QxD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Types of Chemical Reactions' img={TypesofChemicalReactions} link='https://drive.google.com/file/d/1EH3Uq66I_dp0bzHMirp95xOa1umXDBSY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Precipitation Reactions' img={PrecipitationReactions} link='https://drive.google.com/file/d/1aOaYefz_5LoxTaWn2BPNNo0XQaS5N92z/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Redox Reactions' img={RedoxReactions} link='https://drive.google.com/file/d/1ZdeJojeC2f5h4zffNHgk6ch2zjXHEcOJ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dimensional Analysis' img={DimensionalAnalysis} link='https://drive.google.com/file/d/1lMuW0ljXqiD_AdG_jkRNDC06YVsrGU5r/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Atomic Structure' img={AtomicStructureF} link='https://drive.google.com/file/d/1Ix4dFQrC15dEdiS_XgswVQvo-kDzrZuo/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Periodic Trends' img={PeriodicTrends} link='https://drive.google.com/file/d/14y-t22w0hdLz9sNIgam1J6UNRWAZ3ziE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='AP Chemistry 2018 FRQ' img={APChemistry2018FRQ} link='https://drive.google.com/file/d/1bzeodscToeGClk-_44MaRnQ_GaV_hQA2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='AP Chemistry Practice Exam' img={APChemistryPracticeExam} link='https://drive.google.com/file/d/1Ig1ztza_UeG7niyYTFB64V6IjvLgxmTZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Acids and Bases Intro' img={AcidsBasesandpH} link='https://drive.google.com/file/d/1jOBlV9rMUfhIKDHikz04FHraJimFGByq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Acid Base Pairs' img={AcidBasePairs} link='https://drive.google.com/file/d/1KUR8nptuJ0k2Z-zpce7QDCPl8XtBrDml/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parametric Equations' img={ParametricEquations} link='https://drive.google.com/file/d/1Ggoi3bjSsdTIif7E4VyImeFlGxqmcA2L/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parametric Equations Review' img={ParametricEquationsReview} link='https://drive.google.com/file/d/1drs0cKee7AHSqSiQGkqmxCdXqydAzC6u/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parametric Tangent Lines and Arc Length' img={ParametricTangentLinesandArcLength} link='https://drive.google.com/file/d/1-UHxa9uyElejz9nij_rGatoQQHKVE1th/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sequences' img={Sequences} link='https://drive.google.com/file/d/1J4DenrxBU_J0rSt7SU-X7O6ZcfUQ47Om/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Monotone Sequences' img={MonotoneSequences} link='https://drive.google.com/file/d/1xx8FyT-hvs_PwA7wO5OL4bTdMipn-yao/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Infinite Series' img={InfiniteSeriesFile} link='https://drive.google.com/file/d/13Chq1JFpjKd2wotkWxyILFhSsRsEVswI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Convergence Tests' img={ConvergenceTests} link='https://drive.google.com/file/d/1pwB-mNYcG7dw7Uo0hyEAe3Z5WIs-H4fp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Absolute and Conditional Convergence' img={AbsoluteandConditionConvergence} link='https://drive.google.com/file/d/1diXiFTb2uK50OIcnVQypas6UXr7JWPKe/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Maclaurin and Taylor Series' img={MaclaurinandTaylorSeries} link='https://drive.google.com/file/d/11Wgs3ZzZAo_Ica-AJRnP6WYcPoxAJSdq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Convergence of Taylor Series' img={ConvergenceofTaylorSeries} link='https://drive.google.com/file/d/1P7kRd99Oyuh2p__mDR2uLVbQX5zMEq5q/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Power Series' img={PowerSeries} link='https://drive.google.com/file/d/1P5KKhatxS1WaWSrO5BslOR7eoa46otY2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Differentiating and Integrating Taylor Series' img={DifferentiatingandIntegratingTaylorSeries} link='https://drive.google.com/file/d/108WJKbOuwpXI5tuG1uw8OcILyvssl9Kh/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Lagrange Error Bound' img={LagrangeErrorBound} link='https://drive.google.com/file/d/1KBT9-9M4e1FdjUa27qcEBZ9wwZ-PqgR8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parametric Equations FRQ' img={ParametricEquationsFRQ} link='https://drive.google.com/file/d/1XkOXHSJYD97B-3TuYpSdyEr136Qko3FN/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Differential Equations FRQ' img={DifferentialEquationsFRQ} link='https://drive.google.com/file/d/1MiJkhGeXez2zyFLp6zVvIHyRAwoVSIjK/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Series FRQ' img={SeriesFRQ} link='https://drive.google.com/file/d/10xEX-sGXQW-Q3drrLKsGFCu2Spt1Y03Z/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polar Equations FRQ' img={PolarEquationsFRQ} link='https://drive.google.com/file/d/1X5v0BTV8Gr6wvkilPS6X7t1lqpdrVFpR/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Intro to Differential Equations' img={IntrotoDifferentialEquations} link='https://drive.google.com/file/d/1B6FSltPldrBCC9qUcTp8qlF9QZUwfc6D/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Initial Value Problems' img={IntialValueProblems} link='https://drive.google.com/file/d/1NRLtT13TrUsetp0UfKLbDt_F8lOiq9RB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Differential Equations Review' img={DifferentialEquationsReview} link='https://drive.google.com/file/d/1EUlXWzWfl29PjI11l0roxprV5hh57PFT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Error Propagation' img={ErrorPropagation} link='https://drive.google.com/file/d/1bCNXDQaOZj0o5z584GI6O7JDl_P8J5Fk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Eulers Method' img={Euler_sMethod} link='https://drive.google.com/file/d/1FgpBj0S5TB4KPZ8Aw8wiRjSmP6-XpOpc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Eulers Method 2' img={Euler_sMethod2} link='https://drive.google.com/file/d/1Slgq_tr2IDy2gTxYoYP8Q396z3x5ht9W/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Improper Integrals' img={ImproperIntegrals} link='https://drive.google.com/file/d/1PDLlIBo3qjiTQgDmJOr2NwKXVuMltdPp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Improper Integrals Review' img={ImproperIntegralsReview} link='https://drive.google.com/file/d/1Z7vMnCjekraOCG3Og0JnSr6IBW0Y0Hip/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logistic Growth' img={LogisticGrowth} link='https://drive.google.com/file/d/1s-ADlsFJ9v_q_Uk0Y7SupJNeMOCllhVv/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logistic Growth 2' img={logistic_growth} link='https://drive.google.com/file/d/1uUofTxz-F23I7skXvEzg3p9XpNCLFAmx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Slope Fields' img={SlopeFields} link='https://drive.google.com/file/d/1vfz2y-JdAiYP9x-2iHVOh3P4-L6ZK0fa/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Calculus AB and BC Multiple Choice' img={CalculusABandBCMultipleChoice} link='https://drive.google.com/file/d/19N81YegJeFR2r1m4LGXbahdj8xVg7vgY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Calculus BC 2008 FRQ' img={CalculusBC2008FRQ} link='https://drive.google.com/file/d/1yjEcYJ2nhcW8N2eC5ZdZGbGx-CcSHl1Y/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Calculus BC 2008 MCQ' img={CalculusBC2008MCQ} link='https://drive.google.com/file/d/1Z7E-pmFaG9ma6A0kEGssb0zno25jHt9y/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Calculus BC 2012 Exam' img={CalculusBC2012Exam} link='https://drive.google.com/file/d/1n-u97kNLHXzRsM8frxrgGcrLtjWutM3l/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Calculus BC 2017 FRQ' img={CalculusBC2017FRQ} link='https://drive.google.com/file/d/1Sv5P7BQvIujBYY-5GYfIELW_tHShofO_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Limits Graphically' img={LimitsGraphically} link='https://drive.google.com/file/d/1ID-_MRTEiqhv4jHYQiYdkyPL5915KSZM/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Evaluating Limits From Tables' img={EvaluatingLimitsFromTables} link='https://drive.google.com/file/d/18XHtO5yGBrnX170Vd6uXplHtUgR3I9Ro/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Evaluating Limits' img={EvaluatingLimits} link='https://drive.google.com/file/d/1EQmraUFbjH6xl4tqNx9B2WsjPryJbFJL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Limits at Infinity' img={LimitsatInfinity} link='https://drive.google.com/file/d/1tGY7oFUuGJLV7VySY1Ak86fikDXle-G2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Limits Review' img={LimitsReview} link='https://drive.google.com/file/d/1KXP1xc0ms1mHD4Gt7iuEdlyQOMnsm0mP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Limits Review 2' img={LimitsReview2} link='https://drive.google.com/file/d/1ghIhsgdcN8h0ABrSbbcZdpGHqJ-mRAGM/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Limits Test' img={LimitsTest} link='https://drive.google.com/file/d/17aY3btewz2cHwu2Kc2Jtw4PAvUL3ugKe/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Continuity' img={Continuity} link='https://drive.google.com/file/d/18IBY83HkZThds9-0Ak2mwWAJyZ5pxPWO/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Continuity Review' img={ContinuityReview} link='https://drive.google.com/file/d/1_P1_NKeLwk6UAYMoyAl_YkfKtED8vmii/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Intermidiate Value Theorem' img={IntermidiateValueTheorem} link='https://drive.google.com/file/d/11aFrNqvrzgU5dpXg5lbSgnaRXVKzkIQh/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Indefinite Integrals' img={IndefiniteIntegrals} link='https://drive.google.com/file/d/1-BY3jBZl_SNdj0XXmcyLsO-xFZjFRTle/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Definite Integrals' img={DefiniteIntegrals} link='https://drive.google.com/file/d/1lp4wovbhBx4Qku6ilcygACUhQ-weFTva/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Definite Integrals 2' img={DefiniteIntegrals2} link='https://drive.google.com/file/d/1Bqo8mwqf1594yVqF0KLjf-FKkFo-2WOn/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Definite Integrals with Substitutions' img={DefiniteIntegralswithSubstitutions} link='https://drive.google.com/file/d/1K8OyrSRcQ9OHd65gj-Uv-rdng-sWFWhT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integration by Substitution' img={IntegrationbySubstitution} link='https://drive.google.com/file/d/183syDmP1XhKL1aUiBYRVSUhzgr-YqkTB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integration by Substitution Review' img={IntegrationbySubstitutionReview} link='https://drive.google.com/file/d/15OylZXxDKmkgJguRDtkGaKIQN51ebUk8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integration by Partial Fractions' img={IntegrationbyPartialFractions} link='https://drive.google.com/file/d/1jGxDa_5MDJ1yoX_cjZiVHYJ3G9W8qpN2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integrating by Partial Fractions Review' img={IntegratingbyPartialFractionsReview} link='https://drive.google.com/file/d/1DsJLDL191muDP9GJtXaeClKElPpyDJUB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integrating Trig Functions' img={IntegratingTrigFunctions} link='https://drive.google.com/file/d/1eXZIOsSzBXwD0KeBtECEyR6DByg_EChf/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Substitutions Integrals' img={TrigSubstitutionsIntegrals} link='https://drive.google.com/file/d/10brj_E2UGRRrcJqbL0PchqqQg5KQtcEx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integration by Parts' img={IntegratingTrigFunctions} link='https://drive.google.com/file/d/1HlShCXEVs8HFsahJrSCfelled61VGyEr/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integration by Parts 2' img={IntegrationbyParts2} link='https://drive.google.com/file/d/1exO_497uMlbY1nyOgbVP4OjHi3pfpHNX/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Integration by Parts Review' img={IntegrationbyPartsReview} link='https://drive.google.com/file/d/1Ehn7A9yiDjfHEDsb0YudhFHbZ9P8EtW6/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Fundamental Theorem of Calculus Review' img={FundamentalTheoremofCalculusReview} link='https://drive.google.com/file/d/1H5PHt1ocHMV7c8EKqU5EVjz4YoUZx1s_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Analyzing Graphs of F FRQ' img={AnalyzingGraphsofFFRQ} link='https://drive.google.com/file/d/1ojP2yV0JE9EP62b29Vl1lBrCsA5sLeRs/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Charts of F FRQ' img={ChartsofFFRQ} link='https://drive.google.com/file/d/1_rxuvqi8fHuSTr1fm6KYyyZf--Bk6bx8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Functions FRQ' img={FunctionsFRQ} link='https://drive.google.com/file/d/1G6If6w2KS80NB5_nyr6-3hzhWu625SSq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Implicit Differentiation FRQ' img={ImplicitDifferentiationFRQ} link='https://drive.google.com/file/d/1FH-wr_vg1o65Xn1hsjMk17uyQZ_ErxlZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Particle Motion FRQ' img={ParticleMotionFRQ} link='https://drive.google.com/file/d/1vk28NTkITklBbgmfzq9EQN4VPQhiqzTj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rate of Change FRQ' img={RateofChangeFRQ} link='https://drive.google.com/file/d/1MpLr9W3v9FwDEmeP7B1GnC3j-X1ZCzI_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Reimann Sums FRQ' img={ReimannSumsFRQ} link='https://drive.google.com/file/d/1aDQqvG-vPV1lf-rSdNGN4nu8-etZi9p6/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Related Rates FRQ' img={RelatedRatesFRQ} link='https://drive.google.com/file/d/1wAYwegApfuwBdDTGvURTWMzxNrLByXiO/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Intervals of Increase and Decrease' img={IntervalsofIncreaseandDecrease} link='https://drive.google.com/file/d/1dQJ5or0sO1QzvVDACJSpO1jpzdW0DYg4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Critical Points' img={CriticalPoints} link='https://drive.google.com/file/d/1Iz4qAAA3dYwyxpkucCuGTl1NNT9_wmbQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Extreme Value Theorem' img={ExtremaReview} link='https://drive.google.com/file/d/102sCs8ERznXnAO8dYALKYKHiooMWA9HC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Concavity and Points of Inflection' img={ConcavityandPointsofInflection} link='https://drive.google.com/file/d/17cFf6f8X0DCv1YEtXIe7atXROyZNtBn9/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Concavity and Points of Inflection 2' img={ConcavityandPointsofInflection2} link='https://drive.google.com/file/d/1IG_PxW9a-UpWlpLns6YtZ7-Nd7D9yeGT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='First Derivative Test' img={FirstDerivativeTest} link='https://drive.google.com/file/d/1ceIPoA5hOXcstDoGfGSH_wAx189jSlAI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Second Derivative Test' img={SecondDerivativeTest} link='https://drive.google.com/file/d/1Hm3zsBw_-xwqxV7zVbwnTldz6JS1sPPt/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Relative Extrema' img={RelativeExtrema} link='https://drive.google.com/file/d/1O-a7mFSuS_ZSHjsWoQVrQXDqhryJcdwV/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Absolute Extrema' img={AbsoluteExtrema} link='https://drive.google.com/file/d/11eAgl4r6qNfFKMZAqDTT0Z_jWQkY0lwJ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Extrema Review' img={ExtremaReview} link='https://drive.google.com/file/d/13JiW6ZPVPZGRiUfkKlErQVZIcKLEb1s9/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Mean Value Theorem' img={MeanValueTheorem} link='https://drive.google.com/file/d/18xyZ90t-z7PNW1UtRmsyIyhF8mN6SKq4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Mean Value Theorem Review' img={MeanValueTheoremReview} link='https://drive.google.com/file/d/18xyZ90t-z7PNW1UtRmsyIyhF8mN6SKq4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sketching Functions' img={SketchignFunctions} link='https://drive.google.com/file/d/1MKqrk4P2GFyt7OvnizjrDtUGMqfez-Vl/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Analysis of Functions Review' img={AnalysisofFunctionsReview} link='https://drive.google.com/file/d/1OOuorpFm8oEj1bJdn7eUi7yqEg-UbKyF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Analysis and Sketching Functions Review' img={AnalysisandSketchingFunctionsReview} link='https://drive.google.com/file/d/1fUs9leSub-ybVPtRxfc-A7fUMUVbYCbt/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Optimization Word Problems' img={OptimizationWordProblems} link='https://drive.google.com/file/d/1PtykvAulG9tmpYWY8gzCtSf1lCKeIFo_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Definition of Derivatives' img={DefinitionofDerivatives} link='https://drive.google.com/file/d/1XrVBHVnw8tehCmA5IQkh5Ej-1V6qhSuj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Definition of the Derivative' img={DefinitionoftheDerivative} link='https://drive.google.com/file/d/1DEI10BmZjLoPJMp90WSCpzhTlnxidoNb/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Derivatives Review' img={DerivativesReview} link='https://drive.google.com/file/d/16DZE7YjCdNtUd-Jpeus_ZaGSA7lGre0_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Power Constant and Sum Rules' img={PowerConstantandSumRules} link='https://drive.google.com/file/d/1-UyswcdrHzgVRGRFtvEoI_gzvBxZVJ4N/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Product Rule' img={ProductRule} link='https://drive.google.com/file/d/1nLHRciJH6b-AhwtPCDEWkxep6DbGuA7q/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quotient Rule' img={QuotientRule} link='https://drive.google.com/file/d/1Ah0qkI4VdelW8_Mnv6IvS0Kd5oeKy8Jj/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Tangent Lines' img={TangentLines} link='https://drive.google.com/file/d/1KUIPG5ijD-5a99_mH4egS2fZVFdooEXk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Tangents and Derivatives Review' img={TangentsandDerivativesReview} link='https://drive.google.com/file/d/1lNJkP6ftaPOPcRjRv9oS4OsKvjTm2Ff6/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Differentiation Techniques Review' img={DifferentiationTechniquesReview} link='https://drive.google.com/file/d/101mwRiKkcnzdjIC8r45uC8KmL1L1oju9/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Chain Rule' img={ChainRule} link='https://drive.google.com/file/d/1rYCbQPwXx06IsS1f3KLOQgFUthIaPtW1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Chain Rule Review' img={ChainRuleReview} link='https://drive.google.com/file/d/10_W01PdsoIU6dpVU9zTM-5KBCvz68T9D/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Derivatives of Inverse Functions' img={DerivativesofInverseFunctions} link='https://drive.google.com/file/d/139an-9nnoACwcZdb5IFdwlJ_WvrUeQmG/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Differentiating Inverse Trig Functions' img={DifferentiatingInverseTrigFunctions} link='https://drive.google.com/file/d/1JRP6AZozq0dA91NRQNfidaX3-BRdA4Wi/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Differentiating Trig Functions' img={DifferentiatingTrigFunctions} link='https://drive.google.com/file/d/1zvLbsAImCPNa0hsA1QA3uRACRvqyhrnY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Higher Order Derivatives' img={HigherOrderDerivatives} link='https://drive.google.com/file/d/1XSHuare0eq5ELUbxmNzSLUnaaO24wJ_r/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Implicit Differentiation' img={ImplicitDifferentiation} link='https://drive.google.com/file/d/17uJdSuo3wNC6UyL359QSoasxidkZ6GBx/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Implicit Differentiation 2' img={ImplicitDifferentiation2} link='https://drive.google.com/file/d/1eVx_OQgd50XBKnena_YpmB86W0xvAyZu/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Implicit Differentiation Review' img={ImplicitDifferentiationReview} link='https://drive.google.com/file/d/15HHX0LNogkUIu-o8-502Bc7cuBTk2RQR/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Area as a Limit and Sigma Notation' img={AreaasaLimitandSigmaNotation} link='https://drive.google.com/file/d/1nWEKZrA_BeGiDTeaPNoqruxR4vKVz4Mv/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Riemann Sums' img={RiemannSums} link='https://drive.google.com/file/d/1_ZmrosyjGezBKqLjytjmaW1xyEgk7N6k/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Area Between Two Curves' img={AreaBetweenTwoCurves} link='https://drive.google.com/file/d/1mSpk5XjzuvWokR15F0ntGVORhjYgeYIw/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Shell Method and Arc Length' img={ShellMethodandArcLength} link='https://drive.google.com/file/d/13putBPMsPy5wnc93W48k3OeEZ6FHao3S/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rectilinear Motion Review' img={RectilinearMotionReview} link='https://drive.google.com/file/d/1cVFEA04Z7jdWwFrrrlNKnHnJ7f4fNtHY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rectilinear Motion and Average Value Review' img={RectilinearMotionandAverageValueReview} link='https://drive.google.com/file/d/1aFZG5vvwqqFfLPLeRbKQLUQwtjKeJtud/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Linear Motion' img={LinearMotion} link='https://drive.google.com/file/d/17QK---rJX8ejfKQpo4bgePqlgOJxvWwL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Linear Motion 2' img={LinearMotion2} link='https://drive.google.com/file/d/1YhOL0II-nG7zzsztSKAXF77T6Tdgc4Ra/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Related Rates' img={RelatedRates} link='https://drive.google.com/file/d/1s4ob2Owys12nh_I540T3FbKiFYNKOITN/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Related Rates 2' img={RelatedRates2} link='https://drive.google.com/file/d/1H_DxOlVgfz3QPKjhhGLb-RxorYiLAgg4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Related Rates Review' img={RelatedRatesReview} link='https://drive.google.com/file/d/1F_STHkZvyvGSt6-idA5ocutNUImjX7fF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Local Linear Approximation' img={LocalLinearApproximation} link='https://drive.google.com/file/d/1KaHbBytBjNueb03S6SkFHMFfT6TvNj3E/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='2012 Calculus AB Exam' img={CalculusABExam} link='https://drive.google.com/file/d/1y3Bgt1h6fSVUNR8eqEcUoJHyZjDbkmKZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='2020 AB Exam' img={ABExam} link='https://drive.google.com/file/d/1EMdoiwliak_GV7YbDFhQgopc4mvDvPo0/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Angle Sum and Difference Identities' img={AngleSumandDifferenceIdentities} link='https://drive.google.com/file/d/1lcrTur5iDzz0dd_uK-kwnNpR9EqYcrdD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Product to Sum Identities' img={ProducttoSumIdentities} link='https://drive.google.com/file/d/1EHWpiBpg_2suJ82ZCCCXfGBarp9HOItk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Trig Intro' img={GraphingTrigIntro} link='https://drive.google.com/file/d/1nP_OgUcD6rEnDraneH4_yz849Kf7HvyC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Trig Functions 2' img={GraphingTrigFunctions} link='https://drive.google.com/file/d/1mAH43wnP2qweU1uaNStT9FpwpRbr1wFd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Equations' img={TrigEquations} link='https://drive.google.com/file/d/1whfKueir5DObOG5FUoBQDMB8rApzgdsZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Equations 2' img={TrigEquations2} link='https://drive.google.com/file/d/1wFGErNAShh-_7TJ6zYWPhRGj39oe_aYE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Equations 3' img={TrigEquations3} link='https://drive.google.com/file/d/1NzX2uqdBLcyH7fUCpR3hb_ZZAYs195T1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inverse Trig' img={InverseTrigW} link='https://drive.google.com/file/d/1B9c0xOFsEAo5rnNocDAxVfFqv7FlyGfk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Identities' img={TrigIdentities} link='https://drive.google.com/file/d/1cuW_4dCoKXgIZjGY0UOUl1PqL6b9jqnA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Identities 2' img={TrigIdentities2} link='https://drive.google.com/file/d/1lD6vjdFHTCnfRVTT5fjykzibZxfjak_H/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Identities 3' img={TrigIdentities3} link='https://drive.google.com/file/d/1NzX2uqdBLcyH7fUCpR3hb_ZZAYs195T1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Review' img={TrigReview} link='https://drive.google.com/file/d/1F0V0LclT8zX5-31vjWPVQVEBkx-JXxNo/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Trig Word Problems' img={TrigWordProblems} link='https://drive.google.com/file/d/1IkSft0ZgGYCYNGyMHXpWJs9W1_TFclC8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Parent Functions' img={ParentFunctions} link='https://drive.google.com/file/d/13s_qbsT7nE0A5JFs7k9v129EkJpNBKa8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Transformations of Graphs' img={TransformationsofGraphs} link='https://drive.google.com/file/d/1XhTAKRgA1MHNAIf9dXsHUl8E9kM1iV1c/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Transformations Review' img={TransformationsReview} link='https://drive.google.com/file/d/1RCE5A6sw41pHfdSIZOi2YwnXdV2-gmhB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Square Root Equations' img={SquareRootEquations} link='https://drive.google.com/file/d/1zkf1BpmwErWnjqQqpupiyxNllmTpxEYZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Square Root Equations 2' img={SquareRootEquations2} link='https://drive.google.com/file/d/10d6MKVtQROjcVkYUkDvv6oyZD_9IlIQQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Square Root Equations 3' img={SquareRootEquations3} link='https://drive.google.com/file/d/16xpkkOegh8oPk7RmkSzZhkdzz40W40Wu/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Systems' img={QuadraticSystems} link='https://drive.google.com/file/d/1796XKy9obWu4a5xnjqDVeUm6bJfSem58/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Systems 2' img={QuadraticSystems2} link='https://drive.google.com/file/d/1rKURg2hAE2UrhN_pN4-fp9zP7Liz2WD1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Systems 3' img={QuadraticSystems3} link='https://drive.google.com/file/d/1tLdcBonyKqOCbHquNdWnCekW1Ydx1o56/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Systems Review' img={QuadraticSystemsReview} link='https://drive.google.com/file/d/1tqg4Bqqrta458yIKOhbtWKjstl6INM0A/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simplifying Rational Exponents' img={SimplifyingRationalExponents} link='https://drive.google.com/file/d/1_RwyZ2qYrf98jtNVjABOCgBcDIr0OyCh/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Radicals' img={GraphingRadicals} link='https://drive.google.com/file/d/1Dk3rrimYx5h52i4Tq0Nk_gHZYukXvRXE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Cube Roots' img={GraphingCubeRoots} link='https://drive.google.com/file/d/1i3d5OpaimuuZ7YRipqw7VGM5OdXKEmGT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Radicals Review' img={RadicalsReview} link='https://drive.google.com/file/d/1tOhXR0JvQ-k2TRuup4u782c5Kh2i6YIP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polynomial Functions Intro' img={PolynomialFunctionsIntro} link='https://drive.google.com/file/d/16TfHBNxTkLFPmxK_YFjAI1ZdcXo-jSge/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Facts of Polynomial Functions' img={FactsofPolynomialFunctions} link='https://drive.google.com/file/d/1e4WvvSwpzX6bXIPp7D3S8_m72z2hyD1j/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Polynomials' img={GraphingPolynomials} link='https://drive.google.com/file/d/1Usqf6ntjbud2p8FCVCq1pjPKbR8CwxoL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Polynomials 2' img={GraphingPolynomials2} link='https://drive.google.com/file/d/1GRNVylX0Gyig2jE-4A2wnsnNsVt58-IT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Polynomials 3' img={GraphingPolynomials3} link='https://drive.google.com/file/d/1gvd-yeZgp-ZIaJWGGG9BlVhsge9unt1X/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Intervals of Polynomials' img={IntervalsofPolynomials} link='https://drive.google.com/file/d/1NhpyHy6cux-_JBDkHWgXU8_F92aLxepW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplicity and Graphing Polynomials' img={MultiplicityandGraphingPolynomialsinsert} link='https://drive.google.com/file/d/1EKcG9cWwrxYIIGRmQmks2vnkVzVmL29w/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polynomial Identities' img={PolynomialIdentities} link='https://drive.google.com/file/d/1ZANun6ScY5G1naswIWK5fGpcnJDe5g4k/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sum and Difference of Cubes' img={SumandDifferenceofCubes} link='https://drive.google.com/file/d/1_dPnn-FDesED0otfJO6p2Okb5_D7FDS_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Sum and Difference of Cubes 2' img={SumandDifferenceofCubes2} link='https://drive.google.com/file/d/1WDuMnl4QB9ZjZOfJF0Dm31diK8JIBe6-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rational Root Theorem' img={RationalRootTheorem} link='https://drive.google.com/file/d/1qfEbrLxoFr5W-XN6SnUuq_vPKNsJD9fb/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Long Division Polynomials' img={LongDivisionPolynomials} link='https://drive.google.com/file/d/1sNc1EZFQ4Fhc11ZE-Hw-bjLGqWtAmnoz/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Synthetic Division' img={SyntheticDivision} link='https://drive.google.com/file/d/1WwvayJFHs5GuxuTSMaj5XJi4kduLwesR/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dividing Polynomials' img={DividingPolynomials} link='https://drive.google.com/file/d/1p3DDYC2R7fbFR3zOxE1UkgZwMsiDpu7p/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dividing Polynomials 2' img={DividingPolynomials2} link='https://drive.google.com/file/d/1xIvg3RQDh3ZG4XY_rAXqz3mQMJVJ4g1B/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Factor Theorem' img={FactorTheorem} link='https://drive.google.com/file/d/1r1mZ5TnS1g3444I-PhJG2-JH6qeNGSBk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Remainder Factor Theorem' img={RemainderFactorTheorem} link='https://drive.google.com/file/d/1uVy5sDjpglI8WGcaeQhcZ5hMD_6CyCx4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='The Remainder Theorem' img={TheRemainderTheorem} link='https://drive.google.com/file/d/1Hppc6v8dsQyH0U6f9gFo1c7GQhxIFbKn/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Piecewise Functions' img={GraphingPiecewiseFunctions} link='https://drive.google.com/file/d/1eTsqnivT45wU3pa462rrahxWgfiAbtd1/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Piecewise Functions 2' img={GraphingPiecewiseFunctions2} link='https://drive.google.com/file/d/1HB9dD7ZNWc_SwzL2oimfvKR7PSCreOJk/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Piecewise Domain and Range' img={PiecewiseDomainandRange} link='https://drive.google.com/file/d/13_6n-9OmGRWk8mz92U7rr_vBFwN93Vak/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Piecewise Functions Review' img={PiecewiseFunctionsReview} link='https://drive.google.com/file/d/1Abv9NZg1A2spE_RImkyck8Ru80okxd5u/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Piecewise Word Problems' img={PiecewiseWordProblems} link='https://drive.google.com/file/d/1n2sBEM48CGH99xlQ_t5udxzw0TVxOMOE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Exponential Equations Without Logarithms' img={ExponentialEquationsWithoutLogarithms} link='https://drive.google.com/file/d/1IbrY6GsqlNaJEP5hYTYrU4KuuRcQjD9M/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Exponential Equations' img={ExponentialEquations} link='https://drive.google.com/file/d/1w2bsUdbi9xt4tmVGLKELUv3SFCSYy1qz/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Meaning of Logarithms' img={MeaningofLogarithms} link='https://drive.google.com/file/d/1EaXVP1cx_eFh-B3wHYqXf96_1633Zqdh/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logarithms Intro' img={LogarithmsIntro} link='https://drive.google.com/file/d/11Wk8NpRA8iGTyiG9_rnyaoNdC8GfMXtA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logarithm Properties' img={LogarithmProperties} link='https://drive.google.com/file/d/1cECcEa7HpbcjBAS3shEY8ClLkqoyrqXP/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logarithmic Operations' img={LogarithmicOperations} link='https://drive.google.com/file/d/15H59of41yq0paTAAmJUwl6ozUJ6S01oZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Change of Base Formula' img={ChangeofBaseFormula} link='https://drive.google.com/file/d/1zaoBrmwIEj6Pae57m_VQ54N-3WtokHUc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Exponential Functions' img={GraphingExponentialFunctions} link='https://drive.google.com/file/d/1qPIRVmFIW2Kr2n4a7xJkMBLzbh6X1sKW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Exponential Functions2' img={GraphingExponentialFunctions2} link='https://drive.google.com/file/d/1EqZF2c9C5YB2Q7V41ak4KIcPXAwKPinQ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Logarithms' img={GraphignLogarithmicFunctions2} link='https://drive.google.com/file/d/1cvMKcvVpNeWL-GMk-RXuPA1yrfJvNnK3/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Logarithms 2' img={GraphingLogarithms} link='https://drive.google.com/file/d/1hlnGHwa76wk_aG45esE2ZKbuLxvtyrCU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logs and Exponents Word Problems' img={LogsandExponentsWordProblems} link='https://drive.google.com/file/d/1p4kn05ySh09YElnz3PGZdEujiyguegLd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Applications of Logs and Exponents' img={ApplicationsofLogsandExponents} link='https://drive.google.com/file/d/1Htt-8eE2fKyEz36zAcBet8ss9F4z_ftW/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Compound Interest' img={CompoundInterest} link='https://drive.google.com/file/d/1SoCrqqSoiR3uJdL_l1bElbEyEWptBe_W/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logarithms Review' img={LogarithmsReview} link='https://drive.google.com/file/d/1uyjTY6PflLoM-p9OH2UUGGDsXX1Qj6Q0/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Logarithms Review 2' img={LogarithmsReview2} link='https://drive.google.com/file/d/1X1IuaDgaYadZFi1NY7DPKr_rXEPGhl4z/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Greatest Integer Function' img={GreatestIntegerFunction} link='https://drive.google.com/file/d/1xhzPGmiApZ9gvilPmsvv85dd5EFUkuLn/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Complex Numbers Intro' img={ComplexNumbersIntro} link='https://drive.google.com/file/d/1nxg7WdOTFkeOut3GJIJALEnHIlyYHb10/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Complex Numbers Review' img={ComplexNumbersReview} link='https://drive.google.com/file/d/1bbAcrrAbtBdaise_l-8hqyz6NYte4eQC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Complex Quadratics' img={ComplexQuadratics} link='https://drive.google.com/file/d/1-MHPFbVRjmgvWxpCxy555sDeOaq5Uq6N/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Complex Quadratics 2' img={ComplexQuadratics2} link='https://drive.google.com/file/d/1UIhL1RpYp4lKz-zC_0jX_5HYhH7JkrFi/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simplifying Complex Numbers' img={SimplifyingComplexNumbers} link='https://drive.google.com/file/d/1kn5TjoA8VQ9G-rYh2BeSQ_8Rz5ImB9Oq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Operations with Complex Numbers' img={OperationswithComplexNumbers} link='https://drive.google.com/file/d/1QXd2K-HPg-lqVRCk1Emxtt3Kq1O2R6vc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Operations with Complex Numbers 2' img={OperationswithComplexNumbers2} link='https://drive.google.com/file/d/1KmemxN1qDvFVQfXe6UPQRop-p8rDN_vE/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Complex Numbers' img={PropertiesofComplexNumbers} link='https://drive.google.com/file/d/1C3lQigMXuqRAw1jtJJ8gl3PGr7MasBf8/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems by Elimination' img={SystemsbyElimination} link='https://drive.google.com/file/d/1r1YgEIQZLZr0Pnmm5sNgAhF7cFNyBjTu/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems by Graphing' img={SystemsbyGraphing} link='https://drive.google.com/file/d/1GLmpjt7ILmfiVbtZ-FLT1zMjWboNLtGd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems by Inspection' img={SystemsbyInspection} link='https://drive.google.com/file/d/1iRcGUukf0IAAM-A9jputqQT3g7zZyy1C/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems by Substitution' img={SystemsbyInspection} link='https://drive.google.com/file/d/17ooOpFhktbO7Y_R4uY5ewlHWkKRh8rqZ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems Review' img={SystemsReview} link='https://drive.google.com/file/d/1vIFjvgArwH6ufvZ3OmTmCz1MKLJ7o4RF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems Test 1' img={SystemsTest1} link='https://drive.google.com/file/d/16R3SMkPnGuKHg5rNbRlexgmVQ2OXRBod/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems Word Problems' img={SystemsWordProblems} link='https://drive.google.com/file/d/1QxsifHXJQNQ7U_e9y3rg3FiN-XfDaTQ4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems Word Problems 2' img={SystemsWordProblems2} link='https://drive.google.com/file/d/1G0sjhksDsQG7n7EUrurE2CjTm8nIYPRn/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Rational Expressions' img={MultiplyingRationalExpressions} link='https://drive.google.com/file/d/1hG9yiDMblnrQ5OYu0ykuum3yRBIEatUJ/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Rational Expressions Review' img={RationalExpressionsReview} link='https://drive.google.com/file/d/14iNyH9YoADsMvH3iBQHjIvvG2sykqvKY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simplifying Rational Expressions' img={SimplifyingRationalExpressions} link='https://drive.google.com/file/d/1297YzTuOcLT5vAi1QElnAp4N0h58MOID/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solving Rational Equations' img={SolvingRationalEquations} link='https://drive.google.com/file/d/1zaNz0h_yZf2oSVs3t68-D2WCzmAeIbqH/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simplifying Radicals' img={SimplifyingRadicals} link='https://drive.google.com/file/d/1sVG5q5DkLRzaDaffo-BqJkYPuTAnOQRi/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simplifying Radicals Review' img={SimplifyingRadicalsReview} link='https://drive.google.com/file/d/18iw3e2sW6EQGhfjHB84UhdkHhU4rvjmg/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Dividing Radicals' img={DividingRadicals} link='https://drive.google.com/file/d/1LeD4dnSKszki28WC-mjTK97iF3ySn2QC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Factoring Quadratic Expressions' img={FactoringQuadraticExpressions} link='https://drive.google.com/file/d/1VuTF8kQXJZlNNY1AS0NiMAdxyJyiHyvB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratics Vertex Form' img={QuadraticsVertexForm} link='https://drive.google.com/file/d/1kGmQent_LsdhdlNv0oyvuCoH7tw-euH3/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratics All Methods' img={QuadraticsAllMethods} link='https://drive.google.com/file/d/1BTeSLJ53lVCA7ZxPJeeCMCRSmqsa4Qh_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratics Factored Form' img={QuadraticsFactoredForm} link='https://drive.google.com/file/d/1rHhNLX97FZQ63P-KTXqP4Bcb7_dv50o5/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Functions Intro' img={QuadraticFunctionsIntro} link='https://drive.google.com/file/d/1gQiEDqmhMmGC9BM8xvKqGz4xsgDEHB3H/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solving Quadratics by Square Roots2' img={SolvingQuadraticsbySquareRoots2} link='https://drive.google.com/file/d/1PYevrHXgMJbMV6rpLE3lGGmACTm_2wys/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratics Standard Form2' img={QuadraticsStandardForm2} link='https://drive.google.com/file/d/1gBjAj5sO6Kz0d3DPiVO2VbAQYZODs5mm/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solving Quadratics by Square Roots' img={SolvingQuadraticsbySquareRoots} link='https://drive.google.com/file/d/1D2aQn6b7K0n_h9QTGXKyMi-iCByanXfB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Differences of Squares2' img={DifferencesofSquares2} link='https://drive.google.com/file/d/1w4xErwj-tpNeQY0HnraW14HxlGwkiJxM/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Word Problems' img={QuadraticWordProblems} link='https://drive.google.com/file/d/1gat0Uh8WUu0y-l6aXmwBWHStUp1nwW5X/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratics Standard Form' img={QuadraticsStandardForm} link='https://drive.google.com/file/d/1e0fksjVw5MIHb_yeRr9VhHbdz3t4hEek/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Word Problems2' img={QuadraticWordProblems2} link='https://drive.google.com/file/d/1wPqkHSMAVwVXE4b_JBMDLFSmQVh-0PH5/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Zero Product Property' img={ZeroProductProperty} link='https://drive.google.com/file/d/142fcHHW6ZhkXB_h7j6wG-geHnDNNxI_J/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Formula' img={QuadraticFormula} link='https://drive.google.com/file/d/1RjJPkizK4KwqhBERvQMXEInPqRWwH9-i/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Word Problems 3' img={QuadraticWordProblems3} link='https://drive.google.com/file/d/1xEzckwNLx_e-bSkV_Kevixk6klw0onV0/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Difference of Squares' img={DifferenceofSquares} link='https://drive.google.com/file/d/15prJTBAOzCALNkvrHvgb8Zz767WonBgs/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Perfect Square Trinomials' img={PerfectSquareTrinomials} link='https://drive.google.com/file/d/13Zv2361VD1DsqKgGsH80W_1s8Q45SMYe/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Quadratic Equations By Completing the Square' img={QuadraticEquationsByCompletingtheSquare} link='https://drive.google.com/file/d/1kYtb1fXRRvTGTwWAoVNoDM6ItabPlJwv/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='The Discriminant' img={TheDiscriminant} link='https://drive.google.com/file/d/17O6rPNrPMPfJcAwl2sQyzR3hi8uKg8eB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Vertex Form' img={GraphingVertexForm} link='https://drive.google.com/file/d/1pyWHPy4oPdDm-mZGfLa7Z84LaxqXNSHq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Binomials' img={MultiplyingBinomials} link='https://drive.google.com/file/d/16q4b6dhSRI5ShY6_mNPiNLuiAiKjBylB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Polynomials' img={MultiplyingPolynomials} link='https://drive.google.com/file/d/1PAHkKBuLN3aUBAcpSFKynXny9n9hHl7_/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Multiplying Monomials' img={MultiplyingMonomials} link='https://drive.google.com/file/d/1DJG9tvA5Lp0nYbaF9nDMuPZ2Xd56jdzf/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Polynomial Operations Review' img={PolynomialOperationsReview} link='https://drive.google.com/file/d/1byzZYrwslBu2hAUYyy_ZhzzqUdeg4_Bp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Equations From Table' img={EquationsFromTable} link='https://drive.google.com/file/d/1EfUUmCNNi0hMKBechoE8D0V0ISuieTC6/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Horizontal Vertical Lines' img={HorizontalVerticalLines} link='https://drive.google.com/file/d/1ZOdx0soDaO2cHWZSLiZOnUhIkcNuU18X/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Linear Standard Form' img={LinearStandardForm} link='https://drive.google.com/file/d/1Bbd8RNSNyPnuW9GYjBA5koYQk6qUKWyN/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Linear Word Problems' img={LinearWordProblems} link='https://drive.google.com/file/d/1BcAoWHN-vMrpjberacxu9XOKN_a3queL/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Point Slope' img={PointSlope} link='https://drive.google.com/file/d/1GW2vu1Zd2L4ub_5ATEvgn9vwPzpR0w3m/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Slope From an Equation' img={SlopeFromanEquation} link='https://drive.google.com/file/d/1b1Sqp1DlO-Pt8kOxDdInXFEQ2wT4HEoc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Slope' img={Slope} link='https://drive.google.com/file/d/1iWSQQJH350OlJ8JrQ1llkbv9Z-frl3oO/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Writing Linear Equations' img={WritingLinearEquations} link='https://drive.google.com/file/d/1HfSoA6e99b0vZsG9u5ExkEJa7mc4LgyS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Combining Like Terms' img={CombiningLikeTerms} link='https://drive.google.com/file/d/1-77XST8dkuWRxM5atLs4plcqLhcagqid/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Distributive Property' img={DistributiveProperty} link='https://drive.google.com/file/d/12OKO7XXVRNDwet-cYZMcFcY5Nz4Ko9nq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solve x,y by Addition' img={XYAdd} link='https://drive.google.com/file/d/1RaYl8LAFw1bC1xquHnGpgQ8EWgKELUy7/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Solve x,y by Subtraction' img={XYSub} link='https://drive.google.com/file/d/1okjCsMj8-g-PKMtWWH9Y2IJovo9Xm1L2/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='100 Easy Quadratics' img={EasyQuadratics} link='https://drive.google.com/file/d/1x1HnhwYjkFKrL_fdhRaHLTKBxSuc0sqd/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='100 Difficult Quadratics' img={DifficultQuadratics} link='https://drive.google.com/file/d/1byqPKA59LKzz95hT0L4vVSToq6ZGy0FU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Graphing Inequalities' img={GraphingInequalities} link='https://drive.google.com/file/d/1B6M6zZByHD3K1D0XHL3w20hKV2dFAVut/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inequalities Review' img={InequalitiesReview} link='https://drive.google.com/file/d/14SJq9UfxnQoUReXF05KoAiCUyIRF0KHI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inequalities Review' img={InequalitiesReview} link='https://drive.google.com/file/d/1txnVzCi6nAAR3X9eYgH-gcnhsM9y9zzA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inequalities Word Problems' img={InequalitiesWordProblems} link='https://drive.google.com/file/d/1rxiyFTfyq3THWvT8mLj1wLXuEtEPTcji/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Systems of Inequalities' img={SystemsofInequalities} link='https://drive.google.com/file/d/1Ctr-lwrDWHcQ3Mhtdd_TlH4JVy9wGQAY/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Average Rate of Change' img={AverageRateofChange} link='https://drive.google.com/file/d/1YxdmQJULQFQGVeCP86vxR9d5_rujojH7/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Average Rate of Change2' img={AverageRateofChange2} link='https://drive.google.com/file/d/1FKTQBQIxZghVrmC6HrA1LbNJ922N8WHC/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Discrete Relations' img={DiscreteRelations} link='https://drive.google.com/file/d/1WQQvk-TqQVj10glVrqzF0YbxF4Pyb5eB/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Domain and Range' img={DomainandRange} link='https://drive.google.com/file/d/1A9B9BpyBLAiHdZHD3yoRf4I3LSGP9lLT/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Evaluating Functions' img={EvaluatingFunctions} link='https://drive.google.com/file/d/1LPz1lKra4Gr-jq3h6r9CPvKQ0Q2D2M49/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Function Notation' img={FunctionNotation} link='https://drive.google.com/file/d/1aVxdYdbCAmLoOLsLAk8omzUB3zZBJJVl/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Function Operations' img={FunctionOperations} link='https://drive.google.com/file/d/1d0w5p2PLIlDxfIjX8M3OqZwVw6n-s1XN/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Functions Review' img={FunctionsReview} link='https://drive.google.com/file/d/1I5dC-kyWoqTeW03jvpo33oqXEbAvCBJD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Functions Test' img={FunctionsTest} link='https://drive.google.com/file/d/1LITNk0t_zqBX41yie-NLtNYIVSuHJol-/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Functions Test 2' img={FunctionsTest2} link='https://drive.google.com/file/d/1lkbnEhSf2cCkpWz3vUSiDggaiFJG8ue5/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Identifying Functions' img={IdentifyingFunctions} link='https://drive.google.com/file/d/1NEv_cVXC2ZZ0OK-Rrk_9KTi7ZsawJoWy/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Interval Notation' img={IntervalNotation} link='https://drive.google.com/file/d/19GXn4ia27-HzOiaelPkG1p9zEd2pPNzt/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Interval Notation 2' img={IntervalNotation2} link='https://drive.google.com/file/d/1rUmHqVZes8Aqwg2W_n1fyewAkxKHITDs/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Intervals of Increase and Decrease' img={IntervalsofIncreaseDecrease} link='https://drive.google.com/file/d/1dQJ5or0sO1QzvVDACJSpO1jpzdW0DYg4/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Exponents and Division' img={ExponentsandDivision} link='https://drive.google.com/file/d/1ZK64bMmKCzHyll3IvTK5aSN3HSYsfVbF/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Exponents and Multiplication' img={ExponentsandMultiplication} link='https://drive.google.com/file/d/1149N3igpiljeA-F8muCvJHSz4B8HOUmr/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Exponents Review' img={ExponentsReview} link='https://drive.google.com/file/d/1JAnqCdOaHigEQhPUqVhC1vGHKjDyu-sc/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Powers of Products and Quotients' img={PowersofProductsandQuotients} link='https://drive.google.com/file/d/1coFFsHrT9hB3oQX4kN9cXWLdDCMppPjp/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Properties of Exponents' img={PropertiesofExponents} link='https://drive.google.com/file/d/1_PrHxvOk7JY01JW11OjMbjrAvrxabF9m/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Simplifying Exponents' img={SimplifyingExponents} link='https://drive.google.com/file/d/1PxDQudXOqFX1K-4A1EkENTAZ6pUufpQS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Linear vs Exponential' img={LinearvsExponential} link='https://drive.google.com/file/d/1PIUZDhQ0Z8oZIwr_UZqYaRrdQItvgA_J/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Exponential Functions Review' img={ExponentialFunctionsReview} link='https://drive.google.com/file/d/1S8MNuhaI_oeuJEBRN5JWlaShbpXTADlq/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Compound Inequalities' img={CompoundInequalities} link='https://drive.google.com/file/d/1zHP6kv7FVLz76D_u5pTZiOX49WQai3kU/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inequalities Review' img={InequalitiesReview} link='https://drive.google.com/file/d/14SJq9UfxnQoUReXF05KoAiCUyIRF0KHI/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Inequalities Review' img={InequalitiesReview} link='https://drive.google.com/file/d/1txnVzCi6nAAR3X9eYgH-gcnhsM9y9zzA/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Variables Both Sides' img={VariablesBothSides} link='https://drive.google.com/file/d/1Q_OnBw4YJbNr2cXw0kV3OPauGQTocZMS/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Absolute Value Equations' img={AbsoluteValueEquations} link='https://drive.google.com/file/d/1QXegcIenAi9z8uUGYsA-rCXuo-e5R9oD/view?usp=sharing' target='_blank' body = 'Download PDF' />
+<File title='Absolute Value Intro' img={AbsoluteValueIntro} link='https://drive.google.com/file/d/1UBLnjUr4F8HUXwncaklO47yI2Q1ztqQe/view?usp=sharing' target='_blank' body = 'Download PDF' />

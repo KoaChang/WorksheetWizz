@@ -1,0 +1,18 @@
+<File title='Integrating Trig Functions' img={IntegratingTrigFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Second Fundamental Theorem of Calculus' img={SecondFundamentalTheoremofCalculus} link='' target='_blank' body='Download PDF'/>
+<File title='Integrating by Partial Fractions Review' img={IntegratingbyPartialFractionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='First Fundamental Theorem of Calculus' img={FirstFundamentalTheoremofCalculus} link='' target='_blank' body='Download PDF'/>
+<File title='Second Fundamental Theorem of Calculus Review' img={SecondFundamentalTheoremofCalculusReview} link='' target='_blank' body='Download PDF'/>
+<File title='Integration by Partial Fractions' img={IntegrationbyPartialFractions} link='' target='_blank' body='Download PDF'/>
+<File title='Indefinite Integrals' img={IndefiniteIntegrals} link='' target='_blank' body='Download PDF'/>
+<File title='Fundamental Theorem of Calculus Review' img={FundamentalTheoremofCalculusReview} link='' target='_blank' body='Download PDF'/>
+<File title='Definite Integrals with Substitutions' img={DefiniteIntegralswithSubstitutions} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Substitutions Integrals' img={TrigSubstitutionsIntegrals} link='' target='_blank' body='Download PDF'/>
+<File title='Accumalation of Change' img={AccumalationofChange} link='' target='_blank' body='Download PDF'/>
+<File title='Integration by Substitution ' img={IntegrationbySubstitution} link='' target='_blank' body='Download PDF'/>
+<File title='Integration by Parts Review' img={IntegrationbyPartsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Definite Integrals 2' img={DefiniteIntegrals2} link='' target='_blank' body='Download PDF'/>
+<File title='Integration by Parts 2' img={IntegrationbyParts2} link='' target='_blank' body='Download PDF'/>
+<File title='Integration by Parts' img={IntegrationbyParts} link='' target='_blank' body='Download PDF'/>
+<File title='Definite Integrals' img={DefiniteIntegrals} link='' target='_blank' body='Download PDF'/>
+<File title='Integration by Substitution Review' img={IntegrationbySubstitutionReview} link='' target='_blank' body='Download PDF'/>

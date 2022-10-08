@@ -1,0 +1,11 @@
+<File title='Comparison, Ratio, Root Test' img={Comparison,Ratio,RootTest} link='' target='_blank' body='Download PDF'/>
+<File title='Maclaurin and Taylor Series' img={MaclaurinandTaylorSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Power Series' img={PowerSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Differentiating and Integrating Taylor Series' img={DifferentiatingandIntegratingTaylorSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Lagrange Error Bound' img={LagrangeErrorBound} link='' target='_blank' body='Download PDF'/>
+<File title='Absolute and Condition Convergence' img={AbsoluteandConditionConvergence} link='' target='_blank' body='Download PDF'/>
+<File title='Convergence of Taylor Series' img={ConvergenceofTaylorSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Convergence Tests' img={ConvergenceTests} link='' target='_blank' body='Download PDF'/>
+<File title='Infinite Series' img={InfiniteSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Monotone Sequences' img={MonotoneSequences} link='' target='_blank' body='Download PDF'/>
+<File title='Sequences' img={Sequences} link='' target='_blank' body='Download PDF'/>

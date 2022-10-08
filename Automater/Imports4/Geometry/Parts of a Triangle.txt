@@ -1,0 +1,8 @@
+<File title='Medians' img={Medians} link='' target='_blank' body='Download PDF'/>
+<File title='Angle Bisectors' img={AngleBisectors} link='' target='_blank' body='Download PDF'/>
+<File title='Perpendicular Bisectors' img={PerpendicularBisectors} link='' target='_blank' body='Download PDF'/>
+<File title='Altitudes' img={Altitudes} link='' target='_blank' body='Download PDF'/>
+<File title='Parts of a Triangle' img={PartsofaTriangle} link='' target='_blank' body='Download PDF'/>
+<File title='Euler_s Line' img={Euler_sLine} link='' target='_blank' body='Download PDF'/>
+<File title='Parts of a Triangle 2' img={PartsofaTriangle2} link='' target='_blank' body='Download PDF'/>
+<File title='Perpendicular Bisectors 2' img={PerpendicularBisectors2} link='' target='_blank' body='Download PDF'/>

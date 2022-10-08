@@ -1,0 +1,4 @@
+import PolarEquations from './Polar Equations.jpg'
+import ParametricEquations from './Parametric Equations.jpg'
+import ParametricEquationsReview from './Parametric Equations Review.jpg'
+import ParametricTangentLinesandArcLength from './Parametric Tangent Lines and Arc Length.jpg'

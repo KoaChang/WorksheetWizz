@@ -1,0 +1,7 @@
+import QuadraticSystems from './Quadratic Systems.jpg'
+import SquareRootEquations2 from './Square Root Equations 2.jpg'
+import SquareRootEquations3 from './Square Root Equations 3.jpg'
+import SquareRootEquations from './Square Root Equations.jpg'
+import QuadraticSystemsReview from './Quadratic Systems Review.jpg'
+import QuadraticSystems3 from './Quadratic Systems 3.jpg'
+import QuadraticSystems2 from './Quadratic Systems 2.jpg'

@@ -1,0 +1,12 @@
+<File title='Law of Sines and Cosines Word Problems' img={LawofSinesandCosinesWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Law of Sines Cosines 3' img={LawofSinesCosines3} link='' target='_blank' body='Download PDF'/>
+<File title='Angle of Elevation and Depression' img={AngleofElevationandDepression} link='' target='_blank' body='Download PDF'/>
+<File title='Pythagorean Theorem' img={PythagoreanTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='Law of Sines and Cosines 2' img={LawofSinesandCosines2} link='' target='_blank' body='Download PDF'/>
+<File title='Right Triangle Trig Missing Sides and Angles' img={RightTriangleTrigMissingSidesandAngles} link='' target='_blank' body='Download PDF'/>
+<File title='Special Right Triangles' img={SpecialRightTriangles} link='' target='_blank' body='Download PDF'/>
+<File title='Law of Sines and Cosines Word Problems 2' img={LawofSinesandCosinesWordProblems2} link='' target='_blank' body='Download PDF'/>
+<File title='Law of Sines and Cosines' img={LawofSinesandCosines} link='' target='_blank' body='Download PDF'/>
+<File title='Right Trangle Trig Review 2' img={RightTrangleTrigReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Mean' img={GeometricMean} link='' target='_blank' body='Download PDF'/>
+<File title='Right Triangle Trig Review' img={RightTriangleTrigReview} link='' target='_blank' body='Download PDF'/>

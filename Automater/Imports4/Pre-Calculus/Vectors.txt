@@ -1,0 +1,8 @@
+<File title='Vector Dot Product' img={VectorDotProduct} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Word Problems' img={VectorWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Vectors Review' img={VectorsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Word Problems 2' img={VectorWordProblems2} link='' target='_blank' body='Download PDF'/>
+<File title='Vectors Introduction' img={VectorsIntroduction} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Addition' img={VectorAddition} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Operations' img={VectorOperations} link='' target='_blank' body='Download PDF'/>
+<File title='Vectors Component Form' img={VectorsComponentForm} link='' target='_blank' body='Download PDF'/>

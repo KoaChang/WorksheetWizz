@@ -1,0 +1,9 @@
+<File title='Multiplying Polynomials3' img={MultiplyingPolynomials3} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplying Polynomials2' img={MultiplyingPolynomials2} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplying Binomials' img={MultiplyingBinomials} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplying Polynomials' img={MultiplyingPolynomials} link='' target='_blank' body='Download PDF'/>
+<File title='Adding Subtracting Polynomials3' img={AddingSubtractingPolynomials3} link='' target='_blank' body='Download PDF'/>
+<File title='Adding Subtracting Polynomials2' img={AddingSubtractingPolynomials2} link='' target='_blank' body='Download PDF'/>
+<File title='Adding Subtracting Polynomials' img={AddingSubtractingPolynomials} link='' target='_blank' body='Download PDF'/>
+<File title='Polynomial Operations Review' img={PolynomialOperationsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplying Monomials' img={MultiplyingMonomials} link='' target='_blank' body='Download PDF'/>

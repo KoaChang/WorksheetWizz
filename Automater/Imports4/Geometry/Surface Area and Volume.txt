@@ -1,0 +1,6 @@
+<File title='Surface Area' img={SurfaceArea} link='' target='_blank' body='Download PDF'/>
+<File title='Volumes of Solids' img={VolumesofSolids} link='' target='_blank' body='Download PDF'/>
+<File title='Areas, Surface Areas, Volumes' img={Areas,SurfaceAreas,Volumes} link='' target='_blank' body='Download PDF'/>
+<File title='Surface Area and Volumes Reivew' img={SurfaceAreaandVolumesReivew} link='' target='_blank' body='Download PDF'/>
+<File title='Ratios of Similar Solids 2' img={RatiosofSimilarSolids2} link='' target='_blank' body='Download PDF'/>
+<File title='Ratios of Similar Solids' img={RatiosofSimilarSolids} link='' target='_blank' body='Download PDF'/>

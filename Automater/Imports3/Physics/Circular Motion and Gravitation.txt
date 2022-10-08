@@ -1,0 +1,3 @@
+import CircularMotion from './Circular Motion.jpg'
+import CircularMotionandCentripetalAcceleration from './Circular Motion and Centripetal Acceleration.jpg'
+import UniversalLawofGravitation from './Universal Law of Gravitation.jpg'

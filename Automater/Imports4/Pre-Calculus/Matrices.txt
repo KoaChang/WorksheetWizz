@@ -1,0 +1,7 @@
+<File title='Inverse Matrices' img={InverseMatrices} link='' target='_blank' body='Download PDF'/>
+<File title='Adding and Subtracting Matrices' img={AddingandSubtractingMatrices} link='' target='_blank' body='Download PDF'/>
+<File title='Matrix Multiplication' img={MatrixMultiplication} link='' target='_blank' body='Download PDF'/>
+<File title='Determinants, 3x3' img={Determinants,3x3} link='' target='_blank' body='Download PDF'/>
+<File title='Systems with Matrices' img={SystemswithMatrices} link='' target='_blank' body='Download PDF'/>
+<File title='Matrices Review' img={MatricesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Determinants, 2x2' img={Determinants,2x2} link='' target='_blank' body='Download PDF'/>

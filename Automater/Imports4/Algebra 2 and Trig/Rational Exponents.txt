@@ -1,0 +1,3 @@
+<File title='Rational Exponents_Radicals Review' img={RationalExponents_RadicalsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Radicals and Rational Exponents' img={RadicalsandRationalExponents} link='' target='_blank' body='Download PDF'/>
+<File title='Simplifying Rational Exponents' img={SimplifyingRationalExponents} link='' target='_blank' body='Download PDF'/>

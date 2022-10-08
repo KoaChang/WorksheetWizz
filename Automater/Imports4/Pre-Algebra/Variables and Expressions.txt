@@ -1,0 +1,8 @@
+<File title='Number Patterns' img={NumberPatterns} link='' target='_blank' body='Download PDF'/>
+<File title='Evaluating Variable Expressions' img={EvaluatingVariableExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Mad Minutes' img={MadMinutes} link='' target='_blank' body='Download PDF'/>
+<File title='Completing Patterns' img={CompletingPatterns} link='' target='_blank' body='Download PDF'/>
+<File title='Number Patterns 2' img={NumberPatterns2} link='' target='_blank' body='Download PDF'/>
+<File title='Evaluating Expressions' img={EvaluatingExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Parts of an Expressions 2' img={PartsofanExpressions2} link='' target='_blank' body='Download PDF'/>
+<File title='Parts of an Expression' img={PartsofanExpression} link='' target='_blank' body='Download PDF'/>

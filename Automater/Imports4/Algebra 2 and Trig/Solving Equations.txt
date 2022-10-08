@@ -1,0 +1,7 @@
+<File title='Quadratic Systems' img={QuadraticSystems} link='' target='_blank' body='Download PDF'/>
+<File title='Square Root Equations 2' img={SquareRootEquations2} link='' target='_blank' body='Download PDF'/>
+<File title='Square Root Equations 3' img={SquareRootEquations3} link='' target='_blank' body='Download PDF'/>
+<File title='Square Root Equations' img={SquareRootEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Systems Review' img={QuadraticSystemsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Systems 3' img={QuadraticSystems3} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Systems 2' img={QuadraticSystems2} link='' target='_blank' body='Download PDF'/>

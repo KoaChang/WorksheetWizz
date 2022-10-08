@@ -1,0 +1,4 @@
+<File title='Chi Square Homogeneity Test' img={ChiSquareHomogeneityTest} link='' target='_blank' body='Download PDF'/>
+<File title='Chi Square Tests Review' img={ChiSquareTestsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Chi Square Goodness of Fit and Independence' img={ChiSquareGoodnessofFitandIndependence} link='' target='_blank' body='Download PDF'/>
+<File title='Chi Squre Goodness of Fit' img={ChiSqureGoodnessofFit} link='' target='_blank' body='Download PDF'/>

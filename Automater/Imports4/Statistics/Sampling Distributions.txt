@@ -1,0 +1,7 @@
+<File title='Central Limit Theorem' img={CentralLimitTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Distributions 2' img={SamplingDistributions2} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Distributions' img={SamplingDistributions} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Distribution of the Sample Mean' img={SamplingDistributionoftheSampleMean} link='' target='_blank' body='Download PDF'/>
+<File title='Central Limit Theorem 2' img={CentralLimitTheorem2} link='' target='_blank' body='Download PDF'/>
+<File title='Sample Proportions and Means' img={SampleProportionsandMeans} link='' target='_blank' body='Download PDF'/>
+<File title='Sample Distribution of a Sampling Distribution' img={SampleDistributionofaSamplingDistribution} link='' target='_blank' body='Download PDF'/>

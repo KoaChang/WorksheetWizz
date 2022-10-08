@@ -1,0 +1,7 @@
+import PercentsReview from './Percents Review.jpg'
+import PercentWordProblems from './Percent Word Problems.jpg'
+import PercentChange2 from './Percent Change 2.jpg'
+import Fractions,Decimals,andPercents from './Fractions, Decimals, and Percents.jpg'
+import PercentsReview2 from './Percents Review 2.jpg'
+import PercentChange from './Percent Change.jpg'
+import PercentProblems from './Percent Problems.jpg'

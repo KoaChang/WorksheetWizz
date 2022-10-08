@@ -1,0 +1,4 @@
+import ChiSquareHomogeneityTest from './Chi Square Homogeneity Test.jpg'
+import ChiSquareTestsReview from './Chi Square Tests Review.jpg'
+import ChiSquareGoodnessofFitandIndependence from './Chi Square Goodness of Fit and Independence.jpg'
+import ChiSqureGoodnessofFit from './Chi Squre Goodness of Fit.jpg'

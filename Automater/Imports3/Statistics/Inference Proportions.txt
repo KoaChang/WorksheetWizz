@@ -1,0 +1,8 @@
+import ConfidenceIntervalsforProportions from './Confidence Intervals for Proportions.jpg'
+import Type1and2Error from './Type 1 and 2 Error.jpg'
+import Type1and2Errors from './Type 1 and 2 Errors.jpg'
+import ConfidenceIntervalsforProportions2 from './Confidence Intervals for Proportions 2.jpg'
+import InferenceProportionsandMeansReview from './Inference Proportions and Means Review.jpg'
+import TwoPopulationHypothesisTesting from './Two Population Hypothesis Testing.jpg'
+import OneProportionHypothesisTesting from './One Proportion Hypothesis Testing .jpg'
+import InferenceProportionsReview from './Inference Proportions Review.jpg'

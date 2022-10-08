@@ -1,0 +1,5 @@
+import InverseFunctionsReview from './Inverse Functions Review.jpg'
+import OneToOneFunctions from './One To One Functions.jpg'
+import FindingInverseFunctions from './Finding Inverse Functions.jpg'
+import VerifyingInverses from './Verifying Inverses.jpg'
+import InverseFunctionsGraphically from './Inverse Functions Graphically.jpg'

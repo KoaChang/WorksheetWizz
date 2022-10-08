@@ -1,0 +1,6 @@
+import ExponentsReview from './Exponents Review.jpg'
+import ExponentsandMultiplication from './Exponents and Multiplication.jpg'
+import SimplifyingExponents from './Simplifying Exponents.jpg'
+import ExponentsandDivision from './Exponents and Division.jpg'
+import PowersofProductsandQuotients from './Powers of Products and Quotients.jpg'
+import PropertiesofExponents from './Properties of Exponents.jpg'

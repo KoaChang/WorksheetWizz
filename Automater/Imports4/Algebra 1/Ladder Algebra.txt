@@ -1,0 +1,12 @@
+<File title='X_s on Both Sides' img={X_sonBothSides} link='' target='_blank' body='Download PDF'/>
+<File title='100 Difficult Quadratics' img={100DifficultQuadratics} link='' target='_blank' body='Download PDF'/>
+<File title='Combining Like Terms' img={CombiningLikeTerms} link='' target='_blank' body='Download PDF'/>
+<File title='Solve x,y by Add_Sub' img={Solvex,ybyAdd_Sub} link='' target='_blank' body='Download PDF'/>
+<File title='One Step Equations' img={OneStepEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Solve x,y by Subtraction' img={Solvex,ybySubtraction} link='' target='_blank' body='Download PDF'/>
+<File title='Two Step Equations' img={TwoStepEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Solve x,y by Addition' img={Solvex,ybyAddition} link='' target='_blank' body='Download PDF'/>
+<File title='Solve for x,y by substitution' img={Solveforx,ybysubstitution} link='' target='_blank' body='Download PDF'/>
+<File title='Distributive Property' img={DistributiveProperty} link='' target='_blank' body='Download PDF'/>
+<File title='Solve x,y Multiplication' img={Solvex,yMultiplication} link='' target='_blank' body='Download PDF'/>
+<File title='100 Easy Quadratics' img={100EasyQuadratics} link='' target='_blank' body='Download PDF'/>

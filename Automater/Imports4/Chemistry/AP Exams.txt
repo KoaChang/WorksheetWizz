@@ -1,0 +1,2 @@
+<File title='AP Chemistry Practice Exam' img={APChemistryPracticeExam} link='' target='_blank' body='Download PDF'/>
+<File title='AP Chemistry 2018 FRQ' img={APChemistry2018FRQ} link='' target='_blank' body='Download PDF'/>

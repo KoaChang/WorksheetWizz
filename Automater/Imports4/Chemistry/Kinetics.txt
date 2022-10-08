@@ -1,0 +1,3 @@
+<File title='Kinetics Review' img={KineticsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Kinetics Practice Problems' img={KineticsPracticeProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Kinetics Practice Test' img={KineticsPracticeTest} link='' target='_blank' body='Download PDF'/>

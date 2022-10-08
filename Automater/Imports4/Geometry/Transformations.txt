@@ -1,0 +1,11 @@
+<File title='Translations 3' img={Translations3} link='' target='_blank' body='Download PDF'/>
+<File title='Translations 2' img={Translations2} link='' target='_blank' body='Download PDF'/>
+<File title='Transformations Review' img={TransformationsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Transformations Review 2' img={TransformationsReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Dilations 3' img={Dilations3} link='' target='_blank' body='Download PDF'/>
+<File title='Dilations 2' img={Dilations2} link='' target='_blank' body='Download PDF'/>
+<File title='Rotations' img={Rotations} link='' target='_blank' body='Download PDF'/>
+<File title='Rotations 2' img={Rotations2} link='' target='_blank' body='Download PDF'/>
+<File title='Translations' img={Translations} link='' target='_blank' body='Download PDF'/>
+<File title='Dilations' img={Dilations} link='' target='_blank' body='Download PDF'/>
+<File title='Reflections' img={Reflections} link='' target='_blank' body='Download PDF'/>

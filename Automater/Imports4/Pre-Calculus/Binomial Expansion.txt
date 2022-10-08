@@ -1,0 +1,6 @@
+<File title='Pascals Triangle 2' img={PascalsTriangle2} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Theorem 2' img={BinomialTheorem2} link='' target='_blank' body='Download PDF'/>
+<File title='Pascals Triangle 3' img={PascalsTriangle3} link='' target='_blank' body='Download PDF'/>
+<File title='Pascals Triangle' img={PascalsTriangle} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Expansion Review' img={BinomialExpansionReview} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Theorem' img={BinomialTheorem} link='' target='_blank' body='Download PDF'/>

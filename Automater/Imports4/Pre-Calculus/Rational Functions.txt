@@ -1,0 +1,8 @@
+<File title='Rational Functions End Behavior' img={RationalFunctionsEndBehavior} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Functions Review' img={RationalFunctionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Functions End Behavior 2' img={RationalFunctionsEndBehavior2} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Functions Word Problems' img={RationalFunctionsWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Discontinuities Rational Functions' img={DiscontinuitiesRationalFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Rational Functions' img={GraphingRationalFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Partial Fraction Decomposition' img={PartialFractionDecomposition} link='' target='_blank' body='Download PDF'/>
+<File title='Properties of Rational Functions' img={PropertiesofRationalFunctions} link='' target='_blank' body='Download PDF'/>

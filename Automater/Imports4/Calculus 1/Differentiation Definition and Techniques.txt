@@ -1,0 +1,10 @@
+<File title='Differentiation Techniques Review' img={DifferentiationTechniquesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Quotient Rule' img={QuotientRule} link='' target='_blank' body='Download PDF'/>
+<File title='Derivatives Review' img={DerivativesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Tangents and Derivatives Review' img={TangentsandDerivativesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Definition of Derivatives' img={DefinitionofDerivatives} link='' target='_blank' body='Download PDF'/>
+<File title='Product Rule' img={ProductRule} link='' target='_blank' body='Download PDF'/>
+<File title='Power Constant and Sum Rules' img={PowerConstantandSumRules} link='' target='_blank' body='Download PDF'/>
+<File title='Average vs Instantaneous Rates of Change' img={AveragevsInstantaneousRatesofChange} link='' target='_blank' body='Download PDF'/>
+<File title='Tangent Lines' img={TangentLines} link='' target='_blank' body='Download PDF'/>
+<File title='Definition of the Derivative' img={DefinitionoftheDerivative} link='' target='_blank' body='Download PDF'/>

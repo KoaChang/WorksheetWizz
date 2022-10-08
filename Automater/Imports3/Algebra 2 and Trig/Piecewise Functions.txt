@@ -1,0 +1,6 @@
+import PiecewiseFunctionsReview from './Piecewise Functions Review.jpg'
+import PiecewiseWordProblems from './Piecewise Word Problems.jpg'
+import PiecewiseDomainandRange from './Piecewise Domain and Range.jpg'
+import GraphingPiecewiseFunctions from './Graphing Piecewise Functions.jpg'
+import GraphingPiecewiseFunctions2 from './Graphing Piecewise Functions2.jpg'
+import GraphingPiecewiseFunctions2 from './Graphing Piecewise Functions 2.jpg'

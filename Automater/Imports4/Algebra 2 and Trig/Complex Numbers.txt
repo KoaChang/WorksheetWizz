@@ -1,0 +1,8 @@
+<File title='Complex Quadratics' img={ComplexQuadratics} link='' target='_blank' body='Download PDF'/>
+<File title='Complex Numbers Review' img={ComplexNumbersReview} link='' target='_blank' body='Download PDF'/>
+<File title='Simplifying Complex Numbers' img={SimplifyingComplexNumbers} link='' target='_blank' body='Download PDF'/>
+<File title='Operations with Complex Numbers 2' img={OperationswithComplexNumbers2} link='' target='_blank' body='Download PDF'/>
+<File title='Operations with Complex Numbers' img={OperationswithComplexNumbers} link='' target='_blank' body='Download PDF'/>
+<File title='Complex Quadratics 2' img={ComplexQuadratics2} link='' target='_blank' body='Download PDF'/>
+<File title='Properties of Complex Numbers' img={PropertiesofComplexNumbers} link='' target='_blank' body='Download PDF'/>
+<File title='Complex Numbers Intro' img={ComplexNumbersIntro} link='' target='_blank' body='Download PDF'/>

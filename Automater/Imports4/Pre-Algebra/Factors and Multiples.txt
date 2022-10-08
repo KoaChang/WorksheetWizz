@@ -1,0 +1,6 @@
+<File title='Factor Trees' img={FactorTrees} link='' target='_blank' body='Download PDF'/>
+<File title='Multiples' img={Multiples} link='' target='_blank' body='Download PDF'/>
+<File title='Greatest Common Factoer' img={GreatestCommonFactoer} link='' target='_blank' body='Download PDF'/>
+<File title='Least Common Multiple ' img={LeastCommonMultiple} link='' target='_blank' body='Download PDF'/>
+<File title='Factors' img={Factors} link='' target='_blank' body='Download PDF'/>
+<File title='Prime Factorization' img={PrimeFactorization} link='' target='_blank' body='Download PDF'/>

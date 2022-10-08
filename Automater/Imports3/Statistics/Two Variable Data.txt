@@ -1,0 +1,7 @@
+import LeastSquaresRegressionLine from './Least Squares Regression Line.jpg'
+import ScatterPlots2 from './Scatter Plots 2.jpg'
+import InterpretingRegressionOutput from './Interpreting Regression Output.jpg'
+import ResidualPlots from './Residual Plots.jpg'
+import ScatterPlots from './Scatter Plots.jpg'
+import Residuals from './Residuals.jpg'
+import LinearRegressionReview from './Linear Regression Review.jpg'

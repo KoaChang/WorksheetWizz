@@ -1,0 +1,7 @@
+import SyntheticDivision from './Synthetic Division.jpg'
+import LongDivisionPolynomials from './Long Division Polynomials.jpg'
+import RemainderFactorTheorem from './Remainder Factor Theorem.jpg'
+import DividingPolynomials2 from './Dividing Polynomials 2.jpg'
+import DividingPolynomials from './Dividing Polynomials.jpg'
+import FactorTheorem from './Factor Theorem.jpg'
+import TheRemainderTheorem from './The Remainder Theorem.jpg'

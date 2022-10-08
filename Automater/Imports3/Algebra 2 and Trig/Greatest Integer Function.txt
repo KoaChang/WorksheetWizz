@@ -1,0 +1,2 @@
+import GreatestIntegerFunction2 from './Greatest Integer Function 2.jpg'
+import GreatestIntegerFunction from './Greatest Integer Function.jpg'

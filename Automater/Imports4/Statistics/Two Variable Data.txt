@@ -1,0 +1,7 @@
+<File title='Least Squares Regression Line' img={LeastSquaresRegressionLine} link='' target='_blank' body='Download PDF'/>
+<File title='Scatter Plots 2' img={ScatterPlots2} link='' target='_blank' body='Download PDF'/>
+<File title='Interpreting Regression Output' img={InterpretingRegressionOutput} link='' target='_blank' body='Download PDF'/>
+<File title='Residual Plots' img={ResidualPlots} link='' target='_blank' body='Download PDF'/>
+<File title='Scatter Plots' img={ScatterPlots} link='' target='_blank' body='Download PDF'/>
+<File title='Residuals' img={Residuals} link='' target='_blank' body='Download PDF'/>
+<File title='Linear Regression Review' img={LinearRegressionReview} link='' target='_blank' body='Download PDF'/>

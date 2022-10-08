@@ -1,0 +1,13 @@
+<File title='Probability Intro' img={ProbabilityIntro} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Probability' img={BinomialProbability} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplication Rule Independent Events' img={MultiplicationRuleIndependentEvents} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Distributions' img={BinomialDistributions} link='' target='_blank' body='Download PDF'/>
+<File title='Random Variables and Expected Value' img={RandomVariablesandExpectedValue} link='' target='_blank' body='Download PDF'/>
+<File title='Conditional Probability 2' img={ConditionalProbability2} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Distributions 2' img={BinomialDistributions2} link='' target='_blank' body='Download PDF'/>
+<File title='Random Variables' img={RandomVariables} link='' target='_blank' body='Download PDF'/>
+<File title='Permutations vs Combinations' img={PermutationsvsCombinations} link='' target='_blank' body='Download PDF'/>
+<File title='Transformation of Random Variables' img={TransformationofRandomVariables} link='' target='_blank' body='Download PDF'/>
+<File title='Random Variables 2' img={RandomVariables2} link='' target='_blank' body='Download PDF'/>
+<File title='Probability Review' img={ProbabilityReview} link='' target='_blank' body='Download PDF'/>
+<File title='Conditional Probability' img={ConditionalProbability} link='' target='_blank' body='Download PDF'/>

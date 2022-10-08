@@ -1,0 +1,7 @@
+import Type1and2Error from './Type 1 and 2 Error.jpg'
+import ConfidenceIntervalsforMeans from './Confidence Intervals for Means.jpg'
+import ConfidenceIntervalsforMeans2 from './Confidence Intervals for Means 2.jpg'
+import HypothesisTesting2 from './Hypothesis Testing 2.jpg'
+import Type1and2Errors from './Type 1 and 2 Errors.jpg'
+import InferenceProportionsandMeansReview from './Inference Proportions and Means Review.jpg'
+import HypothesisTestingMeans from './Hypothesis Testing Means.jpg'

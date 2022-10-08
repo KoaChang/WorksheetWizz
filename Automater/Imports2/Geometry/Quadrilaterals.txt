@@ -1,0 +1,1 @@
+import {QuadrilateralsReview,PropertiesofRectangles,IsoscelesTrapezoids,AreaofQuadrilaterals,PropertiesofParallelograms,PropertiesofRhombus2,ClassifyingParallelograms,PropertiesofKites,KitesandTrapezoids,TrapezoidsReview,PropertiesofTrapezoids,PropertiesofRhombus} from "./Preview"

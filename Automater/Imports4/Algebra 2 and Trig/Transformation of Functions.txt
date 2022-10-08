@@ -1,0 +1,7 @@
+<File title='Parent Functions' img={ParentFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Transformations of Graphs' img={TransformationsofGraphs} link='' target='_blank' body='Download PDF'/>
+<File title='Transformations Review' img={TransformationsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Parent Functions2' img={ParentFunctions2} link='' target='_blank' body='Download PDF'/>
+<File title='Transformation Worksheet2' img={TransformationWorksheet2} link='' target='_blank' body='Download PDF'/>
+<File title='Transformations Worksheet3' img={TransformationsWorksheet3} link='' target='_blank' body='Download PDF'/>
+<File title='Transforming Functions Worksheet' img={TransformingFunctionsWorksheet} link='' target='_blank' body='Download PDF'/>

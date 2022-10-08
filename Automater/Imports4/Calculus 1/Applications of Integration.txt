@@ -1,0 +1,8 @@
+<File title='Area as a Limit and Sigma Notation' img={AreaasaLimitandSigmaNotation} link='' target='_blank' body='Download PDF'/>
+<File title='Rectilinear Motion and Average Value Review' img={RectilinearMotionandAverageValueReview} link='' target='_blank' body='Download PDF'/>
+<File title='Shell Method and Arc Length' img={ShellMethodandArcLength} link='' target='_blank' body='Download PDF'/>
+<File title='Volumes Solids and Washers' img={VolumesSolidsandWashers} link='' target='_blank' body='Download PDF'/>
+<File title='Area Between Two Curves' img={AreaBetweenTwoCurves} link='' target='_blank' body='Download PDF'/>
+<File title='Rectilinear Motion Review' img={RectilinearMotionReview} link='' target='_blank' body='Download PDF'/>
+<File title='Riemann Sums' img={RiemannSums} link='' target='_blank' body='Download PDF'/>
+<File title='Average Value of Function' img={AverageValueofFunction} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,8 @@
+<File title='Multiplying Rational Expressions' img={MultiplyingRationalExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Simplifying Rational Expressions' img={SimplifyingRationalExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Adding Subtracting Rational Expressions' img={AddingSubtractingRationalExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Rational Equations' img={SolvingRationalEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Multipling Dividing Rational Expressions' img={MultiplingDividingRationalExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Rational Equations2' img={SolvingRationalEquations2} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Rational Equations3' img={SolvingRationalEquations3} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Expressions Review' img={RationalExpressionsReview} link='' target='_blank' body='Download PDF'/>

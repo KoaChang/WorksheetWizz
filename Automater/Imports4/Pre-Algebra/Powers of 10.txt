@@ -1,0 +1,5 @@
+<File title='Dividing by Powers of 10' img={DividingbyPowersof10} link='' target='_blank' body='Download PDF'/>
+<File title='Evaluating Powers of 10' img={EvaluatingPowersof10} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplying by Powers of 10' img={MultiplyingbyPowersof10} link='' target='_blank' body='Download PDF'/>
+<File title='Scientific Notation 2' img={ScientificNotation2} link='' target='_blank' body='Download PDF'/>
+<File title='Scientific Notation' img={ScientificNotation} link='' target='_blank' body='Download PDF'/>

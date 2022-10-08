@@ -1,0 +1,2 @@
+import Rational_IrrationalClassification from './Rational_Irrational Classification.jpg'
+import Rational_IrrationalReview from './Rational_Irrational Review.jpg'

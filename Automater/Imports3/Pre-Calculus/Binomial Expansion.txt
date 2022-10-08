@@ -1,0 +1,6 @@
+import PascalsTriangle2 from './Pascals Triangle 2.jpg'
+import BinomialTheorem2 from './Binomial Theorem 2.jpg'
+import PascalsTriangle3 from './Pascals Triangle 3.jpg'
+import PascalsTriangle from './Pascals Triangle.jpg'
+import BinomialExpansionReview from './Binomial Expansion Review.jpg'
+import BinomialTheorem from './Binomial Theorem.jpg'

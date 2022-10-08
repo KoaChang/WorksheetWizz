@@ -1,0 +1,9 @@
+<File title='Arithmetic Sequence and Series' img={ArithmeticSequenceandSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Sequences and Series Review' img={SequencesandSeriesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Arithmetic Sequence' img={ArithmeticSequence} link='' target='_blank' body='Download PDF'/>
+<File title='Series Review' img={SeriesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Series' img={GeometricSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Sequences' img={GeometricSequences} link='' target='_blank' body='Download PDF'/>
+<File title='Arithmetic Series' img={ArithmeticSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Sequences and Series' img={GeometricSequencesandSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Sequences and Series Properties ' img={SequencesandSeriesProperties} link='' target='_blank' body='Download PDF'/>

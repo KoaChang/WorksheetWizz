@@ -1,0 +1,2 @@
+<File title='Greatest Integer Function 2' img={GreatestIntegerFunction2} link='' target='_blank' body='Download PDF'/>
+<File title='Greatest Integer Function' img={GreatestIntegerFunction} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,9 @@
+<File title='Inscribed and Circumscribed Shapes' img={InscribedandCircumscribedShapes} link='' target='_blank' body='Download PDF'/>
+<File title='Arcs and Central Angles' img={ArcsandCentralAngles} link='' target='_blank' body='Download PDF'/>
+<File title='Circles Power Theorem' img={CirclesPowerTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='Tangents to Circles' img={TangentstoCircles} link='' target='_blank' body='Download PDF'/>
+<File title='Area and Circumfrence' img={AreaandCircumfrence} link='' target='_blank' body='Download PDF'/>
+<File title='Arc Length and Sector Area' img={ArcLengthandSectorArea} link='' target='_blank' body='Download PDF'/>
+<File title='Inscribed Angles' img={InscribedAngles} link='' target='_blank' body='Download PDF'/>
+<File title='Circles and Angles' img={CirclesandAngles} link='' target='_blank' body='Download PDF'/>
+<File title='Circles and Angles 2' img={CirclesandAngles2} link='' target='_blank' body='Download PDF'/>

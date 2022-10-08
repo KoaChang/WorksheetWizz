@@ -1,0 +1,5 @@
+import GraphingCubeRoots from './Graphing Cube Roots.jpg'
+import RadicalsReview from './Radicals Review.jpg'
+import GraphingRadicals from './Graphing Radicals.jpg'
+import GraphingCubeRoots2 from './Graphing Cube Roots2.jpg'
+import GraphingRadicals2 from './Graphing Radicals2.jpg'

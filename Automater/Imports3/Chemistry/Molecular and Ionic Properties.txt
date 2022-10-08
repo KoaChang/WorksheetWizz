@@ -1,0 +1,6 @@
+import ClassifyingIonicorCovalent from './Classifying Ionic or Covalent.jpg'
+import NomenclatureWorksheet1and2 from './Nomenclature Worksheet 1 and 2.jpg'
+import NomenclatureWorksheet3 from './Nomenclature Worksheet 3.jpg'
+import PropertiesofIonicCompounds from './Properties of Ionic Compounds.jpg'
+import NomenclatureWorksheet4 from './Nomenclature Worksheet 4.jpg'
+import CovalentCompounds from './Covalent Compounds.jpg'

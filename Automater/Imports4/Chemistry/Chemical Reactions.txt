@@ -1,0 +1,4 @@
+<File title='Redox Reactions' img={RedoxReactions} link='' target='_blank' body='Download PDF'/>
+<File title='Precipitation Reactions' img={PrecipitationReactions} link='' target='_blank' body='Download PDF'/>
+<File title='Types of Chemical Reactions' img={TypesofChemicalReactions} link='' target='_blank' body='Download PDF'/>
+<File title='Stoichiometry' img={Stoichiometry} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,7 @@
+<File title='Triangle Similarity Proofs 2' img={TriangleSimilarityProofs2} link='' target='_blank' body='Download PDF'/>
+<File title='Similar Triangles' img={SimilarTriangles} link='' target='_blank' body='Download PDF'/>
+<File title='Triangle Congruence Review 2' img={TriangleCongruenceReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Triangle Similarity Proofs' img={TriangleSimilarityProofs} link='' target='_blank' body='Download PDF'/>
+<File title='Proving Congruence' img={ProvingCongruence} link='' target='_blank' body='Download PDF'/>
+<File title='Triangle Congruence practice' img={TriangleCongruencepractice} link='' target='_blank' body='Download PDF'/>
+<File title='Triangle Congruence Review' img={TriangleCongruenceReview} link='' target='_blank' body='Download PDF'/>

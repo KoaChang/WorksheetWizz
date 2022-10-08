@@ -1,0 +1,6 @@
+import SurfaceArea from './Surface Area.jpg'
+import VolumesofSolids from './Volumes of Solids.jpg'
+import Areas,SurfaceAreas,Volumes from './Areas, Surface Areas, Volumes.jpg'
+import SurfaceAreaandVolumesReivew from './Surface Area and Volumes Reivew.jpg'
+import RatiosofSimilarSolids2 from './Ratios of Similar Solids 2.jpg'
+import RatiosofSimilarSolids from './Ratios of Similar Solids.jpg'

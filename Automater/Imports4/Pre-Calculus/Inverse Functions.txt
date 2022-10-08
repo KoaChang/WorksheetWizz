@@ -1,0 +1,5 @@
+<File title='Inverse Functions Review' img={InverseFunctionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='One To One Functions' img={OneToOneFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Finding Inverse Functions' img={FindingInverseFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Verifying Inverses' img={VerifyingInverses} link='' target='_blank' body='Download PDF'/>
+<File title='Inverse Functions Graphically' img={InverseFunctionsGraphically} link='' target='_blank' body='Download PDF'/>

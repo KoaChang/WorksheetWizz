@@ -1,0 +1,6 @@
+<File title='Exponents Review' img={ExponentsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Exponents and Multiplication' img={ExponentsandMultiplication} link='' target='_blank' body='Download PDF'/>
+<File title='Simplifying Exponents' img={SimplifyingExponents} link='' target='_blank' body='Download PDF'/>
+<File title='Exponents and Division' img={ExponentsandDivision} link='' target='_blank' body='Download PDF'/>
+<File title='Powers of Products and Quotients' img={PowersofProductsandQuotients} link='' target='_blank' body='Download PDF'/>
+<File title='Properties of Exponents' img={PropertiesofExponents} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,16 @@
+<File title='Functions Test' img={FunctionsTest} link='' target='_blank' body='Download PDF'/>
+<File title='Intervals of Increase_Decrease' img={IntervalsofIncrease_Decrease} link='' target='_blank' body='Download PDF'/>
+<File title='Discrete Relations' img={DiscreteRelations} link='' target='_blank' body='Download PDF'/>
+<File title='Composition of Functions' img={CompositionofFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Function Operations' img={FunctionOperations} link='' target='_blank' body='Download PDF'/>
+<File title='Evaluating Functions' img={EvaluatingFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Functions Review' img={FunctionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Domain and Range' img={DomainandRange} link='' target='_blank' body='Download PDF'/>
+<File title='Interval Notation 2' img={IntervalNotation2} link='' target='_blank' body='Download PDF'/>
+<File title='Functions Test 2' img={FunctionsTest2} link='' target='_blank' body='Download PDF'/>
+<File title='Domain_Range Word Problems' img={Domain_RangeWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Function Notation' img={FunctionNotation} link='' target='_blank' body='Download PDF'/>
+<File title='Interval Notation' img={IntervalNotation} link='' target='_blank' body='Download PDF'/>
+<File title='Identifying Functions' img={IdentifyingFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Average Rate of Change2' img={AverageRateofChange2} link='' target='_blank' body='Download PDF'/>
+<File title='Average Rate of Change' img={AverageRateofChange} link='' target='_blank' body='Download PDF'/>

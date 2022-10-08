@@ -1,0 +1,6 @@
+import FactorTrees from './Factor Trees.jpg'
+import Multiples from './Multiples.jpg'
+import GreatestCommonFactoer from './Greatest Common Factoer.jpg'
+import LeastCommonMultiple from './Least Common Multiple .jpg'
+import Factors from './Factors.jpg'
+import PrimeFactorization from './Prime Factorization.jpg'

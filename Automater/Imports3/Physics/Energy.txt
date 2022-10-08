@@ -1,0 +1,4 @@
+import WorkandPower from './Work and Power.jpg'
+import PotentialandKineticEnergy from './Potential and Kinetic Energy .jpg'
+import ElasticPotentialEnergy from './Elastic Potential Energy.jpg'
+import ConservationofEnergy from './Conservation of Energy.jpg'

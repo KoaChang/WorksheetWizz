@@ -1,0 +1,12 @@
+<File title='Improper Integrals Review' img={ImproperIntegralsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Euler_s Method 2' img={Euler_sMethod2} link='' target='_blank' body='Download PDF'/>
+<File title='Error Propagation' img={ErrorPropagation} link='' target='_blank' body='Download PDF'/>
+<File title='Logistic Growth' img={LogisticGrowth} link='' target='_blank' body='Download PDF'/>
+<File title='Intro to Differential Equations' img={IntrotoDifferentialEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Improper Integrals' img={ImproperIntegrals} link='' target='_blank' body='Download PDF'/>
+<File title='logistic_growth' img={logistic_growth} link='' target='_blank' body='Download PDF'/>
+<File title='Intial Value Problems' img={IntialValueProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Slope Fields' img={SlopeFields} link='' target='_blank' body='Download PDF'/>
+<File title='Euler_s Method' img={Euler_sMethod} link='' target='_blank' body='Download PDF'/>
+<File title='Separable Differential Equations' img={SeparableDifferentialEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Differential Equations Review' img={DifferentialEquationsReview} link='' target='_blank' body='Download PDF'/>

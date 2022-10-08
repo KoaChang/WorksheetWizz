@@ -1,0 +1,8 @@
+<File title='Hyperbolas' img={Hyperbolas} link='' target='_blank' body='Download PDF'/>
+<File title='Classifying Conic Sections' img={ClassifyingConicSections} link='' target='_blank' body='Download PDF'/>
+<File title='Conic Sections Review' img={ConicSectionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Circles' img={Circles} link='' target='_blank' body='Download PDF'/>
+<File title='Conic Sections Word Problems' img={ConicSectionsWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Ellipses' img={Ellipses} link='' target='_blank' body='Download PDF'/>
+<File title='Conic Sections Review 2' img={ConicSectionsReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Parabolas' img={Parabolas} link='' target='_blank' body='Download PDF'/>

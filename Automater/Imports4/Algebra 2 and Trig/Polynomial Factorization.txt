@@ -1,0 +1,5 @@
+<File title='Factoring Polynomials Review' img={FactoringPolynomialsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Polynomial Identities' img={PolynomialIdentities} link='' target='_blank' body='Download PDF'/>
+<File title='Sum and Difference of Cubes' img={SumandDifferenceofCubes} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Root Theorem' img={RationalRootTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='Sum and Difference of Cubes 2' img={SumandDifferenceofCubes2} link='' target='_blank' body='Download PDF'/>

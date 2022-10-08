@@ -1,0 +1,5 @@
+<File title='Graphing Cube Roots' img={GraphingCubeRoots} link='' target='_blank' body='Download PDF'/>
+<File title='Radicals Review' img={RadicalsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Radicals' img={GraphingRadicals} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Cube Roots2' img={GraphingCubeRoots2} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Radicals2' img={GraphingRadicals2} link='' target='_blank' body='Download PDF'/>

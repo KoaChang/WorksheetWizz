@@ -1,0 +1,14 @@
+<File title='Normal Distributions' img={NormalDistributions} link='' target='_blank' body='Download PDF'/>
+<File title='Calculating Variance and Standard Deviation' img={CalculatingVarianceandStandardDeviation} link='' target='_blank' body='Download PDF'/>
+<File title='Marginal and Conditional Distribution' img={MarginalandConditionalDistribution} link='' target='_blank' body='Download PDF'/>
+<File title='Calculating Standard Deviation' img={CalculatingStandardDeviation} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying Categorical Data' img={DisplayingCategoricalData} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying Quantitative Data' img={DisplayingQuantitativeData} link='' target='_blank' body='Download PDF'/>
+<File title='Categorical Data' img={CategoricalData} link='' target='_blank' body='Download PDF'/>
+<File title='Stem and Leaf Plot' img={StemandLeafPlot} link='' target='_blank' body='Download PDF'/>
+<File title='Location in Distribution' img={LocationinDistribution} link='' target='_blank' body='Download PDF'/>
+<File title='Histogram and Box Whisker Plot' img={HistogramandBoxWhiskerPlot} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying Quantitative Data 2' img={DisplayingQuantitativeData2} link='' target='_blank' body='Download PDF'/>
+<File title='Transforming Data and Density Curves' img={TransformingDataandDensityCurves} link='' target='_blank' body='Download PDF'/>
+<File title='Histogram, Bar Graph, Table' img={Histogram,BarGraph,Table} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying and Describing Categorical Data' img={DisplayingandDescribingCategoricalData} link='' target='_blank' body='Download PDF'/>

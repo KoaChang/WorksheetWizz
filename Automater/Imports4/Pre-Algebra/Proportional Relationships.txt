@@ -1,0 +1,7 @@
+<File title='Constant of Proportionality' img={ConstantofProportionality} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Proportions' img={SolvingProportions} link='' target='_blank' body='Download PDF'/>
+<File title='Constant of Proportionality Graph' img={ConstantofProportionalityGraph} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Proportions 2' img={SolvingProportions2} link='' target='_blank' body='Download PDF'/>
+<File title='Proportions Word Problems' img={ProportionsWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Identifying Proportional Relationships' img={IdentifyingProportionalRelationships} link='' target='_blank' body='Download PDF'/>
+<File title='Proportions Word Problems 2' img={ProportionsWordProblems2} link='' target='_blank' body='Download PDF'/>

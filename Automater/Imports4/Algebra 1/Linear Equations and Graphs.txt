@@ -1,0 +1,10 @@
+<File title='Linear Standard Form' img={LinearStandardForm} link='' target='_blank' body='Download PDF'/>
+<File title='Point Slope' img={PointSlope} link='' target='_blank' body='Download PDF'/>
+<File title='Writing Linear Equations' img={WritingLinearEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Rate Of Change' img={RateOfChange} link='' target='_blank' body='Download PDF'/>
+<File title='Interpreting Slope Y Int' img={InterpretingSlopeYInt} link='' target='_blank' body='Download PDF'/>
+<File title='Horizontal Vertical Lines' img={HorizontalVerticalLines} link='' target='_blank' body='Download PDF'/>
+<File title='Linear Word Problems' img={LinearWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Equations From Table' img={EquationsFromTable} link='' target='_blank' body='Download PDF'/>
+<File title='Slope' img={Slope} link='' target='_blank' body='Download PDF'/>
+<File title='Slope From an Equation' img={SlopeFromanEquation} link='' target='_blank' body='Download PDF'/>

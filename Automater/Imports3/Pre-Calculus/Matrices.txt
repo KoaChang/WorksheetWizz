@@ -1,0 +1,7 @@
+import InverseMatrices from './Inverse Matrices.jpg'
+import AddingandSubtractingMatrices from './Adding and Subtracting Matrices.jpg'
+import MatrixMultiplication from './Matrix Multiplication.jpg'
+import Determinants,3x3 from './Determinants, 3x3.jpg'
+import SystemswithMatrices from './Systems with Matrices.jpg'
+import MatricesReview from './Matrices Review.jpg'
+import Determinants,2x2 from './Determinants, 2x2.jpg'

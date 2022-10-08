@@ -1,0 +1,4 @@
+<File title='DeMoivre_s Theorem and Polar Form' img={DeMoivre_sTheoremandPolarForm} link='' target='_blank' body='Download PDF'/>
+<File title='Distance and Midpoint Complex Plane' img={DistanceandMidpointComplexPlane} link='' target='_blank' body='Download PDF'/>
+<File title='Complex Number Polar Form' img={ComplexNumberPolarForm} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Complex Numbers' img={GraphingComplexNumbers} link='' target='_blank' body='Download PDF'/>

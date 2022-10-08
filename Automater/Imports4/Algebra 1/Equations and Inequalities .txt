@@ -1,0 +1,7 @@
+<File title='Inequalities Review2' img={InequalitiesReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Compound Inequalities' img={CompoundInequalities} link='' target='_blank' body='Download PDF'/>
+<File title='One Step Inequalities' img={OneStepInequalities} link='' target='_blank' body='Download PDF'/>
+<File title='Multi Step Inequalities' img={MultiStepInequalities} link='' target='_blank' body='Download PDF'/>
+<File title='VariablesBothSides' img={VariablesBothSides} link='' target='_blank' body='Download PDF'/>
+<File title='Variables Both Sides' img={VariablesBothSides} link='' target='_blank' body='Download PDF'/>
+<File title='Inequalities Review' img={InequalitiesReview} link='' target='_blank' body='Download PDF'/>

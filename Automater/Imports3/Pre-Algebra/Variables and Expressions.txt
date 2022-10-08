@@ -1,0 +1,8 @@
+import NumberPatterns from './Number Patterns.jpg'
+import EvaluatingVariableExpressions from './Evaluating Variable Expressions.jpg'
+import MadMinutes from './Mad Minutes.jpg'
+import CompletingPatterns from './Completing Patterns.jpg'
+import NumberPatterns2 from './Number Patterns 2.jpg'
+import EvaluatingExpressions from './Evaluating Expressions.jpg'
+import PartsofanExpressions2 from './Parts of an Expressions 2.jpg'
+import PartsofanExpression from './Parts of an Expression.jpg'

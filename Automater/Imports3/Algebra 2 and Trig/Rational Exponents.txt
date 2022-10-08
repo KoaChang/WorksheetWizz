@@ -1,0 +1,3 @@
+import RationalExponents_RadicalsReview from './Rational Exponents_Radicals Review.jpg'
+import RadicalsandRationalExponents from './Radicals and Rational Exponents.jpg'
+import SimplifyingRationalExponents from './Simplifying Rational Exponents.jpg'

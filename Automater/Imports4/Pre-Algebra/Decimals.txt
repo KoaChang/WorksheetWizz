@@ -1,0 +1,15 @@
+<File title='Decimals Place Value' img={DecimalsPlaceValue} link='' target='_blank' body='Download PDF'/>
+<File title='Rouding ' img={Rouding} link='' target='_blank' body='Download PDF'/>
+<File title='Adding Decimals' img={AddingDecimals} link='' target='_blank' body='Download PDF'/>
+<File title='Decimal Matching Place Value' img={DecimalMatchingPlaceValue} link='' target='_blank' body='Download PDF'/>
+<File title='Expanded Form Place Value' img={ExpandedFormPlaceValue} link='' target='_blank' body='Download PDF'/>
+<File title='Standard Form Place Value' img={StandardFormPlaceValue} link='' target='_blank' body='Download PDF'/>
+<File title='Missing Place Value' img={MissingPlaceValue} link='' target='_blank' body='Download PDF'/>
+<File title='Decimal Word Problems' img={DecimalWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Place Value Chart' img={PlaceValueChart} link='' target='_blank' body='Download PDF'/>
+<File title='Operations with Decimals Review' img={OperationswithDecimalsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplying Decimals' img={MultiplyingDecimals} link='' target='_blank' body='Download PDF'/>
+<File title='Decimals Review' img={DecimalsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Subtracting Decimals' img={SubtractingDecimals} link='' target='_blank' body='Download PDF'/>
+<File title='Rounding 2' img={Rounding2} link='' target='_blank' body='Download PDF'/>
+<File title='Word Names Place Value' img={WordNamesPlaceValue} link='' target='_blank' body='Download PDF'/>

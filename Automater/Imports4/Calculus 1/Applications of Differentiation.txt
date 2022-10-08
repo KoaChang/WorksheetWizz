@@ -1,0 +1,9 @@
+<File title='Linear Motion 2' img={LinearMotion2} link='' target='_blank' body='Download PDF'/>
+<File title='L_Hospital Rule Review' img={L_HospitalRuleReview} link='' target='_blank' body='Download PDF'/>
+<File title='Related Rates 2' img={RelatedRates2} link='' target='_blank' body='Download PDF'/>
+<File title='Local Linear Approximation' img={LocalLinearApproximation} link='' target='_blank' body='Download PDF'/>
+<File title='L_Hospital Rule' img={L_HospitalRule} link='' target='_blank' body='Download PDF'/>
+<File title='Related Rates Review' img={RelatedRatesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Related Rates' img={RelatedRates} link='' target='_blank' body='Download PDF'/>
+<File title='L_Hospital Rule 2' img={L_HospitalRule2} link='' target='_blank' body='Download PDF'/>
+<File title='Linear Motion' img={LinearMotion} link='' target='_blank' body='Download PDF'/>

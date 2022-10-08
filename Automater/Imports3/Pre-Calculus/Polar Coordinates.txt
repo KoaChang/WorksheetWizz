@@ -1,0 +1,6 @@
+import PolartoRectangularEquations from './Polar to Rectangular Equations.jpg'
+import GraphsofPolarEqautions from './Graphs of Polar Eqautions.jpg'
+import PolarCoordinates from './Polar Coordinates.jpg'
+import PolarCoordinatesReview from './Polar Coordinates Review.jpg'
+import PolarCoordinatesReview2 from './Polar Coordinates Review 2.jpg'
+import PolartoRectangular from './Polar to Rectangular.jpg'

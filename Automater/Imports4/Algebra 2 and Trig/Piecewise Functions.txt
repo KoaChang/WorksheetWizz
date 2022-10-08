@@ -1,0 +1,6 @@
+<File title='Piecewise Functions Review' img={PiecewiseFunctionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Piecewise Word Problems' img={PiecewiseWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Piecewise Domain and Range' img={PiecewiseDomainandRange} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Piecewise Functions' img={GraphingPiecewiseFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Piecewise Functions2' img={GraphingPiecewiseFunctions2} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Piecewise Functions 2' img={GraphingPiecewiseFunctions2} link='' target='_blank' body='Download PDF'/>

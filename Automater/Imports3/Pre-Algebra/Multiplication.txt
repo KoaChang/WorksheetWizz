@@ -1,0 +1,7 @@
+import MultiplyingLargeNumbers from './Multiplying Large Numbers.jpg'
+import FourDigitMultiplication from './Four Digit Multiplication.jpg'
+import TwoDigitMultiplication from './Two Digit Multiplication.jpg'
+import TimesTables from './Times Tables.jpg'
+import MultiplicationWordProblems from './Multiplication Word Problems.jpg'
+import MultiplicationTimesTables from './Multiplication Times Tables.jpg'
+import ThreeDigitMultiplication from './Three Digit Multiplication.jpg'

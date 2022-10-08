@@ -1,0 +1,6 @@
+<File title='Polar to Rectangular Equations' img={PolartoRectangularEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Graphs of Polar Eqautions' img={GraphsofPolarEqautions} link='' target='_blank' body='Download PDF'/>
+<File title='Polar Coordinates' img={PolarCoordinates} link='' target='_blank' body='Download PDF'/>
+<File title='Polar Coordinates Review' img={PolarCoordinatesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Polar Coordinates Review 2' img={PolarCoordinatesReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Polar to Rectangular' img={PolartoRectangular} link='' target='_blank' body='Download PDF'/>

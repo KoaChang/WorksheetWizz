@@ -1,0 +1,11 @@
+<File title='Implicit Differentiation 2' img={ImplicitDifferentiation2} link='' target='_blank' body='Download PDF'/>
+<File title='Derivatives of Inverse Functions' img={DerivativesofInverseFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Differentiating Trig Functions' img={DifferentiatingTrigFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Higher Order Derivatives' img={HigherOrderDerivatives} link='' target='_blank' body='Download PDF'/>
+<File title='Chain Rule' img={ChainRule} link='' target='_blank' body='Download PDF'/>
+<File title='Differentiating Logs and Exponentials' img={DifferentiatingLogsandExponentials} link='' target='_blank' body='Download PDF'/>
+<File title='Differentiating Inverse Trig Functions' img={DifferentiatingInverseTrigFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Chain Rule Review' img={ChainRuleReview} link='' target='_blank' body='Download PDF'/>
+<File title='Derivatives of Logs and Exponents Review' img={DerivativesofLogsandExponentsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Implicit Differentiation' img={ImplicitDifferentiation} link='' target='_blank' body='Download PDF'/>
+<File title='Implicit Differentiation Review' img={ImplicitDifferentiationReview} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,730 @@
+<File title='Chi Square Homogeneity Test' img={ChiSquareHomogeneityTest} link='' target='_blank' body='Download PDF'/>
+<File title='Chi Square Goodness of Fit and Independence' img={ChiSquareGoodnessofFitandIndependence} link='' target='_blank' body='Download PDF'/>
+<File title='Chi Squre Goodness of Fit' img={ChiSqureGoodnessofFit} link='' target='_blank' body='Download PDF'/>
+<File title='Chi Square Tests Review' img={ChiSquareTestsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Techniques 2' img={SamplingTechniques2} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Techniques' img={SamplingTechniques} link='' target='_blank' body='Download PDF'/>
+<File title='Experimental Design' img={ExperimentalDesign} link='' target='_blank' body='Download PDF'/>
+<File title='Blocking' img={Blocking} link='' target='_blank' body='Download PDF'/>
+<File title='Experimental Design 3' img={ExperimentalDesign3} link='' target='_blank' body='Download PDF'/>
+<File title='Bias and Sampling' img={BiasandSampling} link='' target='_blank' body='Download PDF'/>
+<File title='Experimental Design 2' img={ExperimentalDesign2} link='' target='_blank' body='Download PDF'/>
+<File title='Type 1 and 2 Error' img={Type1and2Error} link='' target='_blank' body='Download PDF'/>
+<File title='Type 1 and 2 Errors Review' img={Type1and2Errors} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Means' img={ConfidenceIntervalsforMeans} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Means 2' img={ConfidenceIntervalsforMeans2} link='' target='_blank' body='Download PDF'/>
+<File title='Hypothesis Testing Means' img={HypothesisTestingMeans} link='' target='_blank' body='Download PDF'/>
+<File title='Hypothesis Testing 2' img={HypothesisTesting2} link='' target='_blank' body='Download PDF'/>
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='' target='_blank' body='Download PDF'/>
+<File title='Type 1 and 2 Error' img={Type1and2Error} link='' target='_blank' body='Download PDF'/>
+<File title='Type 1 and 2 Errors' img={Type1and2Errors} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Proportions' img={ConfidenceIntervalsforProportions} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Proportions 2' img={ConfidenceIntervalsforProportions2} link='' target='_blank' body='Download PDF'/>
+<File title='One Proportion Hypothesis Testing ' img={OneProportionHypothesisTesting} link='' target='_blank' body='Download PDF'/>
+<File title='Two Population Hypothesis Testing' img={TwoPopulationHypothesisTesting} link='' target='_blank' body='Download PDF'/>
+<File title='Inference Proportions Review' img={InferenceProportionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Slope' img={ConfidenceIntervalsforSlope} link='' target='_blank' body='Download PDF'/>
+<File title='Hypothesis Test for Slope' img={HypothesisTestforSlope} link='' target='_blank' body='Download PDF'/>
+<File title='Transforming to Achieve Linearality' img={TransformingtoAchieveLinearality} link='' target='_blank' body='Download PDF'/>
+<File title='Categorical Data' img={CategoricalData} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying Categorical Data' img={DisplayingCategoricalData} link='' target='_blank' body='Download PDF'/>
+<File title='Marginal and Conditional Distribution' img={MarginalandConditionalDistribution} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying and Describing Categorical Data' img={DisplayingandDescribingCategoricalData} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying Quantitative Data' img={DisplayingQuantitativeData} link='' target='_blank' body='Download PDF'/>
+<File title='Displaying Quantitative Data 2' img={DisplayingQuantitativeData2} link='' target='_blank' body='Download PDF'/>
+<File title='Stem and Leaf Plot' img={StemandLeafPlot} link='' target='_blank' body='Download PDF'/>
+<File title='Histogram and Box Whisker Plot' img={HistogramandBoxWhiskerPlot} link='' target='_blank' body='Download PDF'/>
+<File title='Histogram, Bar Graph, Table' img={HistogramBarGraphTable} link='' target='_blank' body='Download PDF'/>
+<File title='Normal Distributions' img={NormalDistributions} link='' target='_blank' body='Download PDF'/>
+<File title='Location in Distribution' img={LocationinDistribution} link='' target='_blank' body='Download PDF'/>
+<File title='Transforming Data and Density Curves' img={TransformingDataandDensityCurves} link='' target='_blank' body='Download PDF'/>
+<File title='Calculating Variance and Standard Deviation' img={CalculatingVarianceandStandardDeviation} link='' target='_blank' body='Download PDF'/>
+<File title='Calculating Standard Deviation' img={CalculatingStandardDeviation} link='' target='_blank' body='Download PDF'/>
+<File title='Probability Intro' img={ProbabilityIntro} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplication Rule Independent Events' img={MultiplicationRuleIndependentEvents} link='' target='_blank' body='Download PDF'/>
+<File title='Conditional Probability' img={ConditionalProbability} link='' target='_blank' body='Download PDF'/>
+<File title='Conditional Probability 2' img={ConditionalProbability2} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Probability' img={BinomialProbability} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Distributions' img={BinomialDistributions} link='' target='_blank' body='Download PDF'/>
+<File title='Binomial Distributions 2' img={BinomialDistributions2} link='' target='_blank' body='Download PDF'/>
+<File title='Permutations vs Combinations' img={PermutationsvsCombinations} link='' target='_blank' body='Download PDF'/>
+<File title='Probability Review' img={ProbabilityReview} link='' target='_blank' body='Download PDF'/>
+<File title='Random Variables and Expected Value' img={RandomVariablesandExpectedValue} link='' target='_blank' body='Download PDF'/>
+<File title='Random Variables' img={RandomVariables} link='' target='_blank' body='Download PDF'/>
+<File title='Random Variables 2' img={RandomVariables2} link='' target='_blank' body='Download PDF'/>
+<File title='Transformation of Random Variables' img={TransformationofRandomVariables} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Distributions' img={SamplingDistributions} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Distributions 2' img={SamplingDistributions2} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Distribution of the Sample Mean' img={SamplingDistributionoftheSampleMean} link='' target='_blank' body='Download PDF'/>
+<File title='Sample Proportions and Means' img={SampleProportionsandMeans} link='' target='_blank' body='Download PDF'/>
+<File title='Sample Distribution of a Sampling Distribution' img={SampleDistributionofaSamplingDistribution} link='' target='_blank' body='Download PDF'/>
+<File title='Central Limit Theorem' img={CentralLimitTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='Central Limit Theorem 2' img={CentralLimitTheorem2} link='' target='_blank' body='Download PDF'/>
+<File title='Pascals Triangle' img={PascalsTriangle} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Pascals Triangle 2' img={PascalsTriangle2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Pascals Triangle 3' img={PascalsTriangle3} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Binomial Theorem' img={BinomialTheorem} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Binomial Theorem 2' img={BinomialTheorem2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Binomial Expansion Review' img={BinomialExpansionReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Graphing Complex Numbers' img={GraphingComplexNumbers} link='' target='_blank' body='Download PDF'/>
+<File title='Complex Number Polar Form' img={ComplexNumberPolarForm} link='' target='_blank' body='Download PDF'/>
+<File title='DeMoivres Theorem and Polar Form' img={DeMoivre_sTheoremandPolarForm} link='' target='_blank' body='Download PDF'/>
+<File title='Distance and Midpoint Complex Plane' img={DistanceandMidpointComplexPlane} link='' target='_blank' body='Download PDF'/>
+<File title='Circles' img={Circles} link='' target='_blank' body='Download PDF'/>
+<File title='Ellipses' img={Ellipses} link='' target='_blank' body='Download PDF'/>
+<File title='Hyperbolas' img={Hyperbolas} link='' target='_blank' body='Download PDF'/>
+<File title='Parabolas' img={Parabolas} link='' target='_blank' body='Download PDF'/>
+<File title='Classifying Conic Sections' img={ClassifyingConicSections} link='' target='_blank' body='Download PDF'/>
+<File title='Conic Sections Review' img={ConicSectionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Conic Sections Review 2' img={ConicSectionsReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Conic Sections Word Problems' img={ConicSectionsWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Inverse Functions Review' img={InverseFunctionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='One To One Functions' img={OneToOneFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Finding Inverse Functions' img={FindingInverseFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Verifying Inverses' img={VerifyingInverses} link='' target='_blank' body='Download PDF'/>
+<File title='Adding and Subtracting Matrices' img={AddingandSubtractingMatrices} link='' target='_blank' body='Download PDF'/>
+<File title='Matrix Multiplication' img={MatrixMultiplication} link='' target='_blank' body='Download PDF'/>
+<File title='Determinants, 2x2' img={Determinants2} link='' target='_blank' body='Download PDF'/>
+<File title='Determinants, 3x3' img={Determinants3} link='' target='_blank' body='Download PDF'/>
+<File title='Inverse Matrices' img={InverseMatrices} link='' target='_blank' body='Download PDF'/>
+<File title='Systems with Matrices' img={SystemswithMatrices} link='' target='_blank' body='Download PDF'/>
+<File title='Matrices Review' img={MatricesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Polar Coordinates' img={PolarCoordinatesF} link='' target='_blank' body='Download PDF'/>
+<File title='Polar Coordinates Review' img={PolarCoordinatesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Polar Coordinates Review 2' img={PolarCoordinatesReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Polar to Rectangular' img={PolartoRectangular} link='' target='_blank' body='Download PDF'/>
+<File title='Polar to Rectangular Equations' img={PolartoRectangularEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Graphs of Polar Eqautions' img={GraphsofPolarEqautions} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Functions End Behavior' img={RationalFunctionsEndBehavior} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Functions End Behavior 2' img={RationalFunctionsEndBehavior2} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Functions Review' img={RationalFunctionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Rational Functions Word Problems' img={RationalFunctionsWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Discontinuities Rational Functions' img={DiscontinuitiesRationalFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Rational Functions' img={GraphingRationalFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Partial Fraction Decomposition' img={PartialFractionDecomposition} link='' target='_blank' body='Download PDF'/>
+<File title='Properties of Rational Functions' img={PropertiesofRationalFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Arithmetic Sequence' img={ArithmeticSequence} link='' target='_blank' body='Download PDF'/>
+<File title='Arithmetic Sequence and Series' img={ArithmeticSequenceandSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Arithmetic Series' img={ArithmeticSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Sequences' img={GeometricSequences} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Series' img={GeometricSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Geometric Sequences and Series' img={GeometricSequencesandSeries} link='' target='_blank' body='Download PDF'/>
+<File title='Sequences and Series Review' img={SequencesandSeriesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Series Review' img={SeriesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Sequences and Series Properties ' img={SequencesandSeriesProperties} link='' target='_blank' body='Download PDF'/>
+<File title='Vectors Introduction' img={VectorsIntroduction} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Addition' img={VectorAddition} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Operations' img={VectorOperations} link='' target='_blank' body='Download PDF'/>
+<File title='Vectors Component Form' img={VectorsComponentForm} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Dot Product' img={VectorDotProduct} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Word Problems' img={VectorWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Vector Word Problems 2' img={VectorWordProblems2} link='' target='_blank' body='Download PDF'/>
+<File title='Vectors Review' img={VectorsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Single Digit Addition' img={SingleDigitAddition} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Two Digit Addition' img={TwoDigitAddition} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Three Digit Addition' img={ThreeDigitAddition} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Four Digit Addition' img={FourDigitAddition} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Five Digit Addition' img={FiveDigitAddition} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Addition Word Problems' img={AdditionWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Large Number Addition' img={LargeNumberAddition} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Mad Minute Addition' img={MadMinuteAddition} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Decimals Place Value' img={DecimalsPlaceValue} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Rouding' img={Rouding} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Rounding 2' img={Rounding2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Adding Decimals' img={AddingDecimals} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Decimal Matching Place Value' img={DecimalMatchingPlaceValue} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Expanded Form Place Value' img={ExpandedFormPlaceValue} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Standard Form Place Value' img={StandardFormPlaceValue} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Missing Place Value' img={MissingPlaceValue} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Decimal Word Problems' img={DecimalWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Place Value Chart' img={PlaceValueChart} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Operations with Decimals Review' img={OperationswithDecimalsReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiplying Decimals' img={MultiplyingDecimals} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Decimals Review' img={DecimalsReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Subtracting Decimals' img={SubtractingDecimals} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Word Names Place Value' img={WordNamesPlaceValue} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Two Digit Divsion Remainder' img={TwoDigitDivsionRemainder} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Mixed Word Problems 2' img={MixedWordProblems2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Division with Remainder' img={DivisionwithRemainder} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Four Digit Division' img={FourDigitDivision} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Mixed Word Problems' img={MixedWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Four Digit Division Remainder' img={FourDigitDivisionRemainder} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Mental Division' img={MentalDivision} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Three Digit Division Remainder' img={ThreeDigitDivisionRemainder} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Three Digit Division' img={ThreeDigitDivision} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Division Word Problems' img={DivisionWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Two Digit Division' img={TwoDigitDivision} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Factor Trees' img={FactorTrees} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiples' img={Multiples} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Greatest Common Factoer' img={GreatestCommonFactoer} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Least Common Multiple ' img={LeastCommonMultiple} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Factors' img={Factors} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Prime Factorization' img={PrimeFactorization} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Fraction Word Problems 3' img={FractionWordProblems3} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiply Mixed Numbers' img={MultiplyMixedNumbers} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Fraction Word Problems 2' img={FractionWordProblems2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiplying Fractions Review' img={MultiplyingFractionsReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Dividing Fractions Review' img={DividingFractionsReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Add Unlike Fractions' img={AddUnlikeFractions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Dividing Mixed Numbers' img={DividingMixedNumbers} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Fraction Word Problems' img={FractionWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Add Mixed Numbers' img={AddMixedNumbers} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Subtract Like Fractions' img={SubtractLikeFractions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Subtract Mixed Numbers' img={SubtractMixedNumbers} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Add Like Fractions' img={AddLikeFractions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiplying Fractions' img={MultiplyingFractions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Subtract Unlike Fractions' img={SubtractUnlikeFractions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Times Tables' img={TimesTables} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiplication Times Tables' img={MultiplicationTimesTables} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Two Digit Multiplication' img={TwoDigitMultiplication} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Three Digit Multiplication' img={ThreeDigitMultiplication} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Four Digit Multiplication' img={FourDigitMultiplication} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiplying Large Numbers' img={MultiplyingLargeNumbers} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Multiplication Word Problems' img={MultiplicationWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Muliplying and Dividing Integers' img={MuliplyingandDividingIntegers} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Negative Number Operations' img={NegativeNumberOperations} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Integer Word Problems' img={IntegerWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Adding and Subtracting Integers' img={AddingandSubtractingIntegers} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Order of Operations 3' img={OrderofOperations3} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Order of Operations ' img={OrderofOperations} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Order of Operations 2' img={OrderofOperations2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Order of Operations 5' img={OrderofOperations5} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Order of Operations 4' img={OrderofOperations4} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Order of Operations 6' img={OrderofOperations6} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Order of Operations 7' img={OrderofOperations7} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Percents Review' img={PercentsReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Percent Word Problems' img={PercentWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Percent Change 2' img={PercentChange2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Fractions, Decimals, and Percents' img={FractionsDecimalsPercents} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Percents Review 2' img={PercentsReview2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Percent Change' img={PercentChange} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Percent Problems' img={PercentProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Dividing by Powers of 10' img={DividingbyPowersof10} link='' body = 'Downlaod PDF' target='_blank'/>
+<File title='Evaluating Powers of 10' img={EvaluatingPowersof10} link='' body = 'Downlaod PDF' target='_blank'/>
+<File title='Multiplying by Powers of 10' img={MultiplyingbyPowersof10} body = 'Downlaod PDF' link='' target='_blank'/>
+<File title='Scientific Notation' img={ScientificNotation} link='' body = 'Downlaod PDF' target='_blank'/>
+<File title='Scientific Notation 2' img={ScientificNotation2} link='' body = 'Downlaod PDF' target='_blank' />
+<File title='Identifying Proportional Relationships' img={IdentifyingProportionalRelationships} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Constant of Proportionality' img={ConstantofProportionality} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Solving Proportions 2' img={SolvingProportions2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Solving Proportions' img={SolvingProportions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Constant of Proportionality Graph' img={ConstantofProportionalityGraph} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Proportions Word Problems' img={ProportionsWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Proportions Word Problems 2' img={ProportionsWordProblems2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Finding Unit Rate' img={FindingUnitRate} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Ratio and Rates' img={RatioandRates} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Ratios and Rates Word Problems' img={RatiosandRatesWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Unit Rate' img={UnitRate} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Unit Conversion' img={UnitConversion} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Equivalent Ratios' img={EquivalentRatios} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Two Digit Subtraction' img={TwoDigitSubtraction} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Three Digit Subtraction' img={ThreeDigitSubtraction} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Four Digit Subtraction' img={FourDigitSubtraction} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Five Digit Subtraction' img={FiveDigitSubtraction} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Large Number Subtraction' img={LargeNumberSubtraction} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Subtraction Word Problems' img={SubtractionWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Number Patterns' img={NumberPatterns} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Number Patterns 2' img={NumberPatterns2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Evaluating Expressions' img={EvaluatingExpressions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Evaluating Variable Expressions' img={EvaluatingVariableExpressions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Mad Minutes' img={MadMinutes} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Completing Patterns' img={CompletingPatterns} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Parts of an Expression' img={PartsofanExpression} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Parts of an Expressions 2' img={PartsofanExpressions2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='AP Physics 2019 FRQ' img={APPhysics2019FRQ} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='AP Physics 2018 FRQ' img={APPhysics2018FRQ} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='AP Physics 2022 FRQ' img={APPhysics2022FRQ} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='AP Physics 2021 FRQ' img={APPhysics2021FRQ} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Circular Motion' img={CircularMotionF} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Circular Motion and Centripetal Acceleration' img={CircularMotionandCentripetalAcceleration} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Universal Law of Gravitation' img={UniversalLawofGravitation} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Dynamics Set' img={DynamicsSet} link='' target='_blank' body = 'Downlaod PDF'/>
+<File title='Newtons Second Law' img={NewtonsSecondLaw} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Free Body Diagrams' img={FreeBodyDiagrams} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Newtons First Law' img={NewtonsFirstLaw} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Newtons Third Law' img={NewtonsThirdLaw} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Work and Power' img={WorkandPower} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Potential and Kinetic Energy ' img={PotentialandKineticEnergy} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Elastic Potential Energy' img={ElasticPotentialEnergy} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Conservation of Energy' img={ConservationofEnergy} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Kinematics Equations' img={KinematicsEquations} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Kinematics Review' img={KinematicsReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Projectile Motion' img={ProjectileMotion} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Conservation of Momentum' img={ConservationofMomentum} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Conservation of Momentum 2' img={ConservationofMomentum2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Collision Practice Problems' img={CollisionPracticeProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Impulse ' img={Impulse} link='' target='_blank'/>
+<File title='Elastic and Inelastic Collisions' img={ElasticandInelasticCollisions} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Simple Harmonic Motion' img={SimpleHarmonicMotion} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Simple Harmonic Motion 2' img={SimpleHarmonicMotion2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Angular Momentum' img={AngularMomentum} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Angular Impulse' img={AngularImpulse} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Rotational Kinematics' img={RotationalKinematics} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Torque' img={TorqueF} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='The Distance Formula' img={TheDistanceFormula} body='Download PDF' link='' target='_blank'/>
+<File title='The Midpoint Fornula' img={TheMidpointFormula} body='Download PDF' link='' target='_blank'/>
+<File title='Points of Concurrency' img={PointsofConcurency} body='Download PDF' link='' target='_blank'/>
+<File title='Coordinate Geometry Review' img={CoordinateGeometryReview} body='Download PDF' link='' target='_blank'/>
+<File title='Coordinate Geometry and the Centroid' img={CoordinateGeometryandtheCentroid} body='Download PDF' link='' target='_blank'/>
+<File title='Area and Circumfrence' img={AreaandCircumfrence} body='Download PDF' link='' target='_blank'/>
+<File title='Arc Length and Sector Area' img={ArcLengthandSectorArea} body='Download PDF' link='' target='_blank'/>
+<File title='Arcs and Central Angles' img={ArcsandCentralAngles} body='Download PDF' link='' target='_blank'/>
+<File title='Inscribed Angles' img={InscribedAngles} body='Download PDF' link='' target='_blank'/>
+<File title='Circles and Angles' img={CirclesandAngles} body='Download PDF' link='' target='_blank'/>
+<File title='Circles and Angles 2' img={CirclesandAngles2} body='Download PDF' link='' target='_blank'/>
+<File title='Circles Power Theorem' img={CirclesPowerTheorem} body='Download PDF' link='' target='_blank'/>
+<File title='Inscribed and Circumscribed Shapes' img={InscribedandCircumscribedShapes} body='Download PDF' link='' target='_blank'/>
+<File title='Tangents to Circles' img={TangentstoCircles} body='Download PDF' link='' target='_blank'/>
+<File title='Logical Reasoning' img={LogicalReasoning} body='Download PDF' link='' target='_blank'/>
+<File title='Conditional Statements' img={ConditionalStatements} body='Download PDF' link='' target='_blank'/>
+<File title='Conditional Statements 2' img={ConditionalStatements2} body='Download PDF' link='' target='_blank'/>
+<File title='Geometric Probability' img={GeometricProbability} body='Download PDF' link='' target='_blank'/>
+<File title='Geometric Probability 2' img={GeometricProbability2} body='Download PDF' link='' target='_blank'/>
+<File title='Geometric Probability 3' img={GeometricProbability3} body='Download PDF' link='' target='_blank'/>
+<File title='Logic Chains' img={LogicChains} body='Download PDF' link='' target='_blank'/>
+<File title='Truth Tables' img={TruthTables} body='Download PDF' link='' target='_blank'/>
+<File title='Truth Tables 2' img={TruthTables2} body='Download PDF' link='' target='_blank'/>
+<File title='Altitudes of Triangle' img={Altitudes} body='Download PDF' link='' target='_blank'/>
+<File title='Angle Bisectors of Triangle' img={AngleBisectors} body='Download PDF' link='' target='_blank'/>
+<File title='Medians of Triangle' img={Medians} body='Download PDF' link='' target='_blank'/>
+<File title='Perpendicular Bisectors of Triangle' img={PerpendicularBisectors} body='Download PDF' link='' target='_blank'/>
+<File title='Perpendicular Bisectors of Triangle 2' img={PerpendicularBisectors2} body='Download PDF' link='' target='_blank'/>
+<File title='Eulers Line' img={Euler_sLine} body='Download PDF' link='' target='_blank'/>
+<File title='Parts of a Triangle' img={PartsofaTriangle} body='Download PDF' link='' target='_blank'/>
+<File title='Parts of a Triangle 2' img={PartsofaTriangle2} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Vocab' img={GeometryVocab} body='Download PDF' link='' target='_blank'/>
+<File title='Angles of a Polygon' img={AnglesofaPolygon} body='Download PDF' link='' target='_blank'/>
+<File title='Complementary and Supplementary' img={ComplementaryandSupplementary} body='Download PDF' link='' target='_blank'/>
+<File title='Interior and Exterior Angles' img={InteriorandExteriorAngles} body='Download PDF' link='' target='_blank'/>
+<File title='Linear Pair and Vertical Angles' img={LinearPairandVerticalAngles} body='Download PDF' link='' target='_blank'/>
+<File title='Solving Missing Angles' img={SolvingMissingAngles} body='Download PDF' link='' target='_blank'/>
+<File title='Parallel Lines and Transversals' img={ParallelLinesandTransversals} body='Download PDF' link='' target='_blank'/>
+<File title='Parallel Lines and Transversals 2' img={ParallelLinesandTransversals2} body='Download PDF' link='' target='_blank'/>
+<File title='Points, Lines, Planes, Angles Review' img={PointsLinesPlanesAnglesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Classifying Parallelograms' img={ClassifyingParallelograms} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Parallelograms' img={PropertiesofParallelograms} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Rectangles' img={PropertiesofRectangles} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Rhombus' img={PropertiesofRhombus} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Rhombus 2' img={PropertiesofRhombus2} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Kites' img={PropertiesofKites} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Trapezoids' img={PropertiesofTrapezoids} body='Download PDF' link='' target='_blank'/>
+<File title='Isosceles Trapezoids' img={IsoscelesTrapezoids} body='Download PDF' link='' target='_blank'/>
+<File title='Kites and Trapezoids' img={KitesandTrapezoids} body='Download PDF' link='' target='_blank'/>
+<File title='Trapezoids Review' img={TrapezoidsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Areas of Quadrilaterals' img={AreaofQuadrilaterals} body='Download PDF' link='' target='_blank'/>
+<File title='Quadrilaterals Review' img={QuadrilateralsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Areas, Surface Areas, Volumes'  img={AreasSurfaceAreasVolumes} body='Download PDF' link='' target='_blank'/>
+<File title='Surface Area' img={SurfaceAreaF} body='Download PDF' link='' target='_blank'/>
+<File title='Volumes of Solids'   img={VolumesofSolids} body='Download PDF' link='' target='_blank'/>
+<File title='Surface Area and Volumes Review'   img={SurfaceAreaandVolumesReivew} body='Download PDF' link='' target='_blank'/>
+<File title='Ratios of Similar Solids'   img={RatiosofSimilarSolids} body='Download PDF' link='' target='_blank'/>
+<File title='Ratio of Similar Solids 2'  img={RatiosofSimilarSolids2} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Translations' img={Translations} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Translations 2'  img={Translations2} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Translations 3'  img={Translations3} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Dilations'  img={Dilations} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Dilations 2'  img={Dilations2} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Dilations 3'   img={Dilations3} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Rotations'   img={Rotations} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Rotations 2'  img={Rotations2} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Transformations'  img={TransformationsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Geometry Transformations 2'   img={TransformationsReview2} body='Download PDF' link='' target='_blank'/>
+<File title='Proving Congruence' img={ProvingCongruence} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Triangle Congruence practice' img={TriangleCongruencepractice} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Triangle Congruence Review' img={TriangleCongruenceReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Triangle Congruence Review 2' img={TriangleCongruenceReview2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Similar Triangles' img={SimilarTriangles} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Triangle Similarity Proofs' img={TriangleSimilarityProofs} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Triangle Similarity Proofs 2' img={TriangleSimilarityProofs2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Pythagorean Theorem' img={PythagoreanTheorem} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Special Right Triangles' img={SpecialRightTriangles} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Right Triangle Trig Missing Sides and Angles' img={RightTriangleTrigMissingSidesandAngles} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Right Triangle Trig Review' img={RightTriangleTrigReview} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Right Trangle Trig Review 2' img={RightTrangleTrigReview2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Geometric Mean' img={GeometricMean} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Angle of Elevation and Depression' img={AngleofElevationandDepression} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Law of Sines and Cosines' img={LawofSinesandCosines} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Law of Sines and Cosines 2' img={LawofSinesandCosines2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Law of Sines Cosines 3' img={LawofSinesCosines3} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Law of Sines and Cosines Word Problems' img={LawofSinesandCosinesWordProblems} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='Law of Sines and Cosines Word Problems 2' img={LawofSinesandCosinesWordProblems2} link='' target='_blank' body = 'Downlaod PDF' />
+<File title='1st Law of Thermodynamics' img={FirstLawofThermodynamics} body='Download PDF' link='' target='_blank'/>
+<File title='2nd Law of Thermodynamics'  img={SecondLawofThermodynamics} body='Download PDF' link='' target='_blank'/>
+<File title='3rd Law of Thermodynamics'  img={ThirdLawofThermodynamics} body='Download PDF' link='' target='_blank'/>
+<File title='Thermodynamics Review'  img={ThermodynamicsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Classifying Ionic and Covalent' img={ClassifyingIonicorCovalent} body='Download PDF' link='' target='_blank'/>
+<File title='Covalent Compounds'  img={CovalentCompounds} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Ionic Compounds'  img={PropertiesofIonicCompounds} body='Download PDF' link='' target='_blank'/>
+<File title='Nomenclature Worksheet 1 and 2' img={NomenclatureWorksheet1and2} body='Download PDF' link='' target='_blank'/>
+<File title='Nomenclature Worksheet 3' img={NomenclatureWorksheet3} body='Download PDF' link='' target='_blank'/>
+<File title='Nomenclature Worksheet 4' img={NomenclatureWorksheet4} body='Download PDF' link='' target='_blank'/>
+<File title='Kinetics Practice Problems'  img={KineticsPracticeProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Kinetics Review'    img={KineticsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Kinetics Practice Test' img={KineticsPracticeTest} body='Download PDF' link='' target='_blank'/>
+<File title='Identifying Intermolecular Forces'  img={IdentifyingIntermolecularForces} body='Download PDF' link='' target='_blank'/>
+<File title='Types of Intermolecular Forces'  img={TypesofIntermolecularForces} body='Download PDF' link='' target='_blank'/>
+<File title='Intermolecular Forces Review' img={IntermolecularForcesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Le Cahteliers Principle' img={LeChateliersPrinciple} body='Download PDF' link='' target='_blank'/>
+<File title='Solving Equalibrium Constants'  img={EqualibriumConstants} body='Download PDF' link='' target='_blank'/>
+<File title='Chemical Equalibrium Review'     img={ChemicalEqualibriumReview} body='Download PDF' link='' target='_blank'/>
+<File title='Stoichiometry'  img={Stoichiometry} body='Download PDF' link='' target='_blank'/>
+<File title='Types of Chemical Reactions'  img={TypesofChemicalReactions} body='Download PDF' link='' target='_blank'/>
+<File title='Precipitation Reactions'  img={PrecipitationReactions} body='Download PDF' link='' target='_blank'/>
+<File title='Redox Reactions'   img={RedoxReactions} body='Download PDF' link='' target='_blank'/>
+<File title='Dimensional Analysis'    img={DimensionalAnalysis} body='Download PDF' link='' target='_blank'/>
+<File title='Atomic Structure'   img={AtomicStructureF} body='Download PDF' link='' target='_blank'/>
+<File title='Significant Figures'  img={SigFigs} body='Download PDF' link='' target='_blank'/>
+<File title='Periodic Trends'  img={PeriodicTrends} body='Download PDF' link='' target='_blank'/>
+<File title='AP Chemistry 2018 FRQ' img={APChemistry2018FRQ} body='Download PDF' link='' target='_blank'/>
+<File title='AP Chemistry Practice Exam' img={APChemistryPracticeExam} body='Download PDF' link='' target='_blank'/>
+<File title='Acids and Bases Intro'  img={AcidsBasesandpH} body='Download PDF' link='' target='_blank'/>
+<File title='Acid Base Pairs'  img={AcidBasePairs} body='Download PDF' link='' target='_blank'/>
+<File title='Acids and Bases pH' img={AcidsBasesandpH} body='Download PDF' link='' target='_blank'/>
+<File title='Titration Problems'  img={TitrationsProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Parametric Equations'   img={ParametricEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Parametric Equations Review'   img={ParametricEquationsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Parametric Tangent Lines and Arc Length'   img={ParametricTangentLinesandArcLength} body='Download PDF' link='' target='_blank'/>
+<File title='Polar Equations Tangent Lines and Arc Length' img={PolarEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Sequences'   img={Sequences} body='Download PDF' link='' target='_blank'/>
+<File title='Monotone Sequences'   img={MonotoneSequences} body='Download PDF' link='' target='_blank'/>
+<File title='Infinite Series'   img={InfiniteSeriesFile} body='Download PDF' link='' target='_blank'/>
+<File title='Convergence Tests'   img={ConvergenceTests} body='Download PDF' link='' target='_blank'/>
+<File title='Comparison, Ratio, and Root Test'   img={ComparisonRatioRootTest} body='Download PDF' link='' target='_blank'/>
+<File title='Absolute and Conditional Convergence'   img={AbsoluteandConditionConvergence} body='Download PDF' link='' target='_blank'/>
+<File title='Maclaurin and Taylor Series'  img={MaclaurinandTaylorSeries} body='Download PDF' link='' target='_blank'/>
+<File title='Convergence of Taylor Series'  img={ConvergenceofTaylorSeries} body='Download PDF' link='' target='_blank'/>
+<File title='Power Series'  img={PowerSeries} body='Download PDF' link='' target='_blank'/>
+<File title='Differentiating and Integrating Taylor Series'  img={DifferentiatingandIntegratingTaylorSeries} body='Download PDF' link='' target='_blank'/>
+<File title='Lagrange Error Bound'   img={LagrangeErrorBound} body='Download PDF' link='' target='_blank'/>
+<File title='Parametric Equations FRQ'    img={ParametricEquationsFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Differential Equations FRQ'     img={DifferentialEquationsFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Series FRQ'    img={SeriesFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Polar Equations FRQ'   img={PolarEquationsFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Intro to Differential Equations'  img={IntrotoDifferentialEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Initial Value Problems'  img={IntialValueProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Seperable Differential Equations' img={SeparableDifferentialEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Differential Equations Review'  img={DifferentialEquationsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Error Propagation'  img={ErrorPropagation} body='Download PDF' link='' target='_blank'/>
+<File title='Eulers Method'   img={Euler_sMethod} body='Download PDF' link='' target='_blank'/>
+<File title='Eulers Method 2' img={Euler_sMethod2} body='Download PDF' link='' target='_blank'/>
+<File title='Improper Integrals'   img={ImproperIntegrals} body='Download PDF' link='' target='_blank'/>
+<File title='Improper Integrals Review' img={ImproperIntegralsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Logistic Growth'   img={LogisticGrowth} body='Download PDF' link='' target='_blank'/>
+<File title='Logistic Growth 2'   img={logistic_growth} body='Download PDF' link='' target='_blank'/>
+<File title='Slope Fields'  img={SlopeFields} body='Download PDF' link='' target='_blank'/>
+<File title='Calculus AB and BC Multiple Choice'  img={CalculusABandBCMultipleChoice} body='Download PDF' link='' target='_blank'/>
+<File title='Calculus BC 2008 FRQ'   img={CalculusBC2008FRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Calculus BC 2008 MCQ'  img={CalculusBC2008MCQ} body='Download PDF' link='' target='_blank'/>
+<File title='Calculus BC 2011 FRQ'  img={CalculusBC2011FRQExam} body='Download PDF' link='' target='_blank'/>
+<File title='Calculus BC 2012 Exam'   img={CalculusBC2012Exam} body='Download PDF' link='' target='_blank'/>
+<File title='Calculus BC 2015 FRQ'   img={CalculusBC2015FRQExam} body='Download PDF' link='' target='_blank'/>
+<File title='Calculus BC 2017 FRQ'  img={CalculusBC2017FRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Limits Graphically'   img={LimitsGraphically} body='Download PDF' link='' target='_blank'/>
+<File title='Evaluating Limits From Tables'   img={EvaluatingLimitsFromTables} body='Download PDF' link='' target='_blank'/>
+<File title='Evaluating Limits'  img={EvaluatingLimits} body='Download PDF' link='' target='_blank'/>
+<File title='Limits at Infinity' img={LimitsatInfinity} body='Download PDF' link='' target='_blank'/>
+<File title='Limits Review'   img={LimitsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Limits Review 2'    img={LimitsReview2} body='Download PDF' link='' target='_blank'/>
+<File title='Limits Test'    img={LimitsTest} body='Download PDF' link='' target='_blank'/>
+<File title='Continuity'   img={Continuity} body='Download PDF' link='' target='_blank'/>
+<File title='Continuity Review' img={ContinuityReview} body='Download PDF' link='' target='_blank'/>
+<File title='Types of Discontinuities'  img={TypesofDisconitnuities} body='Download PDF' link='' target='_blank'/>
+<File title='Intermidiate Value Theorem'  img={IntermidiateValueTheorem} body='Download PDF' link='' target='_blank'/>
+<File title='Accumulation of Change' img={AccumalationofChange} body='Download PDF' link='' target='_blank'/>
+<File title='Indefinite Integrals'  img={IndefiniteIntegrals} body='Download PDF' link='' target='_blank'/>
+<File title='Definite Integrals'  img={DefiniteIntegrals} body='Download PDF' link='' target='_blank'/>
+<File title='Definite Integrals 2'  img={DefiniteIntegrals2} body='Download PDF' link='' target='_blank'/>
+<File title='Definite Integrals with Substitutions' img={DefiniteIntegralswithSubstitutions} body='Download PDF' link='' target='_blank'/>
+<File title='Integration by Substitution' img={IntegrationbySubstitution} body='Download PDF' link='' target='_blank'/>
+<File title='Integration by Substitution Review'  img={IntegrationbySubstitutionReview} body='Download PDF' link='' target='_blank'/>
+<File title='Integration by Partial Fractions'   img={IntegrationbyPartialFractions} body='Download PDF' link='' target='_blank'/>
+<File title='Integrating by Partial Fractions Review'  img={IntegratingbyPartialFractionsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Integrating Trig Functions'  img={IntegratingTrigFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Substitutions Integrals'  img={TrigSubstitutionsIntegrals} body='Download PDF' link='' target='_blank'/>
+<File title='Integration by Parts'     img={IntegratingTrigFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Integration by Parts 2'    img={IntegrationbyParts2} body='Download PDF' link='' target='_blank'/>
+<File title='Integration by Parts Review'     img={IntegrationbyPartsReview} body='Download PDF' link='' target='_blank'/>
+<File title='First Fundamental Theorem of Calculus'   img={FirstFundamentalTheoremofCalculus} body='Download PDF' link='' target='_blank'/>
+<File title='Fundamental Theorem of Calculus Review'   img={FundamentalTheoremofCalculusReview} body='Download PDF' link='' target='_blank'/>
+<File title='Second Fundamental Theorem of Calculus'   img={SecondFundamentalTheoremofCalculus} body='Download PDF' link='' target='_blank'/>
+<File title='Second Fundamental Theorem of Calculus Review'   img={SecondFundamentalTheoremofCalculusReview} body='Download PDF' link='' target='_blank'/>
+<File title='Accumulation Functions FRQ'     img={AccumationFunctionsFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Analyzing Graphs of F FRQ' img={AnalyzingGraphsofFFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Areas and Volumes FRQ'   img={AreasofVolumesFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Charts of F FRQ'   img={ChartsofFFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Functions FRQ'   img={FunctionsFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Implicit Differentiation FRQ'   img={ImplicitDifferentiationFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Particle Motion FRQ'  img={ParticleMotionFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Rate of Change FRQ'    img={RateofChangeFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Reimann Sums FRQ'    img={ReimannSumsFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Related Rates FRQ'   img={RelatedRatesFRQ} body='Download PDF' link='' target='_blank'/>
+<File title='Intervals of Increase and Decrease' img={IntervalsofIncreaseandDecrease} body='Download PDF' link='' target='_blank'/>
+<File title='Critical Points'   img={CriticalPoints} body='Download PDF' link='' target='_blank'/>
+<File title='Extreme Value Theorem'   img={ExtremaReview} body='Download PDF' link='' target='_blank'/>
+<File title='Concavity and Points of Inflection'   img={ConcavityandPointsofInflection} body='Download PDF' link='' target='_blank'/>
+<File title='Concavity and Points of Inflection 2'  img={ConcavityandPointsofInflection2} body='Download PDF' link='' target='_blank'/>
+<File title='First Derivative Test'   img={FirstDerivativeTest} body='Download PDF' link='' target='_blank'/>
+<File title='Second Derivative Test'  img={SecondDerivativeTest} body='Download PDF' link='' target='_blank'/>
+<File title='Relative Extrema'    img={RelativeExtrema} body='Download PDF' link='' target='_blank'/>
+<File title='Absolute Extrema'   img={AbsoluteExtrema} body='Download PDF' link='' target='_blank'/>
+<File title='Extrema Review'   img={ExtremaReview} body='Download PDF' link='' target='_blank'/>
+<File title='Mean Value Theorem'   img={MeanValueTheorem} body='Download PDF' link='' target='_blank'/>
+<File title='Mean Value Theorem Review'   img={MeanValueTheoremReview} body='Download PDF' link='' target='_blank'/>
+<File title='Sketching Functions'  img={SketchignFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Analysis of Functions Review'    img={AnalysisofFunctionsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Analysis and Sketching Functions Review'   img={AnalysisandSketchingFunctionsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Optimization Word Problems'   img={OptimizationWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Definition of Derivatives'         img={DefinitionofDerivatives} body='Download PDF' link='' target='_blank'/>
+<File title='Definition of the Derivative'      img={DefinitionoftheDerivative} body='Download PDF' link='' target='_blank'/>
+<File title='Derivatives Review'   img={DerivativesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Average vs Instantaneous Rates of Change'   img={AveragevsInstantaneousRatesofChange} body='Download PDF' link='' target='_blank'/>
+<File title='Power Constant and Sum Rules'    img={PowerConstantandSumRules} body='Download PDF' link='' target='_blank'/>
+<File title='Product Rule'    img={ProductRule} body='Download PDF' link='' target='_blank'/>
+<File title='Quotient Rule'   img={QuotientRule} body='Download PDF' link='' target='_blank'/>
+<File title='Tangent Lines'      img={TangentLines} body='Download PDF' link='' target='_blank'/>
+<File title='Tangents and Derivatives Review'     img={TangentsandDerivativesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Differentiation Techniques Review'    img={DifferentiationTechniquesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Chain Rule'   img={ChainRule} body='Download PDF' link='' target='_blank'/>
+<File title='Chain Rule Review'    img={ChainRuleReview} body='Download PDF' link='' target='_blank'/>
+<File title='Derivatives of Inverse Functions'   img={DerivativesofInverseFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Derivatives of Logs and Exponentials' img={DifferentiatingLogsandExponentials} body='Download PDF' link='' target='_blank'/>
+<File title='Derivatives of Logs and Exponentials Review'  img={DerivativesofLogsandExponentsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Differentiating Inverse Trig Functions'  img={DifferentiatingInverseTrigFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Differentiating Trig Functions'  img={DifferentiatingTrigFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Higher Order Derivatives' img={HigherOrderDerivatives} body='Download PDF' link='' target='_blank'/>
+<File title='Implicit Differentiation' img={ImplicitDifferentiation} body='Download PDF' link='' target='_blank'/>
+<File title='Implicit Differentiation 2'  img={ImplicitDifferentiation2} body='Download PDF' link='' target='_blank'/>
+<File title='Implicit Differentiation Review'  img={ImplicitDifferentiationReview} body='Download PDF' link='' target='_blank'/>
+<File title='Area as a Limit and Sigma Notation'  img={AreaasaLimitandSigmaNotation} body='Download PDF' link='' target='_blank'/>
+<File title='Riemann Sums'   img={RiemannSums} body='Download PDF' link='' target='_blank'/>
+<File title='Area Between Two Curves' img={AreaBetweenTwoCurves} body='Download PDF' link='' target='_blank'/>
+<File title='Volumes of Solids and Washers'  img={VolumesSolidsandWashers} body='Download PDF' link='' target='_blank'/>
+<File title='Shell Method and Arc Length'  img={ShellMethodandArcLength} body='Download PDF' link='' target='_blank'/>
+<File title='Rectilinear Motion Review'  img={RectilinearMotionReview} body='Download PDF' link='' target='_blank'/>
+<File title='Rectilinear Motion and Average Value Review'   img={RectilinearMotionandAverageValueReview} body='Download PDF' link='' target='_blank'/>
+<File title='Average Value of a Function'   img={AverageValueofFunction} body='Download PDF' link='' target='_blank'/>
+<File title='LHospital Rule'    img={L_HospitalRule} body='Download PDF' link='' target='_blank'/>
+<File title='LHospital Rule 2'    img={L_HospitalRule2} body='Download PDF' link='' target='_blank'/>
+<File title='LHospital Review'  img={L_HospitalRuleReview} body='Download PDF' link='' target='_blank'/>
+<File title='Linear Motion'    img={LinearMotion} body='Download PDF' link='' target='_blank'/>
+<File title='Linear Motion 2'  img={LinearMotion2} body='Download PDF' link='' target='_blank'/>
+<File title='Related Rates'   img={RelatedRates} body='Download PDF' link='' target='_blank'/>
+<File title='Related Rates 2'  img={RelatedRates2} body='Download PDF' link='' target='_blank'/>
+<File title='Related Rates Review'  img={RelatedRatesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Local Linear Approximation'    img={LocalLinearApproximation} body='Download PDF' link='' target='_blank'/>
+<File title='2012 Calculus AB Exam' img={CalculusABExam} body='Download PDF' link='' target='_blank'/>
+<File title='2020 AB Exam'  img={ABExam} body='Download PDF' link='' target='_blank'/>
+<File title='Unit Circle Review'  img={UnitCircle} body='Download PDF' link='' target='_blank'/>
+<File title='Unit Circle Review'   img={UnitCircleF} body='Download PDF' link='' target='_blank'/>
+<File title='Degrees and Radians Conversion' img={DegreestoRadians} body='Download PDF' link='' target='_blank'/>
+<File title='Angle Sum and Difference Identities'  img={AngleSumandDifferenceIdentities} body='Download PDF' link='' target='_blank'/>
+<File title='Double and Half Angle Identities'    img={DoubleHalfAngleIdentities} body='Download PDF' link='' target='_blank'/>
+<File title='Product to Sum Identities'   img={ProducttoSumIdentities} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Trig Intro'  img={GraphingTrigIntro} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Trig Functions 2'  img={GraphingTrigFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Trig Functions 3' img={GraphingTrigFunctions2} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Equations' img={TrigEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Equations 2'img={TrigEquations2} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Equations 3'  img={TrigEquations3} body='Download PDF' link='' target='_blank'/>
+<File title='Inverse Trig'  img={InverseTrigW} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Identities' img={TrigIdentities} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Identities 2' img={TrigIdentities2} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Identities 3' img={TrigIdentities3} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Review'  img={TrigReview} body='Download PDF' link='' target='_blank'/>
+<File title='Trig Word Problems'  img={TrigWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Parent Functions'     img={ParentFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Parent Functions 2' img={ParentFunctions2} body='Download PDF' link='' target='_blank'/>
+<File title='Transformations Worksheet'  img={TransformingFunctionsWorksheet} body='Download PDF' link='' target='_blank'/>
+<File title='Transformations Worksheet 2'   img={TransformationWorksheet2} body='Download PDF' link='' target='_blank'/>
+<File title='Transformations Worksheet 3'  img={TransformationsWorksheet3} body='Download PDF' link='' target='_blank'/>
+<File title='Transformations of Graphs'   img={TransformationsofGraphs} body='Download PDF' link='' target='_blank'/>
+<File title='Transformations Review'   img={TransformationsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Square Root Equations'     img={SquareRootEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Square Root Equations 2'     img={SquareRootEquations2} body='Download PDF' link='' target='_blank'/>
+<File title='Square Root Equations 3'     img={SquareRootEquations3} body='Download PDF' link='' target='_blank'/>
+<File title='Quadratic Systems'    img={QuadraticSystems} body='Download PDF' link='' target='_blank'/>
+<File title='Quadratic Systems 2'    img={QuadraticSystems2} body='Download PDF' link='' target='_blank'/>
+<File title='Quadratic Systems 3'  img={QuadraticSystems3} body='Download PDF' link='' target='_blank'/>
+<File title='Quadratic Systems Review'  img={QuadraticSystemsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Rational Exponents'    img={RadicalsandRationalExponents} body='Download PDF' link='' target='_blank'/>
+<File title='Simplifying Rational Exponents'   img={SimplifyingRationalExponents} body='Download PDF' link='' target='_blank'/>
+<File title='Rational Exponents and Radicals Review'   img={RationalExponents_RadicalsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Radicals'       img={GraphingRadicals} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Radicals 2'       img={GraphingRadicals2} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Cube Roots'       img={GraphingCubeRoots} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Cube Roots 2'       img={GraphingCubeRoots2} body='Download PDF' link='' target='_blank'/>
+<File title='Radicals Review'      img={RadicalsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Polynomial Functions Intro'     img={PolynomialFunctionsIntro} body='Download PDF' link='' target='_blank'/>
+<File title='Facts of Polynomial Functions'      img={FactsofPolynomialFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Polynomial End Behavior'     img={PolynomialsEndBehavior} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Polynomials'    img={GraphingPolynomials} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Polynomials 2'    img={GraphingPolynomials2} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Polynomials 3'    img={GraphingPolynomials3} body='Download PDF' link='' target='_blank'/>
+<File title='Intervals of Polynomials'   img={IntervalsofPolynomials} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplicity and Graphing Polynomials'   img={MultiplicityandGraphingPolynomialsinsert} body='Download PDF' link='' target='_blank'/>
+<File title='Polynomial Identities'       img={PolynomialIdentities} body='Download PDF' link='' target='_blank'/>
+<File title='Factor Polynomials Review'      img={FactoringPolynomialsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Sum and Difference of Cubes'      img={SumandDifferenceofCubes} body='Download PDF' link='' target='_blank'/>
+<File title='Sum and Difference of Cubes 2'  img={SumandDifferenceofCubes2} body='Download PDF' link='' target='_blank'/>
+<File title='Rational Root Theorem'      img={RationalRootTheorem} body='Download PDF' link='' target='_blank'/>
+<File title='Long Division Polynomials'    img={LongDivisionPolynomials} body='Download PDF' link='' target='_blank'/>
+<File title='Synthetic Division'    img={SyntheticDivision} body='Download PDF' link='' target='_blank'/>
+<File title='Dividing Polynomials'    img={DividingPolynomials} body='Download PDF' link='' target='_blank'/>
+<File title='Dividing Polynomials 2'    img={DividingPolynomials2} body='Download PDF' link='' target='_blank'/>
+<File title='Factor Theorem'   img={FactorTheorem} body='Download PDF' link='' target='_blank'/>
+<File title='Remainder Factor Theorem'   img={RemainderFactorTheorem} body='Download PDF' link='' target='_blank'/>
+<File title='The Remainder Theorem' img={TheRemainderTheorem} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Piecewise Functions' img={GraphingPiecewiseFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Piecewise Functions 2'   img={GraphingPiecewiseFunctions2} body='Download PDF' link='' target='_blank'/>
+<File title='Piecewise Domain and Range'   img={PiecewiseDomainandRange} body='Download PDF' link='' target='_blank'/>
+<File title='Piecewise Functions Review'  img={PiecewiseFunctionsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Piecewise Word Problems'   img={PiecewiseWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Exponential Equations Without Logarithms'    img={ExponentialEquationsWithoutLogarithms} body='Download PDF' link='' target='_blank'/>
+<File title='Exponential Equations'    img={ExponentialEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Meaning of Logarithms'     img={MeaningofLogarithms} body='Download PDF' link='' target='_blank'/>
+<File title='Expanding and Condenscing Logs'       img={ExpandingandCondenscingLogs} body='Download PDF' link='' target='_blank'/>
+<File title='Logarithms Intro'       img={LogarithmsIntro} body='Download PDF' link='' target='_blank'/>
+<File title='Logarithm Properties'     img={LogarithmProperties} body='Download PDF' link='' target='_blank'/>
+<File title='Logarithmic Operations'      img={LogarithmicOperations} body='Download PDF' link='' target='_blank'/>
+<File title='Change of Base Formula'     img={ChangeofBaseFormula} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Exponential Functions'      img={GraphingExponentialFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Exponential Functions2'      img={GraphingExponentialFunctions2} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Logarithms'        img={GraphignLogarithmicFunctions2} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Logarithms 2'       img={GraphingLogarithms} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Logartihms 3'       img={GraphingLogarithms2} body='Download PDF' link='' target='_blank'/>
+<File title='Logs and Exponents Word Problems'       img={LogsandExponentsWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Logs and Exponents Word Problems 2'   img={Exponential_LogarithmicWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Applications of Logs and Exponents'    img={ApplicationsofLogsandExponents} body='Download PDF' link='' target='_blank'/>
+<File title='Compound Interest'    img={CompoundInterest} body='Download PDF' link='' target='_blank'/>
+<File title='Logarithms Review'    img={LogarithmsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Logarithms Review 2'   img={LogarithmsReview2} body='Download PDF' link='' target='_blank'/>
+<File title='Greatest Integer Function'   img={GreatestIntegerFunction} body='Download PDF' link='' target='_blank'/>
+<File title='Greatest Integer Function2'       img={GreatestIntegerFunction2} body='Download PDF' link='' target='_blank'/>
+<File title='Complex Numbers Intro'         img={ComplexNumbersIntro} body='Download PDF' link='' target='_blank'/>
+<File title='Complex Numbers Review'        img={ComplexNumbersReview} body='Download PDF' link='' target='_blank'/>
+<File title='Complex Quadratics'       img={ComplexQuadratics} body='Download PDF' link='' target='_blank'/>
+<File title='Complex Quadratics 2'      img={ComplexQuadratics2} body='Download PDF' link='' target='_blank'/>
+<File title='Simplifying Complex Numbers'      img={SimplifyingComplexNumbers} body='Download PDF' link='' target='_blank'/>
+<File title='Operations with Complex Numbers'      img={OperationswithComplexNumbers} body='Download PDF' link='' target='_blank'/>
+<File title='Operations with Complex Numbers 2'    img={OperationswithComplexNumbers2} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Complex Numbers'  img={PropertiesofComplexNumbers} body='Download PDF' link='' target='_blank'/>
+<File title='Systems by Elimination'      img={SystemsbyElimination} body='Download PDF' link='' target='_blank'/>
+<File title='Systems by Graphing'   img={SystemsbyGraphing} body='Download PDF' link='' target='_blank'/>
+<File title='Systems by Inspection'  img={SystemsbyInspection} body='Download PDF' link='' target='_blank'/>
+<File title='Systems by Substitution'     img={SystemsbyInspection} body='Download PDF' link='' target='_blank'/>
+<File title='Systems Review'      img={SystemsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Systems Test 1'      img={SystemsTest1} body='Download PDF' link='' target='_blank'/>
+<File title='Systems Test 2'     img={SystemsTest2} body='Download PDF' link='' target='_blank'/>
+<File title='Systems Word Problems'     img={SystemsWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Systems Word Problems 2'  img={SystemsWordProblems2} body='Download PDF' link='' target='_blank'/>
+<File title='Adding and Subtracting Rational Expressions'     img={AddingSubtractingRationalExpressions} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying and Dividing Rational Expressions'      img={MultiplingDividingRationalExpressions} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying Rational Expressions'      img={MultiplyingRationalExpressions} body='Download PDF' link='' target='_blank'/>
+<File title='Rational Expressions Review'      img={RationalExpressionsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Simplifying Rational Expressions'      img={SimplifyingRationalExpressions} body='Download PDF' link='' target='_blank'/>
+<File title='Solving Rational Equations'       img={SolvingRationalEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Solving Rational Equations 2'    img={SolvingRationalEquations2} body='Download PDF' link='' target='_blank'/>
+<File title='Solving Rational Equations 3'      img={SolvingRationalEquations3} body='Download PDF' link='' target='_blank'/>
+<File title='Simplifying Radicals'     img={SimplifyingRadicals} body='Download PDF' link='' target='_blank'/>
+<File title='Simplifying Radicals Review'     img={SimplifyingRadicalsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Adding and Subtracting Radicals'     img={AddingSubtractingRadicals} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying Radicals'     img={MultiplyingRadicalExpressions} body='Download PDF' link='' target='_blank'/>
+<File title='Dividing Radicals'    img={DividingRadicals} body='Download PDF' link='' target='_blank'/>
+<File title='Factoring Quadratic Expressions' img={FactoringQuadraticExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Vertex Form' img={QuadraticsVertexForm} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics All Methods' img={QuadraticsAllMethods} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Factored Form' img={QuadraticsFactoredForm} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Functions Intro' img={QuadraticFunctionsIntro} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Quadratics by Square Roots2' img={SolvingQuadraticsbySquareRoots2} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Standard Form2' img={QuadraticsStandardForm2} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Quadratics by Square Roots' img={SolvingQuadraticsbySquareRoots} link='' target='_blank' body='Download PDF'/>
+<File title='Differences of Squares2' img={DifferencesofSquares2} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Word Problems' img={QuadraticWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Standard Form' img={QuadraticsStandardForm} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Word Problems2' img={QuadraticWordProblems2} link='' target='_blank' body='Download PDF'/>
+<File title='Zero Product Property' img={ZeroProductProperty} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Formula' img={QuadraticFormula} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Word Problems 3' img={QuadraticWordProblems3} link='' target='_blank' body='Download PDF'/>
+<File title='Difference of Squares' img={DifferenceofSquares} link='' target='_blank' body='Download PDF'/>
+<File title='Perfect Square Trinomials' img={PerfectSquareTrinomials} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Equations By Completing the Square' img={QuadraticEquationsByCompletingtheSquare} link='' target='_blank' body='Download PDF'/>
+<File title='Factoring Trinomials a=1' img={FactoringTrinomialsA1} link='' target='_blank' body='Download PDF'/>
+<File title='The Discriminant' img={TheDiscriminant} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Vertex Form' img={GraphingVertexForm} link='' target='_blank' body='Download PDF'/>
+<File title='Adding and Subtracting Polynomials'       img={AddingSubtractingPolynomials} body='Download PDF' link='' target='_blank'/>
+<File title='Adding and Subtracting Polynomials 2'      img={AddingSubtractingPolynomials2} body='Download PDF' link='' target='_blank'/>
+<File title='Adding and Subtracting Polynomials 3'    img={AddingSubtractingPolynomials3} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying Binomials'   img={MultiplyingBinomials} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying Polynomials'  img={MultiplyingPolynomials} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying Polynomials 2'   img={MultiplyingPolynomials2} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying Polynomials 3'   img={MultiplyingPolynomials3} body='Download PDF' link='' target='_blank'/>
+<File title='Multiplying Monomials'    img={MultiplyingMonomials} body='Download PDF' link='' target='_blank'/>
+<File title='Polynomial Operations Review'    img={PolynomialOperationsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Equations From Table'      img={EquationsFromTable} body='Download PDF' link='' target='_blank'/>
+<File title='Horizontal Vertical Lines'   img={HorizontalVerticalLines} body='Download PDF' link='' target='_blank'/>
+<File title='Interpreting Slope and Y-Intercept'  img={InterpretingSlopeYInt} body='Download PDF' link='' target='_blank'/>
+<File title='Linear Standard Form'    img={LinearStandardForm} body='Download PDF' link='' target='_blank'/>
+<File title='Linear Word Problems'    img={LinearWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Point Slope'    img={PointSlope} body='Download PDF' link='' target='_blank'/>
+<File title='Rate of Change'    img={RateOfChange} body='Download PDF' link='' target='_blank'/>
+<File title='Slope From an Equation'  img={SlopeFromanEquation} body='Download PDF' link='' target='_blank'/>
+<File title='Slope'  img={Slope} body='Download PDF' link='' target='_blank'/>
+<File title='Writing Linear Equations'      img={WritingLinearEquations} body='Download PDF' link='' target='_blank'/>
+<File title='One-Step Equations'    img={OneStepEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Two-Step Equations'    img={TwoStepEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Combining Like Terms'   img={CombiningLikeTerms} body='Download PDF' link='' target='_blank'/>
+<File title='X on Both Sides'  img={XsonBothSides} body='Download PDF' link='' target='_blank'/>
+<File title='Distributive Property'  img={DistributiveProperty} body='Download PDF' link='' target='_blank'/>
+<File title='Solve x,y by Addition'   img={XYAdd} body='Download PDF' link='' target='_blank'/>
+<File title='Solve x,y by Subtraction'   img={XYSub} body='Download PDF' link='' target='_blank'/>
+<File title='Solve x,y by Addition/Subtraction'  img={XYAddSub} body='Download PDF' link='' target='_blank'/>
+<File title='Solve x,y by Multiplication'  img={XYMult} body='Download PDF' link='' target='_blank'/>
+<File title='Solve x,y by Substituion'   img={XYSubb} body='Download PDF' link='' target='_blank'/>
+<File title='100 Easy Quadratics'   img={EasyQuadratics} body='Download PDF' link='' target='_blank'/>
+<File title='100 Difficult Quadratics'  img={DifficultQuadratics} body='Download PDF' link='' target='_blank'/>
+<File title='Rational and Irrational Classification'      img={RationalIrrationalClassification} body='Download PDF' link='' target='_blank'/>
+<File title='Rational and Irrational Review'     img={RationalIrrationalReview} body='Download PDF' link='' target='_blank'/>
+<File title='Graphing Inequalities'    img={GraphingInequalities} body='Download PDF' link='' target='_blank'/>
+<File title='Inequalities Review'   img={InequalitiesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Inequalities Word Problems'  img={InequalitiesWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Inequalities Word Problems 2'  img={InequalitiesWordProblems2} body='Download PDF' link='' target='_blank'/>
+<File title='Systems of Inequalities'    img={SystemsofInequalities} body='Download PDF' link='' target='_blank'/>
+<File title='Average Rate of Change'   img={AverageRateofChange} body='Download PDF' link='' target='_blank'/>
+<File title='Average Rate of Change2'   img={AverageRateofChange2} body='Download PDF' link='' target='_blank'/>
+<File title='Discrete Relations'   img={DiscreteRelations} body='Download PDF' link='' target='_blank'/>
+<File title='Domain and Range'   img={DomainandRange} body='Download PDF' link='' target='_blank'/>
+<File title='Domain and Range Word Problems'   img={DomainRangeWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Evaluating Functions' img={EvaluatingFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Function Notation'   img={FunctionNotation} body='Download PDF' link='' target='_blank'/>
+<File title='Function Operations'    img={FunctionOperations} body='Download PDF' link='' target='_blank'/>
+<File title='Functions Review'     img={FunctionsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Functions Test'    img={FunctionsTest} body='Download PDF' link='' target='_blank'/>
+<File title='Functions Test 2'   img={FunctionsTest2} body='Download PDF' link='' target='_blank'/>
+<File title='Identifying Functions'   img={IdentifyingFunctions} body='Download PDF' link='' target='_blank'/>
+<File title='Interval Notation'     img={IntervalNotation} body='Download PDF' link='' target='_blank'/>
+<File title='Interval Notation 2'   img={IntervalNotation2} body='Download PDF' link='' target='_blank'/>
+<File title='Intervals of Increase and Decrease'   img={IntervalsofIncreaseDecrease} body='Download PDF' link='' target='_blank'/>
+<File title='Exponents and Division'      img={ExponentsandDivision} body='Download PDF' link='' target='_blank'/>
+<File title='Exponents and Multiplication'     img={ExponentsandMultiplication} body='Download PDF' link='' target='_blank'/>
+<File title='Exponents Review'     img={ExponentsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Powers of Products and Quotients'    img={PowersofProductsandQuotients} body='Download PDF' link='' target='_blank'/>
+<File title='Properties of Exponents'  img={PropertiesofExponents} body='Download PDF' link='' target='_blank'/>
+<File title='Simplifying Exponents'  img={SimplifyingExponents} body='Download PDF' link='' target='_blank'/>
+<File title='Distinguishing Type of Growth'    img={DistinguishingGrowth} body='Download PDF' link='' target='_blank'/>
+<File title='Exponential Growth and Decay'   img={GrowthandDecay} body='Download PDF' link='' target='_blank'/>
+<File title='Exponential Growth and Decay 2'  img={GrowthandDecay2} body='Download PDF' link='' target='_blank'/>
+<File title='Exponential Growth and Decay Word Problems'   img={GrowthDecayWordProblems} body='Download PDF' link='' target='_blank'/>
+<File title='Linear vs Exponential'   img={LinearvsExponential} body='Download PDF' link='' target='_blank'/>
+<File title='Linear vs Exponential 2'   img={LinearvsExponential2} body='Download PDF' link='' target='_blank'/>
+<File title='Linear Quadratic Exponential Tables'   img={LinearQuadraticExponentialTables} body='Download PDF' link='' target='_blank'/>
+<File title='Linear Quadratic Exponential Tables 2'    img={LinearQuadraticExponentialTables2} body='Download PDF' link='' target='_blank'/>
+<File title='Exponential Functions Review'    img={ExponentialFunctionsReview} body='Download PDF' link='' target='_blank'/>
+<File title='Compound Inequalities'     img={CompoundInequalities} body='Download PDF' link='' target='_blank'/>
+<File title='Inequalities Review'    img={InequalitiesReview} body='Download PDF' link='' target='_blank'/>
+<File title='Inequalities Review 2'   img={InequalitiesReview2} body='Download PDF' link='' target='_blank'/>
+<File title='Multi-Step Inequalities'   img={MultiStepInequalities} body='Download PDF' link='' target='_blank'/>
+<File title='One-Step Inequalities'  img={OneStepInequalities} body='Download PDF' link='' target='_blank'/>
+<File title='Variables Both Sides'   img={VariablesBothSides} body='Download PDF' link='' target='_blank'/>
+<File title='Absolute Value Equations'       img={AbsoluteValueEquations} body='Download PDF' link='' target='_blank'/>
+<File title='Absolute Value Intro'      img={AbsoluteValueIntro} body='Download PDF' link='' target='_blank'/>

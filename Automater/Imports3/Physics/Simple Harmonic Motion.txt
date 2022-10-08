@@ -1,0 +1,2 @@
+import SimpleHarmonicMotion from './Simple Harmonic Motion.jpg'
+import SimpleHarmonicMotion2 from './Simple Harmonic Motion 2.jpg'

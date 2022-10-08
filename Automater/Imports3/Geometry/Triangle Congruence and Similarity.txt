@@ -1,0 +1,7 @@
+import TriangleSimilarityProofs2 from './Triangle Similarity Proofs 2.jpg'
+import SimilarTriangles from './Similar Triangles.jpg'
+import TriangleCongruenceReview2 from './Triangle Congruence Review 2.jpg'
+import TriangleSimilarityProofs from './Triangle Similarity Proofs.jpg'
+import ProvingCongruence from './Proving Congruence.jpg'
+import TriangleCongruencepractice from './Triangle Congruence practice.jpg'
+import TriangleCongruenceReview from './Triangle Congruence Review.jpg'

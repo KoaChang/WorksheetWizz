@@ -1,0 +1,22 @@
+<File title='Factoring Quadratic Expressions' img={FactoringQuadraticExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Vertex Form' img={QuadraticsVertexForm} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics All Methods' img={QuadraticsAllMethods} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Factored Form' img={QuadraticsFactoredForm} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Functions Intro' img={QuadraticFunctionsIntro} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Quadratics by Square Roots2' img={SolvingQuadraticsbySquareRoots2} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Standard Form2' img={QuadraticsStandardForm2} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Quadratics by Square Roots' img={SolvingQuadraticsbySquareRoots} link='' target='_blank' body='Download PDF'/>
+<File title='Differences of Squares2' img={DifferencesofSquares2} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Word Problems' img={QuadraticWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratics Standard Form' img={QuadraticsStandardForm} link='' target='_blank' body='Download PDF'/>
+<File title='Factor Trinomials a_1' img={FactorTrinomialsa_1} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Word Problems2' img={QuadraticWordProblems2} link='' target='_blank' body='Download PDF'/>
+<File title='Zero Product Property' img={ZeroProductProperty} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Formula' img={QuadraticFormula} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Word Problems 3' img={QuadraticWordProblems3} link='' target='_blank' body='Download PDF'/>
+<File title='Difference of Squares' img={DifferenceofSquares} link='' target='_blank' body='Download PDF'/>
+<File title='Perfect Square Trinomials' img={PerfectSquareTrinomials} link='' target='_blank' body='Download PDF'/>
+<File title='Quadratic Equations By Completing the Square' img={QuadraticEquationsByCompletingtheSquare} link='' target='_blank' body='Download PDF'/>
+<File title='Factoring Trinomials a=1' img={FactoringTrinomialsa=1} link='' target='_blank' body='Download PDF'/>
+<File title='The Discriminant' img={TheDiscriminant} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Vertex Form' img={GraphingVertexForm} link='' target='_blank' body='Download PDF'/>

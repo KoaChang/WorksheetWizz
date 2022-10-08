@@ -1,0 +1,5 @@
+<File title='Simplifying Radicals' img={SimplifyingRadicals} link='' target='_blank' body='Download PDF'/>
+<File title='Dividing Radicals' img={DividingRadicals} link='' target='_blank' body='Download PDF'/>
+<File title='Simplifying Radicals Review' img={SimplifyingRadicalsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplying Radical Expressions' img={MultiplyingRadicalExpressions} link='' target='_blank' body='Download PDF'/>
+<File title='Adding Subtracting Radicals' img={AddingSubtractingRadicals} link='' target='_blank' body='Download PDF'/>

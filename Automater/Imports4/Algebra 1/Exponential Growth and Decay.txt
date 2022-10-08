@@ -1,0 +1,9 @@
+<File title='Growth and Decay 2' img={GrowthandDecay2} link='' target='_blank' body='Download PDF'/>
+<File title='Linear vs Exponential2' img={LinearvsExponential2} link='' target='_blank' body='Download PDF'/>
+<File title='Linear_Quadratic_Exponential Tables' img={Linear_Quadratic_ExponentialTables} link='' target='_blank' body='Download PDF'/>
+<File title='Growth Decay Word Problems' img={GrowthDecayWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Distinguishing Growth' img={DistinguishingGrowth} link='' target='_blank' body='Download PDF'/>
+<File title='Linear vs Exponential' img={LinearvsExponential} link='' target='_blank' body='Download PDF'/>
+<File title='Exponential Functions Review' img={ExponentialFunctionsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Growth and Decay' img={GrowthandDecay} link='' target='_blank' body='Download PDF'/>
+<File title='Linear_Quadratic_Exponential Tables 2' img={Linear_Quadratic_ExponentialTables2} link='' target='_blank' body='Download PDF'/>

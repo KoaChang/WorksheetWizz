@@ -1,0 +1,8 @@
+<File title='Confidence Intervals for Proportions' img={ConfidenceIntervalsforProportions} link='' target='_blank' body='Download PDF'/>
+<File title='Type 1 and 2 Error' img={Type1and2Error} link='' target='_blank' body='Download PDF'/>
+<File title='Type 1 and 2 Errors' img={Type1and2Errors} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Proportions 2' img={ConfidenceIntervalsforProportions2} link='' target='_blank' body='Download PDF'/>
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='' target='_blank' body='Download PDF'/>
+<File title='Two Population Hypothesis Testing' img={TwoPopulationHypothesisTesting} link='' target='_blank' body='Download PDF'/>
+<File title='One Proportion Hypothesis Testing ' img={OneProportionHypothesisTesting} link='' target='_blank' body='Download PDF'/>
+<File title='Inference Proportions Review' img={InferenceProportionsReview} link='' target='_blank' body='Download PDF'/>

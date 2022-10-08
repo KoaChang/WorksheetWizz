@@ -1,0 +1,18 @@
+<File title='Trig Identities 3' img={TrigIdentities3} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Identities 2' img={TrigIdentities2} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Equations 2' img={TrigEquations2} link='' target='_blank' body='Download PDF'/>
+<File title='Inverse Trig' img={InverseTrig} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Equations 3' img={TrigEquations3} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Trig Functions 2' img={GraphingTrigFunctions2} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Trig Functions' img={GraphingTrigFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Product to Sum Identities' img={ProducttoSumIdentities} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Identities ' img={TrigIdentities} link='' target='_blank' body='Download PDF'/>
+<File title='Angle Sum and Difference Identities' img={AngleSumandDifferenceIdentities} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Trig Intro' img={GraphingTrigIntro} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Equations' img={TrigEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Review' img={TrigReview} link='' target='_blank' body='Download PDF'/>
+<File title='Unit Circle' img={UnitCircle} link='' target='_blank' body='Download PDF'/>
+<File title='Unit Circle Intro' img={UnitCircleIntro} link='' target='_blank' body='Download PDF'/>
+<File title='Double Half Angle Identities' img={DoubleHalfAngleIdentities} link='' target='_blank' body='Download PDF'/>
+<File title='Trig Word Problems' img={TrigWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Degrees to Radians' img={DegreestoRadians} link='' target='_blank' body='Download PDF'/>

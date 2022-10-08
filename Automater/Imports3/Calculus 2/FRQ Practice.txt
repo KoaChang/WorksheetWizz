@@ -1,0 +1,4 @@
+import ParametricEquationsFRQ from './Parametric Equations FRQ.jpg'
+import DifferentialEquationsFRQ from './Differential Equations FRQ.jpg'
+import SeriesFRQ from './Series FRQ.jpg'
+import PolarEquationsFRQ from './Polar Equations FRQ.jpg'

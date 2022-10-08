@@ -1,0 +1,1 @@
+import {ConfidenceIntervalsforSlope,TransformingtoAchieveLinearality,HypothesisTestforSlope} from "./Preview"

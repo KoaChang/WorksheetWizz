@@ -1,0 +1,8 @@
+import RationalFunctionsEndBehavior from './Rational Functions End Behavior.jpg'
+import RationalFunctionsReview from './Rational Functions Review.jpg'
+import RationalFunctionsEndBehavior2 from './Rational Functions End Behavior 2.jpg'
+import RationalFunctionsWordProblems from './Rational Functions Word Problems.jpg'
+import DiscontinuitiesRationalFunctions from './Discontinuities Rational Functions.jpg'
+import GraphingRationalFunctions from './Graphing Rational Functions.jpg'
+import PartialFractionDecomposition from './Partial Fraction Decomposition.jpg'
+import PropertiesofRationalFunctions from './Properties of Rational Functions.jpg'

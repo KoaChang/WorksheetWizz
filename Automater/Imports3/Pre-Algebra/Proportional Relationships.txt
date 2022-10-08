@@ -1,0 +1,7 @@
+import ConstantofProportionality from './Constant of Proportionality.jpg'
+import SolvingProportions from './Solving Proportions.jpg'
+import ConstantofProportionalityGraph from './Constant of Proportionality Graph.jpg'
+import SolvingProportions2 from './Solving Proportions 2.jpg'
+import ProportionsWordProblems from './Proportions Word Problems.jpg'
+import IdentifyingProportionalRelationships from './Identifying Proportional Relationships.jpg'
+import ProportionsWordProblems2 from './Proportions Word Problems 2.jpg'

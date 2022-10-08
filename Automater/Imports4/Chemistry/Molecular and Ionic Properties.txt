@@ -1,0 +1,6 @@
+<File title='Classifying Ionic or Covalent' img={ClassifyingIonicorCovalent} link='' target='_blank' body='Download PDF'/>
+<File title='Nomenclature Worksheet 1 and 2' img={NomenclatureWorksheet1and2} link='' target='_blank' body='Download PDF'/>
+<File title='Nomenclature Worksheet 3' img={NomenclatureWorksheet3} link='' target='_blank' body='Download PDF'/>
+<File title='Properties of Ionic Compounds' img={PropertiesofIonicCompounds} link='' target='_blank' body='Download PDF'/>
+<File title='Nomenclature Worksheet 4' img={NomenclatureWorksheet4} link='' target='_blank' body='Download PDF'/>
+<File title='Covalent Compounds' img={CovalentCompounds} link='' target='_blank' body='Download PDF'/>

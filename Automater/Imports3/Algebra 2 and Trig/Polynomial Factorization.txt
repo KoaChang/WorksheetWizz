@@ -1,0 +1,5 @@
+import FactoringPolynomialsReview from './Factoring Polynomials Review.jpg'
+import PolynomialIdentities from './Polynomial Identities.jpg'
+import SumandDifferenceofCubes from './Sum and Difference of Cubes.jpg'
+import RationalRootTheorem from './Rational Root Theorem.jpg'
+import SumandDifferenceofCubes2 from './Sum and Difference of Cubes 2.jpg'

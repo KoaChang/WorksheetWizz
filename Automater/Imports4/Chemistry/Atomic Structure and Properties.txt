@@ -1,0 +1,4 @@
+<File title='Atomic Structure' img={AtomicStructure} link='' target='_blank' body='Download PDF'/>
+<File title='Sig Figs' img={SigFigs} link='' target='_blank' body='Download PDF'/>
+<File title='Dimensional Analysis' img={DimensionalAnalysis} link='' target='_blank' body='Download PDF'/>
+<File title='Periodic Trends' img={PeriodicTrends} link='' target='_blank' body='Download PDF'/>

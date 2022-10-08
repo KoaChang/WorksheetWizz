@@ -1,0 +1,7 @@
+import SamplingTechniques2 from './Sampling Techniques 2.jpg'
+import SamplingTechniques from './Sampling Techniques.jpg'
+import ExperimentalDesign from './Experimental Design.jpg'
+import Blocking from './Blocking.jpg'
+import ExperimentalDesign3 from './Experimental Design 3.jpg'
+import BiasandSampling from './Bias and Sampling.jpg'
+import ExperimentalDesign2 from './Experimental Design 2.jpg'

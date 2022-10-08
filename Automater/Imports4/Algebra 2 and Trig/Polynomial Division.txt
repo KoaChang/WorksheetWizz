@@ -1,0 +1,7 @@
+<File title='Synthetic Division' img={SyntheticDivision} link='' target='_blank' body='Download PDF'/>
+<File title='Long Division Polynomials' img={LongDivisionPolynomials} link='' target='_blank' body='Download PDF'/>
+<File title='Remainder Factor Theorem' img={RemainderFactorTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='Dividing Polynomials 2' img={DividingPolynomials2} link='' target='_blank' body='Download PDF'/>
+<File title='Dividing Polynomials' img={DividingPolynomials} link='' target='_blank' body='Download PDF'/>
+<File title='Factor Theorem' img={FactorTheorem} link='' target='_blank' body='Download PDF'/>
+<File title='The Remainder Theorem' img={TheRemainderTheorem} link='' target='_blank' body='Download PDF'/>

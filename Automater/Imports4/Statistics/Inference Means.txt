@@ -1,0 +1,7 @@
+<File title='Type 1 and 2 Error' img={Type1and2Error} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Means' img={ConfidenceIntervalsforMeans} link='' target='_blank' body='Download PDF'/>
+<File title='Confidence Intervals for Means 2' img={ConfidenceIntervalsforMeans2} link='' target='_blank' body='Download PDF'/>
+<File title='Hypothesis Testing 2' img={HypothesisTesting2} link='' target='_blank' body='Download PDF'/>
+<File title='Type 1 and 2 Errors' img={Type1and2Errors} link='' target='_blank' body='Download PDF'/>
+<File title='Inference Proportions and Means Review' img={InferenceProportionsandMeansReview} link='' target='_blank' body='Download PDF'/>
+<File title='Hypothesis Testing Means' img={HypothesisTestingMeans} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,3 @@
+import KineticsReview from './Kinetics Review.jpg'
+import KineticsPracticeProblems from './Kinetics Practice Problems.jpg'
+import KineticsPracticeTest from './Kinetics Practice Test.jpg'

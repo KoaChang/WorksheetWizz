@@ -1,0 +1,8 @@
+import FactsofPolynomialFunctions from './Facts of Polynomial Functions.jpg'
+import PolynomialsEndBehavior from './Polynomials End Behavior.jpg'
+import GraphingPolynomials2 from './Graphing Polynomials 2.jpg'
+import GraphingPolynomials3 from './Graphing Polynomials 3.jpg'
+import GraphingPolynomials from './Graphing Polynomials.jpg'
+import PolynomialFunctionsIntro from './Polynomial Functions Intro.jpg'
+import IntervalsofPolynomials from './Intervals of Polynomials.jpg'
+import MultiplicityandGraphingPolynomialsinsert from './Multiplicity and Graphing Polynomials insert.jpg'

@@ -1,0 +1,6 @@
+<File title='Finding Unit Rate' img={FindingUnitRate} link='' target='_blank' body='Download PDF'/>
+<File title='Ratio and Rates' img={RatioandRates} link='' target='_blank' body='Download PDF'/>
+<File title='Ratios and Rates Word Problems' img={RatiosandRatesWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Unit Rate' img={UnitRate} link='' target='_blank' body='Download PDF'/>
+<File title='Unit Conversion' img={UnitConversion} link='' target='_blank' body='Download PDF'/>
+<File title='Equivalent Ratios' img={EquivalentRatios} link='' target='_blank' body='Download PDF'/>

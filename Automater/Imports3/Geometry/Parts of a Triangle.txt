@@ -1,0 +1,8 @@
+import Medians from './Medians.jpg'
+import AngleBisectors from './Angle Bisectors.jpg'
+import PerpendicularBisectors from './Perpendicular Bisectors.jpg'
+import Altitudes from './Altitudes.jpg'
+import PartsofaTriangle from './Parts of a Triangle.jpg'
+import Euler_sLine from './Euler_s Line.jpg'
+import PartsofaTriangle2 from './Parts of a Triangle 2.jpg'
+import PerpendicularBisectors2 from './Perpendicular Bisectors 2.jpg'

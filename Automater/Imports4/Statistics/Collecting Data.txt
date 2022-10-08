@@ -1,0 +1,7 @@
+<File title='Sampling Techniques 2' img={SamplingTechniques2} link='' target='_blank' body='Download PDF'/>
+<File title='Sampling Techniques' img={SamplingTechniques} link='' target='_blank' body='Download PDF'/>
+<File title='Experimental Design' img={ExperimentalDesign} link='' target='_blank' body='Download PDF'/>
+<File title='Blocking' img={Blocking} link='' target='_blank' body='Download PDF'/>
+<File title='Experimental Design 3' img={ExperimentalDesign3} link='' target='_blank' body='Download PDF'/>
+<File title='Bias and Sampling' img={BiasandSampling} link='' target='_blank' body='Download PDF'/>
+<File title='Experimental Design 2' img={ExperimentalDesign2} link='' target='_blank' body='Download PDF'/>

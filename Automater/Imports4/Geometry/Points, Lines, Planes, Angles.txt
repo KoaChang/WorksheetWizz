@@ -1,0 +1,9 @@
+<File title='Angles of a Polygon' img={AnglesofaPolygon} link='' target='_blank' body='Download PDF'/>
+<File title='Parallel Lines and Transversals' img={ParallelLinesandTransversals} link='' target='_blank' body='Download PDF'/>
+<File title='Parallel Lines and Transversals 2' img={ParallelLinesandTransversals2} link='' target='_blank' body='Download PDF'/>
+<File title='Interior and Exterior Angles' img={InteriorandExteriorAngles} link='' target='_blank' body='Download PDF'/>
+<File title='Complementary and Supplementary' img={ComplementaryandSupplementary} link='' target='_blank' body='Download PDF'/>
+<File title='Points, Lines, Planes, Angles Review' img={Points,Lines,Planes,AnglesReview} link='' target='_blank' body='Download PDF'/>
+<File title='Linear Pair and Vertical Angles' img={LinearPairandVerticalAngles} link='' target='_blank' body='Download PDF'/>
+<File title='Geometry Vocab' img={GeometryVocab} link='' target='_blank' body='Download PDF'/>
+<File title='Solving Missing Angles' img={SolvingMissingAngles} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,7 @@
+import InequalitiesReview2 from './Inequalities Review2.jpg'
+import CompoundInequalities from './Compound Inequalities.jpg'
+import OneStepInequalities from './One Step Inequalities.jpg'
+import MultiStepInequalities from './Multi Step Inequalities.jpg'
+import VariablesBothSides from './VariablesBothSides.png'
+import VariablesBothSides from './Variables Both Sides.jpg'
+import InequalitiesReview from './Inequalities Review.jpg'

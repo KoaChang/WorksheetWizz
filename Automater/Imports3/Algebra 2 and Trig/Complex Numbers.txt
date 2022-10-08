@@ -1,0 +1,8 @@
+import ComplexQuadratics from './Complex Quadratics.jpg'
+import ComplexNumbersReview from './Complex Numbers Review.jpg'
+import SimplifyingComplexNumbers from './Simplifying Complex Numbers.jpg'
+import OperationswithComplexNumbers2 from './Operations with Complex Numbers 2.jpg'
+import OperationswithComplexNumbers from './Operations with Complex Numbers.jpg'
+import ComplexQuadratics2 from './Complex Quadratics 2.jpg'
+import PropertiesofComplexNumbers from './Properties of Complex Numbers.jpg'
+import ComplexNumbersIntro from './Complex Numbers Intro.jpg'

@@ -1,0 +1,6 @@
+<File title='Subtraction Word Problems' img={SubtractionWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Five Digit Subtraction' img={FiveDigitSubtraction} link='' target='_blank' body='Download PDF'/>
+<File title='Two Digit Subtraction' img={TwoDigitSubtraction} link='' target='_blank' body='Download PDF'/>
+<File title='Three Digit Subtraction' img={ThreeDigitSubtraction} link='' target='_blank' body='Download PDF'/>
+<File title='Large Number Subtraction' img={LargeNumberSubtraction} link='' target='_blank' body='Download PDF'/>
+<File title='Four Digit Subtraction' img={FourDigitSubtraction} link='' target='_blank' body='Download PDF'/>

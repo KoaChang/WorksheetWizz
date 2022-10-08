@@ -1,0 +1,5 @@
+<File title='Inequalities Word Problems' img={InequalitiesWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Inequalities Word Problems2' img={InequalitiesWordProblems2} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Inequalities' img={GraphingInequalities} link='' target='_blank' body='Download PDF'/>
+<File title='Systems of Inequalities' img={SystemsofInequalities} link='' target='_blank' body='Download PDF'/>
+<File title='Inequalities Review' img={InequalitiesReview} link='' target='_blank' body='Download PDF'/>

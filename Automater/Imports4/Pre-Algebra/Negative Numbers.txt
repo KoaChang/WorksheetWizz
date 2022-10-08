@@ -1,0 +1,4 @@
+<File title='Muliplying and Dividing Integers' img={MuliplyingandDividingIntegers} link='' target='_blank' body='Download PDF'/>
+<File title='Negative Number Operations' img={NegativeNumberOperations} link='' target='_blank' body='Download PDF'/>
+<File title='Integer Word Problems' img={IntegerWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Adding and Subtracting Integers' img={AddingandSubtractingIntegers} link='' target='_blank' body='Download PDF'/>

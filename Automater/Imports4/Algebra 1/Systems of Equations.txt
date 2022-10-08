@@ -1,0 +1,9 @@
+<File title='Systems Word Problems 2' img={SystemsWordProblems2} link='' target='_blank' body='Download PDF'/>
+<File title='Systems Test1' img={SystemsTest1} link='' target='_blank' body='Download PDF'/>
+<File title='Systems Test2' img={SystemsTest2} link='' target='_blank' body='Download PDF'/>
+<File title='Systems by Elimination' img={SystemsbyElimination} link='' target='_blank' body='Download PDF'/>
+<File title='Systems by Inspection' img={SystemsbyInspection} link='' target='_blank' body='Download PDF'/>
+<File title='Systems Word Problems' img={SystemsWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Systems by Substitution' img={SystemsbySubstitution} link='' target='_blank' body='Download PDF'/>
+<File title='Systems Review' img={SystemsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Systems by Graphing' img={SystemsbyGraphing} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,5 @@
+import PointsofConcurency from './Points of Concurency.jpg'
+import CoordinateGeometryandtheCentroid from './Coordinate Geometry and the Centroid.jpg'
+import CoordinateGeometryReview from './Coordinate Geometry Review.jpg'
+import TheMidpointFormula from './The Midpoint Formula.jpg'
+import TheDistanceFormula from './The Distance Formula.jpg'

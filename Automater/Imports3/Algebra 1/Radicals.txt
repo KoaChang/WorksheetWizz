@@ -1,0 +1,5 @@
+import SimplifyingRadicals from './Simplifying Radicals.jpg'
+import DividingRadicals from './Dividing Radicals.jpg'
+import SimplifyingRadicalsReview from './Simplifying Radicals Review.jpg'
+import MultiplyingRadicalExpressions from './Multiplying Radical Expressions.jpg'
+import AddingSubtractingRadicals from './Adding Subtracting Radicals.jpg'

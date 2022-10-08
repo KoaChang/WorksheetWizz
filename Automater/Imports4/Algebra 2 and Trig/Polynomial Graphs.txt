@@ -1,0 +1,8 @@
+<File title='Facts of Polynomial Functions' img={FactsofPolynomialFunctions} link='' target='_blank' body='Download PDF'/>
+<File title='Polynomials End Behavior' img={PolynomialsEndBehavior} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Polynomials 2' img={GraphingPolynomials2} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Polynomials 3' img={GraphingPolynomials3} link='' target='_blank' body='Download PDF'/>
+<File title='Graphing Polynomials' img={GraphingPolynomials} link='' target='_blank' body='Download PDF'/>
+<File title='Polynomial Functions Intro' img={PolynomialFunctionsIntro} link='' target='_blank' body='Download PDF'/>
+<File title='Intervals of Polynomials' img={IntervalsofPolynomials} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplicity and Graphing Polynomials insert' img={MultiplicityandGraphingPolynomialsinsert} link='' target='_blank' body='Download PDF'/>

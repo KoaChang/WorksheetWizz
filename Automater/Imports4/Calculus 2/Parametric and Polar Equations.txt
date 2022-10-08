@@ -1,0 +1,4 @@
+<File title='Polar Equations' img={PolarEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Parametric Equations' img={ParametricEquations} link='' target='_blank' body='Download PDF'/>
+<File title='Parametric Equations Review' img={ParametricEquationsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Parametric Tangent Lines and Arc Length' img={ParametricTangentLinesandArcLength} link='' target='_blank' body='Download PDF'/>

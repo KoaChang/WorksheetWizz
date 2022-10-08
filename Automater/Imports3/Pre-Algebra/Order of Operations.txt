@@ -1,0 +1,7 @@
+import OrderofOperations3 from './Order of Operations 3.jpg'
+import OrderofOperations from './Order of Operations .jpg'
+import OrderofOperations2 from './Order of Operations 2.jpg'
+import OrderofOperations5 from './Order of Operations 5.jpg'
+import OrderofOperations4 from './Order of Operations 4.jpg'
+import OrderofOperations6 from './Order of Operations 6.jpg'
+import OrderofOperations7 from './Order of Operations 7.jpg'

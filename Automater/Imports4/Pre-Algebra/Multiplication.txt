@@ -1,0 +1,7 @@
+<File title='Multiplying Large Numbers' img={MultiplyingLargeNumbers} link='' target='_blank' body='Download PDF'/>
+<File title='Four Digit Multiplication' img={FourDigitMultiplication} link='' target='_blank' body='Download PDF'/>
+<File title='Two Digit Multiplication' img={TwoDigitMultiplication} link='' target='_blank' body='Download PDF'/>
+<File title='Times Tables' img={TimesTables} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplication Word Problems' img={MultiplicationWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Multiplication Times Tables' img={MultiplicationTimesTables} link='' target='_blank' body='Download PDF'/>
+<File title='Three Digit Multiplication' img={ThreeDigitMultiplication} link='' target='_blank' body='Download PDF'/>

@@ -1,0 +1,5 @@
+<File title='Points of Concurency' img={PointsofConcurency} link='' target='_blank' body='Download PDF'/>
+<File title='Coordinate Geometry and the Centroid' img={CoordinateGeometryandtheCentroid} link='' target='_blank' body='Download PDF'/>
+<File title='Coordinate Geometry Review' img={CoordinateGeometryReview} link='' target='_blank' body='Download PDF'/>
+<File title='The Midpoint Formula' img={TheMidpointFormula} link='' target='_blank' body='Download PDF'/>
+<File title='The Distance Formula' img={TheDistanceFormula} link='' target='_blank' body='Download PDF'/>

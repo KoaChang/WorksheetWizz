@@ -1,0 +1,7 @@
+import CentralLimitTheorem from './Central Limit Theorem.jpg'
+import SamplingDistributions2 from './Sampling Distributions 2.jpg'
+import SamplingDistributions from './Sampling Distributions.jpg'
+import SamplingDistributionoftheSampleMean from './Sampling Distribution of the Sample Mean.jpg'
+import CentralLimitTheorem2 from './Central Limit Theorem 2.jpg'
+import SampleProportionsandMeans from './Sample Proportions and Means.jpg'
+import SampleDistributionofaSamplingDistribution from './Sample Distribution of a Sampling Distribution.jpg'

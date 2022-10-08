@@ -1,0 +1,7 @@
+<File title='Percents Review' img={PercentsReview} link='' target='_blank' body='Download PDF'/>
+<File title='Percent Word Problems' img={PercentWordProblems} link='' target='_blank' body='Download PDF'/>
+<File title='Percent Change 2' img={PercentChange2} link='' target='_blank' body='Download PDF'/>
+<File title='Fractions, Decimals, and Percents' img={Fractions,Decimals,andPercents} link='' target='_blank' body='Download PDF'/>
+<File title='Percents Review 2' img={PercentsReview2} link='' target='_blank' body='Download PDF'/>
+<File title='Percent Change' img={PercentChange} link='' target='_blank' body='Download PDF'/>
+<File title='Percent Problems' img={PercentProblems} link='' target='_blank' body='Download PDF'/>

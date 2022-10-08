@@ -1,0 +1,8 @@
+import AreaasaLimitandSigmaNotation from './Area as a Limit and Sigma Notation.jpg'
+import RectilinearMotionandAverageValueReview from './Rectilinear Motion and Average Value Review.jpg'
+import ShellMethodandArcLength from './Shell Method and Arc Length.jpg'
+import VolumesSolidsandWashers from './Volumes Solids and Washers.jpg'
+import AreaBetweenTwoCurves from './Area Between Two Curves.jpg'
+import RectilinearMotionReview from './Rectilinear Motion Review.jpg'
+import RiemannSums from './Riemann Sums.jpg'
+import AverageValueofFunction from './Average Value of Function.jpg'

@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {FactoringQuadraticExpressions,QuadraticsVertexForm,QuadraticsAllMethods,QuadraticsFactoredForm,QuadraticFunctionsIntro,SolvingQuadraticsbySquareRoots2,QuadraticsStandardForm2,SolvingQuadraticsbySquareRoots,DifferencesofSquares2,QuadraticWordProblems,QuadraticsStandardForm,QuadraticWordProblems2,ZeroProductProperty,QuadraticFormula,QuadraticWordProblems3,DifferenceofSquares,PerfectSquareTrinomials,QuadraticEquationsByCompletingtheSquare,FactoringTrinomialsA1,TheDiscriminant,GraphingVertexForm} from "./Preview"
 

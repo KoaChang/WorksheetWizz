@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {XsonBothSides,DifficultQuadratics,CombiningLikeTerms,XYAddSub,OneStepEquations,XYSub,TwoStepEquations,XYAdd,XYSubb,DistributiveProperty,XYMult,EasyQuadratics} from "./Preview"
 

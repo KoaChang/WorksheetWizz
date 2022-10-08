@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 
 import {IntervalsofIncreaseandDecrease,SketchignFunctions,OptimizationWordProblems,AnalysisofFunctionsReview,FirstDerivativeTest,CriticalPoints,AbsoluteExtrema,ExtremaReview,ConcavityandPointsofInflection2,MeanValueTheorem,AnalysisandSketchingFunctionsReview,ConcavityandPointsofInflection,SecondDerivativeTest,RelativeExtrema,MeanValueTheoremReview,ExtremeValueTheorem} from "./Preview"

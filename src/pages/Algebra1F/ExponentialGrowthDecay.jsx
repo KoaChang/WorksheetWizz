@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {DistinguishingGrowth,ExponentialFunctionsReview,GrowthandDecay,GrowthandDecay2,GrowthDecayWordProblems,LinearvsExponential,LinearvsExponential2,LinearQuadraticExponentialTables,LinearQuadraticExponentialTables2} from './Preview'
 

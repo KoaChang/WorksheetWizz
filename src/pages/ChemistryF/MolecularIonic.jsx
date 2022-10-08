@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 
 import {ClassifyingIonicorCovalent,NomenclatureWorksheet1and2,NomenclatureWorksheet3,PropertiesofIonicCompounds,NomenclatureWorksheet4,CovalentCompounds} from "./Preview"

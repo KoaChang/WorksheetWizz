@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {Type1and2Error,ConfidenceIntervalsforMeans,ConfidenceIntervalsforMeans2,HypothesisTesting2,Type1and2Errors,InferenceProportionsandMeansReview,HypothesisTestingMeans} from "./Preview"
 

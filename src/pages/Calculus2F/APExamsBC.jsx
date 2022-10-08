@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 
 import {CalculusBC2011FRQExam,CalculusBC2008FRQ,CalculusBC2008MCQ,CalculusBC2015FRQExam,CalculusABandBCMultipleChoice,CalculusBC2012Exam,CalculusBC2017FRQ} from "./Preview"

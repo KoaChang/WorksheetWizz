@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import { ParentFunctions, ParentFunctions2, TransformationsofGraphs, TransformationsReview, TransformationsWorksheet3, TransformationWorksheet2, TransformingFunctionsWorksheet } from "./Preview";
 // import {ParentFunctions,TransformationsofGraphs,TransformationsReview,ParentFunctions2,TransformationWorksheet2,TransformationsWorksheet3,TransformingFunctionsWorksheet} from "./Preview"

@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import { QuadraticSystems, QuadraticSystems2, QuadraticSystems3, QuadraticSystemsReview, SquareRootEquations, SquareRootEquations2, SquareRootEquations3 } from "./Preview";
 // import {QuadraticSystems,SquareRootEquations2,SquareRootEquations3,SquareRootEquations,QuadraticSystemsReview,QuadraticSystems3,QuadraticSystems2} from "./Preview"

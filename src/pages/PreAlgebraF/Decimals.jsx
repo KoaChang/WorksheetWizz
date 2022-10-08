@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {DecimalsPlaceValue,Rouding,AddingDecimals,DecimalMatchingPlaceValue,ExpandedFormPlaceValue,StandardFormPlaceValue,MissingPlaceValue,DecimalWordProblems,PlaceValueChart,OperationswithDecimalsReview,MultiplyingDecimals,DecimalsReview,SubtractingDecimals,Rounding2,WordNamesPlaceValue} from "./Preview"
 

@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import { FactoringPolynomialsReview, PolynomialIdentities, RationalRootTheorem, SumandDifferenceofCubes, SumandDifferenceofCubes2 } from "./Preview";
 // import {FactoringPolynomialsReview,PolynomialIdentities,SumandDifferenceofCubes,RationalRootTheorem,SumandDifferenceofCubes2} from "./Preview"

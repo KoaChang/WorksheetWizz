@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import { FactsofPolynomialFunctions, GraphingPolynomials, GraphingPolynomials2, GraphingPolynomials3,IntervalsofPolynomials, MultiplicityandGraphingPolynomialsinsert, PolynomialFunctionsIntro, PolynomialsEndBehavior } from "./Preview";
 // import {FactsofPolynomialFunctions,PolynomialsEndBehavior,GraphingPolynomials2,GraphingPolynomials3,GraphingPolynomials,PolynomialFunctionsIntro,IntervalsofPolynomials,MultiplicityandGraphingPolynomialsinsert} from "./Preview"

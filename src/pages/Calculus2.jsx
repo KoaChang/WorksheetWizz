@@ -1,6 +1,6 @@
 import styles from "../style";
 import {MenuBar,Folder} from '../components';
-import {pdf,folder,folder2,one_step} from '../assets'
+import {pdf,folder,folder2} from '../assets'
 import "./Product.css"
 
 const Calculus2 = () => (

@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 
 import {ImproperIntegralsReview,Euler_sMethod2,ErrorPropagation,LogisticGrowth,IntrotoDifferentialEquations,ImproperIntegrals,logistic_growth,IntialValueProblems,SlopeFields,Euler_sMethod,SeparableDifferentialEquations,DifferentialEquationsReview} from "./Preview"

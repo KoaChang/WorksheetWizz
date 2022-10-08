@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 
 import {ComplexNumbersIntro, ComplexNumbersReview, ComplexQuadratics, ComplexQuadratics2, OperationswithComplexNumbers, OperationswithComplexNumbers2, PropertiesofComplexNumbers, SimplifyingComplexNumbers} from "./Preview";

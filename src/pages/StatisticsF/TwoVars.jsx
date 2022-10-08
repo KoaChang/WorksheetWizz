@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {LeastSquaresRegressionLine,ScatterPlots2,InterpretingRegressionOutput,ResidualPlots,ScatterPlots,Residuals,LinearRegressionReview} from "./Preview"
 

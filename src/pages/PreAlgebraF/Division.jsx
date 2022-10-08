@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {TwoDigitDivsionRemainder,MixedWordProblems2,DivisionwithRemainder,FourDigitDivision,MixedWordProblems,FourDigitDivisionRemainder,MentalDivision,ThreeDigitDivisionRemainder,ThreeDigitDivision,DivisionWordProblems,TwoDigitDivision} from "./Preview"
 

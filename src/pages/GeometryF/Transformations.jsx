@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {Translations3,Translations2,TransformationsReview,TransformationsReview2,Dilations3,Dilations2,Rotations,Rotations2,Translations,Dilations,Reflections} from "./Preview"
 

@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 
 import {LinearMotion2,L_HospitalRuleReview,RelatedRates2,LocalLinearApproximation,L_HospitalRule,RelatedRatesReview,RelatedRates,L_HospitalRule2,LinearMotion} from "./Preview"

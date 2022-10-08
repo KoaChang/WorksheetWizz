@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {CentralLimitTheorem,SamplingDistributions2,SamplingDistributions,SamplingDistributionoftheSampleMean,CentralLimitTheorem2,SampleProportionsandMeans,SampleDistributionofaSamplingDistribution} from "./Preview"
 

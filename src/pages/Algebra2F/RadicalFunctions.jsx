@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import { GraphingCubeRoots, GraphingCubeRoots2, GraphingRadicals, GraphingRadicals2, RadicalsReview } from "./Preview";
 // import {GraphingCubeRoots,RadicalsReview,GraphingRadicals,GraphingCubeRoots2,GraphingRadicals2} from "./Preview"

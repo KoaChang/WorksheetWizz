@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 
 import {ImplicitDifferentiation2,DerivativesofInverseFunctions,DifferentiatingTrigFunctions,HigherOrderDerivatives,ChainRule,DifferentiatingLogsandExponentials,DifferentiatingInverseTrigFunctions,ChainRuleReview,DerivativesofLogsandExponentsReview,ImplicitDifferentiation,ImplicitDifferentiationReview} from "./Preview"

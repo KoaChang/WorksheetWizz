@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets';
+import {pdf,folder,folder2} from '../../assets';
 import "../Product.css";
 import { DividingPolynomials, DividingPolynomials2, FactorTheorem, LongDivisionPolynomials, RemainderFactorTheorem, SyntheticDivision, TheRemainderTheorem } from "./Preview";
 // import {SyntheticDivision,LongDivisionPolynomials,RemainderFactorTheorem,DividingPolynomials2,DividingPolynomials,FactorTheorem,TheRemainderTheorem} from "./Preview"

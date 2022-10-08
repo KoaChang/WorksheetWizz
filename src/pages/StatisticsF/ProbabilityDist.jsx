@@ -1,6 +1,6 @@
 import styles from "../../style";
 import {MenuBar,File} from '../../components';
-import {pdf,folder,folder2,one_step} from '../../assets'
+import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {ProbabilityIntro,BinomialProbability,MultiplicationRuleIndependentEvents,BinomialDistributions,RandomVariablesandExpectedValue,ConditionalProbability2,BinomialDistributions2,RandomVariables,PermutationsvsCombinations,TransformationofRandomVariables,RandomVariables2,ProbabilityReview,ConditionalProbability} from "./Preview"
 

@@ -6,17 +6,19 @@ function Folder({title,img,body,link,target}){
   return(
     
     <div className='card-container'>
-        <img src={img} class="card_img"/>
+      <Link to={link}>
+
+      <img src={img} class="card_img"/>
         <div className="card-content">
             <h3>{title}</h3>
         </div>
         <div className="btn">
           <button>
-            <Link to={link}>
             <span>{body}</span>
-            </Link>
           </button>
         </div>
+
+      </Link>
     </div>
 
   )

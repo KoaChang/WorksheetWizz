@@ -46,10 +46,10 @@
     transform:scale(1.2);
 }
 
-.btn button:hover a{
+
+.card-container:hover button{
     text-transform:uppercase;
     color:aqua;
     text-decoration: none;
     font-weight: bold;
-
 }

@@ -27,7 +27,7 @@ const Business = () =>  (
         provide the worksheets.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the proper worksheet material, it is proven that you will
+        With appropriate worksheet material, it is proven that you will
         drastically improve your success in school. Practice makes
         perfect, so keep practicing!
       </p>

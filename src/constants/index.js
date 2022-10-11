@@ -35,7 +35,7 @@ export const features = [
     icon: send,
     title: "Growth",
     content:
-    "Over 1000 worksheets and growing of depending on our users needs.",
+    "Over 1000 worksheets and growing depending on our users needs.",
   },
 ];
 
@@ -43,7 +43,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "I created this website to follow my vision of making an impact on the education sector. Children are the future of our society so it is prudent that we set them up for success. Nowadays with the power of the internet, students can take advantage of the various resources that can assist their learning. This is only a small project that hopes to help in the huge industry that is education. I challenge you to contribute to this cause as well.",
+      "WorksheetWizz was created following my vision of making a positive impact in the learning curve for students. Children are the future of our society so it is imperative that we set them up for success. There has never been another time in history where the ability to exchange information and knowledge has been so easy. It wasn’t that long ago that news took weeks to get around town simply because it had to travel by horse. Our generation is primed with the opportunity to do something great. I challenge you to contribute as well.",
     name: "Koa Lanakila Chang",
     title: "Founder & Leader",
     img: people01,

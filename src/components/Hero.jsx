@@ -21,8 +21,8 @@ const Hero = () => {
           Resource.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          WorksheetWizz is made to find all the best worksheets for your favorite science or 
-          math subjects. We make it easy at accessible to all students.
+          WorksheetWizz is made to find all the best worksheets for a wide variety of subjects. 
+          WorksheetWizz makes it easy and accessible to all students.
         </p>
       </div>
 

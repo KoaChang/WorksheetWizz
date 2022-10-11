@@ -92,6 +92,9 @@ import UnitCircleF from './Unit Circle Intro.jpg'
 import DoubleHalfAngleIdentities from './Double Half Angle Identities.jpg'
 import TrigWordProblems from './Trig Word Problems.jpg'
 import DegreestoRadians from './Degrees to Radians.jpg'
+import QuadraticSystemsGraphically from './Quadratic Systems Graphically.jpg'
+import QuadraticInequalities from './Quadratic Inequalities.jpg'
+import EquationsandInequalitiesGraphicallyReview from './Equations and Inequalities Graphically Review.jpg'
 
 
 
@@ -110,7 +113,7 @@ export{
     QuadraticSystemsReview,ParentFunctions,ParentFunctions2,TransformationWorksheet2,TransformationsWorksheet3,TransformingFunctionsWorksheet,
     TransformationsReview,TransformationsofGraphs,TrigIdentities,TrigIdentities2,TrigIdentities3,TrigEquations,TrigEquations2,TrigEquations3,AngleSumandDifferenceIdentities,
     InverseTrigW,GraphingTrigFunctions,GraphingTrigFunctions2,GraphingTrigIntro,ProducttoSumIdentities,TrigReview,UnitCircle,UnitCircleF,DoubleHalfAngleIdentities,
-    TrigWordProblems,DegreestoRadians
+    TrigWordProblems,DegreestoRadians,QuadraticInequalities,QuadraticSystemsGraphically,EquationsandInequalitiesGraphicallyReview
 
 
 

@@ -25,7 +25,7 @@ const Algebra2 = () => (
             <Folder title='Rational Exponents' img={folder} body='Open Folder' link='./rationalexponents' target=''/>
             <Folder title='Radical Functiopns'  img={folder} body='Open Folder' link='./radicalfunctions' target=''/>
             <Folder title='Transformation of Functions'  img={folder} body='Open Folder' link='./transformationsfunctions' target=''/>
-            <Folder title='Solving Equations'  img={folder} body='Open Folder' link='./solvingequations' target=''/>
+            <Folder title='Solving Equations and Inequalities'  img={folder} body='Open Folder' link='./solvingequations' target=''/>
             <Folder title='Piecewise Functions'  img={folder} body="Open Folder" link='./piecewise' target=''/>
             <Folder title='Greatest Integer Function'  img={folder} body="Open Folder" link='./greatestinteger' target=''/>
             <Folder title='Trigonometry' img={folder} body="Open Folder" link='./trigonometry' target=''/>

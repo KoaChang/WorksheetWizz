@@ -1,10 +1,10 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {AccumationFunctionsFRQ,ImplicitDifferentiationFRQ,ReimannSumsFRQ,RelatedRatesFRQ,AreasofVolumesFRQ,RateofChangeFRQ,ParticleMotionFRQ,ChartsofFFRQ,FunctionsFRQ,AnalyzingGraphsofFFRQ} from "./Preview"
 import { IntegrationAccumulation } from ".";
-
+import {Link} from 'react-router-dom'
 
 const FRQAB = () => (
 
@@ -17,6 +17,12 @@ const FRQAB = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/calculus1'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='Accumulation Functions FRQ'     img={AccumationFunctionsFRQ} body='Download PDF' link='' target='_blank'/>      <File title='Analyzing Graphs of F FRQ' img={AnalyzingGraphsofFFRQ} body='Download PDF' link='https://drive.google.com/file/d/1jV7ehGQ9W_LIqgSNju49NI2C8mRSdNae/view?usp=sharing' target='_blank'/>

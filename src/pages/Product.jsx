@@ -1,6 +1,7 @@
 import styles from "../style";
-import {MenuBar,Folder} from '../components';
+import {MenuBar,Folder,Back} from '../components';
 import {pdf,folder,folder2} from '../assets'
+import { Link } from 'react-router-dom';
 import "./Product.css"
 
 
@@ -12,10 +13,17 @@ const Product = () => (
                 <div className={`${styles.boxWidth}`}>
                     <MenuBar />
                 </div>
+                
         </div>
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to='/'>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <Folder title='Pre-Algebra'  img={folder} body='Open Folder' link='./prealgebra'/>

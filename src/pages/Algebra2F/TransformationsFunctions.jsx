@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import { ParentFunctions, ParentFunctions2, TransformationsofGraphs, TransformationsReview, TransformationsWorksheet3, TransformationWorksheet2, TransformingFunctionsWorksheet } from "./Preview";
 // import {ParentFunctions,TransformationsofGraphs,TransformationsReview,ParentFunctions2,TransformationWorksheet2,TransformationsWorksheet3,TransformingFunctionsWorksheet} from "./Preview"
 
@@ -18,6 +19,12 @@ const TransformationsFunctions = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra2'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
 

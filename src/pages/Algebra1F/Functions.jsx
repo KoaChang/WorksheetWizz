@@ -1,8 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
-
+import {Link} from 'react-router-dom'
 import {AverageRateofChange,AverageRateofChange2,DiscreteRelations,DomainandRange,DomainRangeWordProblems,
 EvaluatingFunctions,FunctionNotation,FunctionOperations,FunctionsReview,FunctionsTest,FunctionsTest2,
 IdentifyingFunctions,IntervalNotation,IntervalNotation2,IntervalsofIncreaseDecrease} from './Preview'
@@ -18,6 +18,12 @@ const Functions = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra1'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
 

@@ -1,9 +1,9 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {InequalitiesWordProblems,InequalitiesWordProblems2,GraphingInequalities,SystemsofInequalities,InequalitiesReview} from './Preview'
-
+import {Link} from 'react-router-dom'
 
 const InequalitySystems = () => (
 
@@ -16,6 +16,12 @@ const InequalitySystems = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra1'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
         <File title='Graphing Inequalities' img={GraphingInequalities} link='https://drive.google.com/file/d/1B6M6zZByHD3K1D0XHL3w20hKV2dFAVut/view?usp=sharing' target='_blank' body = 'Download PDF' />

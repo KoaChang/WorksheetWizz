@@ -35,7 +35,7 @@ export const features = [
     icon: send,
     title: "Growth",
     content:
-    "Over 1000 worksheets and growing depending on our users needs.",
+    "Over 3000 worksheets and growing depending on our users needs.",
   },
 ];
 

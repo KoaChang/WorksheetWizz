@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import {DecimalsPlaceValue,Rouding,AddingDecimals,DecimalMatchingPlaceValue,ExpandedFormPlaceValue,StandardFormPlaceValue,MissingPlaceValue,DecimalWordProblems,PlaceValueChart,OperationswithDecimalsReview,MultiplyingDecimals,DecimalsReview,SubtractingDecimals,Rounding2,WordNamesPlaceValue} from "./Preview"
 
 
@@ -16,6 +17,12 @@ const Decimals = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/prealgebra'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
 

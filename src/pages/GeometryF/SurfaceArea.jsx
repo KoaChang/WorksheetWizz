@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import {SurfaceAreaF,VolumesofSolids,AreasSurfaceAreasVolumes,SurfaceAreaandVolumesReivew,RatiosofSimilarSolids2,RatiosofSimilarSolids} from "./Preview"
 
 const SurfaceArea = () => (
@@ -15,6 +16,12 @@ const SurfaceArea = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/geometry'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
 <File title='Areas, Surface Areas, Volumes' img={AreasSurfaceAreasVolumes} link='https://drive.google.com/file/d/1iUkBkax7WtJXpWYSbCMr4lYJJMKy3zET/view?usp=sharing' target='_blank' body = 'Download PDF' />

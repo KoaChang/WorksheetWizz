@@ -1,7 +1,8 @@
 import styles from "../style";
-import {MenuBar,Folder} from '../components';
+import {MenuBar,Folder,Back} from '../components';
 import {pdf,folder,folder2} from '../assets'
 import "./Product.css"
+import {Link} from 'react-router-dom'
 
 
 
@@ -16,6 +17,12 @@ const PreCalculus = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to='/product'>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <Folder title='Inverse Functions'  img={folder} body='Open Folder' link='./inverse' target=''/>

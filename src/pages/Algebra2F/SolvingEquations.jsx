@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import { QuadraticSystems, QuadraticSystems2, QuadraticSystems3, QuadraticSystemsReview, SquareRootEquations, SquareRootEquations2, SquareRootEquations3,QuadraticInequalities,QuadraticSystemsGraphically,EquationsandInequalitiesGraphicallyReview } from "./Preview";
 // import {QuadraticSystems,SquareRootEquations2,SquareRootEquations3,SquareRootEquations,QuadraticSystemsReview,QuadraticSystems3,QuadraticSystems2} from "./Preview"
 
@@ -18,6 +19,12 @@ const SolvingEquations = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra2'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='Square Root Equations'     img={SquareRootEquations} body='Download PDF' link='https://drive.google.com/file/d/1zkf1BpmwErWnjqQqpupiyxNllmTpxEYZ/view?usp=sharing' target='_blank'/>

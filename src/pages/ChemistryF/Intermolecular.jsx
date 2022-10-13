@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import {IdentifyingIntermolecularForces,TypesofIntermolecularForces,IntermolecularForcesReview} from "./Preview"
 
 const Intermolecular = () => (
@@ -15,6 +16,12 @@ const Intermolecular = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/chemistry'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
         <File title='Identifying Intermolecular Forces' img={IdentifyingIntermolecularForces} link='https://drive.google.com/file/d/1cMcnhfHH2k0ilw4Mi6-UbIZwwnc71NRx/view?usp=sharing' target='_blank' body = 'Download PDF' />

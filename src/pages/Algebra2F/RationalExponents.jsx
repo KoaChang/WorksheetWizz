@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import { RadicalsandRationalExponents, RationalExponents_RadicalsReview, SimplifyingRationalExponents } from "./Preview";
 // import {RationalExponents_RadicalsReview,RadicalsandRationalExponents,SimplifyingRationalExponents} from "./Preview"
 
@@ -18,6 +19,12 @@ const RationalExponents = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra2'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='Rational Exponents'    img={RadicalsandRationalExponents} body='Download PDF' link='https://drive.google.com/file/d/1pu4Wd0fXe072_eDZ1jeY_NHOgndcft2j/view?usp=sharing' target='_blank'/>

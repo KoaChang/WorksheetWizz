@@ -12,6 +12,7 @@ import SearchBar from "./SearchBar";
 import Stats from "./Stats";
 import MenuBar from "./MenuBar";
 import Folder from "./Folder";
+import Back from './Back';
 
 export {
   About,
@@ -27,5 +28,6 @@ export {
   SearchBar, 
   Stats,
   MenuBar,
-  Folder
+  Folder,
+  Back
 };

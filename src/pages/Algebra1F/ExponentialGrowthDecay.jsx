@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import {DistinguishingGrowth,ExponentialFunctionsReview,GrowthandDecay,GrowthandDecay2,GrowthDecayWordProblems,LinearvsExponential,LinearvsExponential2,LinearQuadraticExponentialTables,LinearQuadraticExponentialTables2} from './Preview'
 
 const ExponentialGrowthDecay = () => (
@@ -15,6 +16,12 @@ const ExponentialGrowthDecay = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra1'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='Distinguishing Type of Growth'    img={DistinguishingGrowth} body='Download PDF' link='https://drive.google.com/file/d/16pP7FB-rLlmyK7vqZLKF5r8BS6aS_xMF/view?usp=sharing' target='_blank'/>

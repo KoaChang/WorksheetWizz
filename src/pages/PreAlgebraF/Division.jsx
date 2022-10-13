@@ -1,7 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
+import {Link} from 'react-router-dom'
 import {TwoDigitDivsionRemainder,MixedWordProblems2,DivisionwithRemainder,FourDigitDivision,MixedWordProblems,FourDigitDivisionRemainder,MentalDivision,ThreeDigitDivisionRemainder,ThreeDigitDivision,DivisionWordProblems,TwoDigitDivision} from "./Preview"
 
 
@@ -16,6 +17,12 @@ const Division = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/prealgebra'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
         <File title='Two Digit Divsion Remainder' img={TwoDigitDivsionRemainder} link='https://drive.google.com/file/d/1WTigIXYwFfbkTQeXwvH2laIxkzKmKeQ4/view?usp=sharing' target='_blank' body = 'Downlaod PDF' />

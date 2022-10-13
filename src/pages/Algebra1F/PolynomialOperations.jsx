@@ -1,9 +1,9 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {MultiplyingPolynomials3,MultiplyingPolynomials2,MultiplyingBinomials,MultiplyingPolynomials,AddingSubtractingPolynomials3,AddingSubtractingPolynomials2,AddingSubtractingPolynomials,PolynomialOperationsReview,MultiplyingMonomials} from "./Preview"
-
+import {Link} from 'react-router-dom'
 
 const PolynomialOperations = () => (
 
@@ -16,6 +16,12 @@ const PolynomialOperations = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra1'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='Adding and Subtracting Polynomials'       img={AddingSubtractingPolynomials} body='Download PDF' link='https://drive.google.com/file/d/18daw1ICLi1E9MtmyReW84EPkjNWo4UvW/view?usp=sharing' target='_blank'/>

@@ -1,6 +1,7 @@
 import styles from "../style";
-import {MenuBar,File} from '../components';
+import {MenuBar,File,Back} from '../components';
 import "./Product.css"
+import {Link} from 'react-router-dom'
 
 import {October2021SAT,SATPracticeTest9,March2019SAT,SATPracticeTest8,April2022SAT,October2020SAT,May2021InternationalSAT,May2019InternationalSAT,April2021SAT,March2020SAT,SATPracticeTest10,October2019SAT,March2021SAT,May2021USSAT,SATPracticeTest6,May2022USSATQAS,SATPracticeTest7,SATPracticeTest5,May2019USSAT,March2022SAT,SATPracticeTest1,SATPracticeTest3,April2019SAT,May2022InternationalSAT} from '../assets/SATPreview'
 
@@ -15,6 +16,12 @@ const SAT = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='SAT Practice Test 1' img={SATPracticeTest1} body='Download PDF' link='https://drive.google.com/file/d/1xphyZTI3fORWNXolzuoZHDu02lPTafD_/view?usp=sharing' target='_blank'/>

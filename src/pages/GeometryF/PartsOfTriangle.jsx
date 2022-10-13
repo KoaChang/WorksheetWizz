@@ -1,8 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
-
+import {Link} from 'react-router-dom'
 import {Medians,AngleBisectors,PerpendicularBisectors,Altitudes,PartsofaTriangle,Euler_sLine,PartsofaTriangle2,PerpendicularBisectors2} from "./Preview"
 
 const PartsOfTriangle = () => (
@@ -16,6 +16,12 @@ const PartsOfTriangle = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/geometry'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
        

@@ -1,8 +1,8 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
-
+import {Link} from 'react-router-dom'
 import {ClassifyingIonicorCovalent,NomenclatureWorksheet1and2,NomenclatureWorksheet3,PropertiesofIonicCompounds,NomenclatureWorksheet4,CovalentCompounds} from "./Preview"
 
 const MolecularIonic = () => (
@@ -16,6 +16,12 @@ const MolecularIonic = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/chemistry'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='Classifying Ionic and Covalent' img={ClassifyingIonicorCovalent} body='Download PDF' link='https://drive.google.com/file/d/1Cc0swqdJVie1kM4c8tGIhCjPRn3X1_Gt/view?usp=sharing' target='_blank'/>

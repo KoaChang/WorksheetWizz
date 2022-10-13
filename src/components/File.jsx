@@ -4,11 +4,8 @@ import './File.css'
 function File({title,img,body,link,target}){
   return(
 
-    
-   
-
       <div className='card-container'>
-        <a href={link} target={target}>{body}
+      <a href={link} target={target}>
               <img src={img} class="card_img"/>
               <div className="card-content">
                   <h3>{title}</h3>

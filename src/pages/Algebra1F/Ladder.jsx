@@ -1,8 +1,9 @@
 import styles from "../../style";
-import {MenuBar,File} from '../../components';
+import {MenuBar,File,Back} from '../../components';
 import {pdf,folder,folder2} from '../../assets'
 import "../Product.css"
 import {XsonBothSides,DifficultQuadratics,CombiningLikeTerms,XYAddSub,OneStepEquations,XYSub,TwoStepEquations,XYAdd,XYSubb,DistributiveProperty,XYMult,EasyQuadratics} from "./Preview"
+import {Link} from 'react-router-dom'
 
 const Ladder = () => (
 
@@ -15,6 +16,12 @@ const Ladder = () => (
         
         <br />
         <br />
+
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
+            <Link to={'/product/algebra1'}>
+                <Back />
+            </Link>
+        </div>
 
         <div className='cards'>
             <File title='One-Step Equations'    img={OneStepEquations} body='Download PDF' link='https://drive.google.com/file/d/1Zp8M8T_13GaQ6-T0Y0eEKoSrSoA3FGwF/view?usp=sharing' target='_blank'/>

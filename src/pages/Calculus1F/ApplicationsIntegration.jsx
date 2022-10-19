@@ -17,7 +17,7 @@ const ApplicationsIntegration = () => (
         <br />
         <br />
 
-        <div className='flex justify-start items-center relative left-12 bottom-10'>
+        <div className='flex justify-start items-center xxs:px-4 xs:px-6 ss:px-6 sm:px-12 lg:px-12 md:px-12 relative bottom-10'>
             <Link to={'/product/calculus1'}>
                 <Back />
             </Link>

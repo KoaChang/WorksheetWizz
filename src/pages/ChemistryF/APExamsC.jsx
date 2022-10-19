@@ -26,7 +26,7 @@ const APExamsC = () => (
         <div className='cards'>
 
         <File title='AP Chemistry 2018 FRQ' img={APChemistry2018FRQ} link='https://drive.google.com/file/d/1bzeodscToeGClk-_44MaRnQ_GaV_hQA2/view?usp=sharing' target='_blank' body = 'Download PDF' />
-<File title='AP Chemistry Practice Exam' img={APChemistryPracticeExam} link='https://drive.google.com/file/d/1Ig1ztza_UeG7niyYTFB64V6IjvLgxmTZ/view?usp=sharing' target='_blank' body = 'Download PDF' /> </div>
+        <File title='AP Chemistry Practice Exam' img={APChemistryPracticeExam} link='https://drive.google.com/file/d/1Ig1ztza_UeG7niyYTFB64V6IjvLgxmTZ/view?usp=sharing' target='_blank' body = 'Download PDF' /> </div>
 
     </div>
     
